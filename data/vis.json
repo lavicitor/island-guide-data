@@ -2,7 +2,7 @@
   "meta": {
     "island": "Vis",
     "slug": "vis",
-    "generated_at": "2026-06-16T20:03:14Z",
+    "generated_at": "2026-06-16T21:13:59Z",
     "data_quality": {
       "osm_poi_count": 176,
       "ferry_routes_found": 1,
@@ -11,7 +11,7 @@
     }
   },
   "identity": {
-    "name": "Vis",
+    "name": "Vis (island)",
     "name_hr": "Vis",
     "region": "Split-Dalmatia County",
     "coordinates": {
@@ -20,8 +20,8 @@
     },
     "area_km2": 90.3,
     "population": null,
-    "car_free": true,
-    "description": "Vis je istureni hrvatski otok u Jadranskom moru. Od kopna je udaljen 45 km.",
+    "car_free": false,
+    "description": "Vis is a Croatian island in the Adriatic Sea. Before the end of World War I, the island was held by the Liburnians, the Republic of Venice, the Napoleonic Kingdom of Italy, and the Austrian Empire. During the 19th century, the sea to the north of Vis was the site of two naval battles. In 1920, the island was ceded to the Kingdom of Yugoslavia as part of the Treaty of Rapallo. During World War II, the island was the headquarters of the Yugoslav Partisan movement.",
     "best_for": []
   },
   "getting_there": {

@@ -1,18 +1,18 @@
 {
   "meta": {
-    "island": "Korčula",
+    "island": "Korcula",
     "slug": "korcula",
-    "generated_at": "2026-06-16T20:02:38Z",
+    "generated_at": "2026-06-16T21:15:33Z",
     "data_quality": {
-      "osm_poi_count": 324,
-      "ferry_routes_found": 7,
+      "osm_poi_count": 215,
+      "ferry_routes_found": 0,
       "weather_months_complete": 12,
-      "coverage_warning": null
+      "coverage_warning": "Ferry: No ferry data found from any source"
     }
   },
   "identity": {
     "name": "Korčula",
-    "name_hr": "Korčula",
+    "name_hr": "Korcula",
     "region": "Dubrovnik-Neretva County",
     "coordinates": {
       "lat": 42.95,
@@ -20,90 +20,12 @@
     },
     "area_km2": 279.0,
     "population": null,
-    "car_free": true,
+    "car_free": false,
     "description": "Korčula is a Croatian island in the Adriatic Sea. It has an area of 279 km2 (108 sq mi), is 46.8 km (29.1 mi) long and on average 7.8 km (4.8 mi) wide, and lies just off the Dalmatian coast. Its 15,522 inhabitants (2011) make it the second most populous Adriatic island after Krk. The population are almost entirely ethnic Croats (95.74%). The island is twinned with Rothesay in Scotland.",
     "best_for": []
   },
   "getting_there": {
-    "ferry_routes": [
-      {
-        "origin": "Split -Vela Luka (Korčula)",
-        "destination": "Korčula",
-        "operator": "Jadrolinija",
-        "duration_minutes": 60,
-        "frequency_peak": null,
-        "frequency_low": null,
-        "bikes_allowed": true,
-        "cars_allowed": null,
-        "booking_url": "https://www.jadrolinija.hr/en/travel/split_-vela_luka_korcula_-_ubli_lastovo"
-      },
-      {
-        "origin": "Orebić",
-        "destination": "Korčula",
-        "operator": "Jadrolinija",
-        "duration_minutes": null,
-        "frequency_peak": null,
-        "frequency_low": null,
-        "bikes_allowed": true,
-        "cars_allowed": null,
-        "booking_url": "https://www.jadrolinija.hr/en/travel/orebic_-_domince_korcula"
-      },
-      {
-        "origin": "Krilo Nomadic — Korčula",
-        "destination": "Korčula",
-        "operator": "Krilo Kapetan Luka",
-        "duration_minutes": null,
-        "frequency_peak": null,
-        "frequency_low": null,
-        "bikes_allowed": false,
-        "cars_allowed": false,
-        "booking_url": "https://www.krilo.hr/en/news/captain-cancel-1781634542045"
-      },
-      {
-        "origin": "Krilo Nomadic — Split",
-        "destination": "Korčula",
-        "operator": "Krilo Kapetan Luka",
-        "duration_minutes": null,
-        "frequency_peak": null,
-        "frequency_low": null,
-        "bikes_allowed": false,
-        "cars_allowed": false,
-        "booking_url": "https://www.krilo.hr/en/news/captain-cancel-1781634536667"
-      },
-      {
-        "origin": "17.06.2026.Krilo Nomadic — Korčula",
-        "destination": "Korčula",
-        "operator": "Krilo Kapetan Luka",
-        "duration_minutes": null,
-        "frequency_peak": null,
-        "frequency_low": null,
-        "bikes_allowed": false,
-        "cars_allowed": false,
-        "booking_url": "https://www.krilo.hr/en/news/captain-cancel-1781634542045"
-      },
-      {
-        "origin": "17.06.2026.Krilo Nomadic — Split",
-        "destination": "Korčula",
-        "operator": "Krilo Kapetan Luka",
-        "duration_minutes": null,
-        "frequency_peak": null,
-        "frequency_low": null,
-        "bikes_allowed": false,
-        "cars_allowed": false,
-        "booking_url": "https://www.krilo.hr/en/news/captain-cancel-1781634536667"
-      },
-      {
-        "origin": "SPLIT",
-        "destination": "Korčula",
-        "operator": "Krilo Kapetan Luka",
-        "duration_minutes": null,
-        "frequency_peak": null,
-        "frequency_low": null,
-        "bikes_allowed": false,
-        "cars_allowed": false,
-        "booking_url": "https://www.krilo.hr/en/schedule"
-      }
-    ]
+    "ferry_routes": []
   },
   "weather": {
     "monthly": [
@@ -259,105 +181,10 @@
         "notes": null
       },
       {
-        "name": "Plaža Lučica",
-        "coordinates": {
-          "lat": 42.9441782,
-          "lon": 16.6708434
-        },
-        "osm_tags": {
-          "natural": "beach"
-        },
-        "notes": null
-      },
-      {
-        "name": null,
-        "coordinates": {
-          "lat": 42.9228135,
-          "lon": 17.1716588
-        },
-        "osm_tags": {
-          "natural": "beach"
-        },
-        "notes": null
-      },
-      {
-        "name": "Bilin Žal",
-        "coordinates": {
-          "lat": 42.92224,
-          "lon": 17.1844278
-        },
-        "osm_tags": {
-          "natural": "beach",
-          "surface": "sand"
-        },
-        "notes": null
-      },
-      {
-        "name": "Pržina",
-        "coordinates": {
-          "lat": 42.9178904,
-          "lon": 17.1865099
-        },
-        "osm_tags": {
-          "alt_name": "Vela Pržina",
-          "natural": "beach",
-          "surface": "sand",
-          "wikidata": "Q97445872"
-        },
-        "notes": null
-      },
-      {
-        "name": null,
-        "coordinates": {
-          "lat": 42.924955,
-          "lon": 17.1733451
-        },
-        "osm_tags": {
-          "natural": "beach",
-          "surface": "pebblestone"
-        },
-        "notes": null
-      },
-      {
-        "name": null,
-        "coordinates": {
-          "lat": 42.9240482,
-          "lon": 17.177032
-        },
-        "osm_tags": {
-          "natural": "beach",
-          "surface": "sand"
-        },
-        "notes": null
-      },
-      {
         "name": null,
         "coordinates": {
           "lat": 42.9690743,
           "lon": 17.0622289
-        },
-        "osm_tags": {
-          "natural": "beach"
-        },
-        "notes": null
-      },
-      {
-        "name": "Aminess Vival Port9 beach",
-        "coordinates": {
-          "lat": 42.9526195,
-          "lon": 17.1443489
-        },
-        "osm_tags": {
-          "natural": "beach",
-          "surface": "gravel"
-        },
-        "notes": null
-      },
-      {
-        "name": "Gradska plaža Banje",
-        "coordinates": {
-          "lat": 42.9568188,
-          "lon": 17.1370633
         },
         "osm_tags": {
           "natural": "beach"
@@ -482,16 +309,13 @@
         "notes": null
       },
       {
-        "name": "Pavija Luka",
+        "name": null,
         "coordinates": {
-          "lat": 42.9124845,
-          "lon": 17.1036857
+          "lat": 43.0025196,
+          "lon": 17.0385567
         },
         "osm_tags": {
-          "lifeguard": "no",
           "natural": "beach",
-          "source": "survey;local knowledge;aerial imagery",
-          "supervised": "yes",
           "surface": "pebblestone"
         },
         "notes": null
@@ -533,47 +357,11 @@
       {
         "name": null,
         "coordinates": {
-          "lat": 42.9882986,
-          "lon": 16.6666948
-        },
-        "osm_tags": {
-          "natural": "beach",
-          "surface": "sand"
-        },
-        "notes": null
-      },
-      {
-        "name": null,
-        "coordinates": {
           "lat": 42.9777598,
           "lon": 16.7455374
         },
         "osm_tags": {
           "natural": "beach"
-        },
-        "notes": null
-      },
-      {
-        "name": null,
-        "coordinates": {
-          "lat": 42.9425446,
-          "lon": 16.6691189
-        },
-        "osm_tags": {
-          "natural": "beach",
-          "surface": "sand"
-        },
-        "notes": null
-      },
-      {
-        "name": null,
-        "coordinates": {
-          "lat": 42.9691241,
-          "lon": 16.6877558
-        },
-        "osm_tags": {
-          "natural": "beach",
-          "surface": "sand"
         },
         "notes": null
       },
@@ -593,17 +381,6 @@
         "coordinates": {
           "lat": 42.8992821,
           "lon": 16.8821989
-        },
-        "osm_tags": {
-          "natural": "beach"
-        },
-        "notes": null
-      },
-      {
-        "name": null,
-        "coordinates": {
-          "lat": 42.9242905,
-          "lon": 16.6842527
         },
         "osm_tags": {
           "natural": "beach"
@@ -735,29 +512,276 @@
       {
         "name": null,
         "coordinates": {
-          "lat": 42.9608452,
-          "lon": 17.1344169
+          "lat": 43.0241114,
+          "lon": 17.034781
         },
         "osm_tags": {
           "natural": "beach",
-          "surface": "gravel"
+          "surface": "pebblestone"
         },
         "notes": null
       },
       {
-        "name": "Lenga",
+        "name": null,
         "coordinates": {
-          "lat": 42.9210296,
-          "lon": 17.1974699
+          "lat": 43.0165539,
+          "lon": 17.0234736
         },
         "osm_tags": {
-          "access": "yes",
-          "fee": "no",
           "natural": "beach",
-          "nudism": "designated",
-          "supervised": "no",
-          "surface": "rock",
-          "wheelchair": "no"
+          "surface": "pebblestone"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0458084,
+          "lon": 17.0109383
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "pebblestone"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0412516,
+          "lon": 17.0158113
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "pebblestone"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0343496,
+          "lon": 17.0132105
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "pebblestone"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0421468,
+          "lon": 17.013357
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "pebblestone"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0418643,
+          "lon": 17.014595
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "pebblestone"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 42.9862398,
+          "lon": 17.0660728
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "pebblestone"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0359195,
+          "lon": 17.0154711
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "pebblestone"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0369743,
+          "lon": 17.0180919
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "pebblestone"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0400132,
+          "lon": 17.0140577
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "pebblestone"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0421329,
+          "lon": 17.0134575
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "pebblestone"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0423977,
+          "lon": 17.0115269
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "pebblestone"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0383968,
+          "lon": 17.0330669
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "pebblestone"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0193713,
+          "lon": 17.0766883
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "pebblestone"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0195423,
+          "lon": 17.0846509
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "pebblestone"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0203552,
+          "lon": 17.0885453
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "pebblestone"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0363984,
+          "lon": 17.0398461
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "pebblestone"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 42.9901185,
+          "lon": 17.0605204
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "pebblestone"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0074022,
+          "lon": 17.0072648
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "pebblestone"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 42.9836157,
+          "lon": 17.0733248
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "pebblestone"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 42.9851406,
+          "lon": 17.0662944
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "pebblestone"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0310727,
+          "lon": 17.0230246
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "sand"
         },
         "notes": null
       }
@@ -882,40 +906,6 @@
         "notes": null
       },
       {
-        "name": "Pizzeria Torkul",
-        "coordinates": {
-          "lat": 42.923864,
-          "lon": 17.1764629
-        },
-        "osm_tags": {
-          "amenity": "restaurant",
-          "opening_hours": "Mo-Su 16:00-23:00"
-        },
-        "notes": null
-      },
-      {
-        "name": "Prvi Žal",
-        "coordinates": {
-          "lat": 42.924753,
-          "lon": 17.1731785
-        },
-        "osm_tags": {
-          "amenity": "bar"
-        },
-        "notes": null
-      },
-      {
-        "name": null,
-        "coordinates": {
-          "lat": 42.924564,
-          "lon": 17.1734085
-        },
-        "osm_tags": {
-          "amenity": "restaurant"
-        },
-        "notes": null
-      },
-      {
         "name": "Coloseum",
         "coordinates": {
           "lat": 42.9397305,
@@ -938,76 +928,6 @@
         "notes": null
       },
       {
-        "name": "Tavern Dušica",
-        "coordinates": {
-          "lat": 42.9254835,
-          "lon": 17.1676354
-        },
-        "osm_tags": {
-          "amenity": "restaurant"
-        },
-        "notes": null
-      },
-      {
-        "name": "Agroturizam Lovrić",
-        "coordinates": {
-          "lat": 42.926004,
-          "lon": 17.1676381
-        },
-        "osm_tags": {
-          "amenity": "restaurant"
-        },
-        "notes": null
-      },
-      {
-        "name": "Agroturizam Zure",
-        "coordinates": {
-          "lat": 42.9228812,
-          "lon": 17.1664149
-        },
-        "osm_tags": {
-          "amenity": "restaurant"
-        },
-        "notes": null
-      },
-      {
-        "name": "Vinary & Degustation Cebalo",
-        "coordinates": {
-          "lat": 42.9197437,
-          "lon": 17.1777462
-        },
-        "osm_tags": {
-          "amenity": "bar"
-        },
-        "notes": null
-      },
-      {
-        "name": "Vinary & Degustation Popic",
-        "coordinates": {
-          "lat": 42.9197467,
-          "lon": 17.1775311
-        },
-        "osm_tags": {
-          "addr:postcode": "20263",
-          "amenity": "bar",
-          "opening_hours": "Mo-Sa 14:00-19:00"
-        },
-        "notes": null
-      },
-      {
-        "name": "Family Restaurant - Konoba FERAL",
-        "coordinates": {
-          "lat": 42.9241282,
-          "lon": 17.1775874
-        },
-        "osm_tags": {
-          "amenity": "restaurant",
-          "cuisine": "regional",
-          "wheelchair": "no"
-        },
-        "notes": null
-      },
-      {
         "name": "Konoba Ribar",
         "coordinates": {
           "lat": 42.9609476,
@@ -1015,50 +935,6 @@
         },
         "osm_tags": {
           "amenity": "restaurant"
-        },
-        "notes": null
-      },
-      {
-        "name": "Gajeta",
-        "coordinates": {
-          "lat": 42.9612048,
-          "lon": 17.1368118
-        },
-        "osm_tags": {
-          "amenity": "restaurant"
-        },
-        "notes": null
-      },
-      {
-        "name": "Filippi",
-        "coordinates": {
-          "lat": 42.9616608,
-          "lon": 17.1369605
-        },
-        "osm_tags": {
-          "amenity": "cafe"
-        },
-        "notes": null
-      },
-      {
-        "name": "Kanavelić",
-        "coordinates": {
-          "lat": 42.9624636,
-          "lon": 17.1357986
-        },
-        "osm_tags": {
-          "amenity": "restaurant"
-        },
-        "notes": null
-      },
-      {
-        "name": "Massimo",
-        "coordinates": {
-          "lat": 42.9626179,
-          "lon": 17.136399
-        },
-        "osm_tags": {
-          "amenity": "bar"
         },
         "notes": null
       },
@@ -1153,74 +1029,10 @@
         "notes": null
       },
       {
-        "name": "Konoba Komin",
-        "coordinates": {
-          "lat": 42.9625923,
-          "lon": 17.1361171
-        },
-        "osm_tags": {
-          "amenity": "restaurant"
-        },
-        "notes": null
-      },
-      {
-        "name": "Adio Mare",
-        "coordinates": {
-          "lat": 42.9620167,
-          "lon": 17.1362327
-        },
-        "osm_tags": {
-          "addr:housenumber": "2",
-          "addr:postcode": "20260",
-          "addr:street": "Marka Pola",
-          "amenity": "restaurant",
-          "cuisine": "croatian",
-          "email": "info@konobaadiomare.hr",
-          "phone": "+38520711253",
-          "website": "https://www.konobaadiomare.hr/"
-        },
-        "notes": null
-      },
-      {
         "name": "Pod Bore",
         "coordinates": {
           "lat": 42.9628604,
           "lon": 16.7173296
-        },
-        "osm_tags": {
-          "amenity": "restaurant"
-        },
-        "notes": null
-      },
-      {
-        "name": "Baric",
-        "coordinates": {
-          "lat": 42.959217,
-          "lon": 17.1096056
-        },
-        "osm_tags": {
-          "amenity": "restaurant",
-          "toilets:wheelchair": "no",
-          "wheelchair": "no"
-        },
-        "notes": null
-      },
-      {
-        "name": null,
-        "coordinates": {
-          "lat": 42.9609298,
-          "lon": 17.106498
-        },
-        "osm_tags": {
-          "amenity": "restaurant"
-        },
-        "notes": null
-      },
-      {
-        "name": "Pizzeria Doris",
-        "coordinates": {
-          "lat": 42.959736,
-          "lon": 17.1352654
         },
         "osm_tags": {
           "amenity": "restaurant"
@@ -1250,392 +1062,6 @@
         },
         "osm_tags": {
           "amenity": "restaurant"
-        },
-        "notes": null
-      },
-      {
-        "name": "Pizzeria Tedeschi",
-        "coordinates": {
-          "lat": 42.9610636,
-          "lon": 17.136751
-        },
-        "osm_tags": {
-          "amenity": "restaurant"
-        },
-        "notes": null
-      },
-      {
-        "name": "Marko Polo",
-        "coordinates": {
-          "lat": 42.9611553,
-          "lon": 17.135966
-        },
-        "osm_tags": {
-          "amenity": "restaurant",
-          "name:etymology:wikidata": "Q6101"
-        },
-        "notes": null
-      },
-      {
-        "name": "Caenazzo",
-        "coordinates": {
-          "lat": 42.9618606,
-          "lon": 17.1360315
-        },
-        "osm_tags": {
-          "amenity": "restaurant",
-          "cuisine": "italian"
-        },
-        "notes": null
-      },
-      {
-        "name": "Konoba Mareta",
-        "coordinates": {
-          "lat": 42.9620643,
-          "lon": 17.1361703
-        },
-        "osm_tags": {
-          "amenity": "restaurant"
-        },
-        "notes": null
-      },
-      {
-        "name": null,
-        "coordinates": {
-          "lat": 42.9574323,
-          "lon": 17.1222121
-        },
-        "osm_tags": {
-          "amenity": "restaurant"
-        },
-        "notes": null
-      },
-      {
-        "name": "Račiška",
-        "coordinates": {
-          "lat": 42.9619825,
-          "lon": 17.1369638
-        },
-        "osm_tags": {
-          "amenity": "restaurant",
-          "operator": "Dalmatian delicacies"
-        },
-        "notes": null
-      },
-      {
-        "name": "Adriatic",
-        "coordinates": {
-          "lat": 42.958732,
-          "lon": 17.1354938
-        },
-        "osm_tags": {
-          "amenity": "restaurant",
-          "operator": "Dalmatian delicacies",
-          "website": "https://abordayachting.hr/restaurant/"
-        },
-        "notes": null
-      },
-      {
-        "name": "U Maje i Tonke",
-        "coordinates": {
-          "lat": 42.9613204,
-          "lon": 17.1350765
-        },
-        "osm_tags": {
-          "amenity": "restaurant",
-          "operator": "Dalmatian delicacies",
-          "phone": "+385(0)99 232 7890",
-          "website": "www.facebook.com/UMajeiTonke"
-        },
-        "notes": null
-      },
-      {
-        "name": "Pizzeria Marinna",
-        "coordinates": {
-          "lat": 42.9617688,
-          "lon": 17.1352311
-        },
-        "osm_tags": {
-          "amenity": "restaurant",
-          "cuisine": "pizza"
-        },
-        "notes": null
-      },
-      {
-        "name": "Pizzeria Tramonto",
-        "coordinates": {
-          "lat": 42.9616898,
-          "lon": 17.1351906
-        },
-        "osm_tags": {
-          "amenity": "restaurant",
-          "operator": "Dalmatian delicacies"
-        },
-        "notes": null
-      },
-      {
-        "name": "Lentinel Local Cuisine",
-        "coordinates": {
-          "lat": 42.9506307,
-          "lon": 17.1409884
-        },
-        "osm_tags": {
-          "addr:city": "Korčula",
-          "addr:housenumber": "1",
-          "addr:postcode": "20260",
-          "addr:street": "Šetalište hrvatskih mornara",
-          "amenity": "restaurant",
-          "cuisine": "regional;fish;bar_and_grill;croatian",
-          "diet:local": "yes",
-          "diet:meat": "yes",
-          "diet:mediterranean": "yes",
-          "diet:seafood": "yes",
-          "operator": "Aminess Vival Port9 Resort",
-          "website": "https://www.tripadvisor.com/Restaurant_Review-g303810-d8560479-Reviews-Konoba_Lanterna-Korcula_Island_Dubrovnik_Neretva_County_Dalmatia.html"
-        },
-        "notes": null
-      },
-      {
-        "name": "Buffet Tramonto",
-        "coordinates": {
-          "lat": 42.9616729,
-          "lon": 17.1352641
-        },
-        "osm_tags": {
-          "addr:city": "Korčula",
-          "addr:housenumber": "12",
-          "addr:postcode": "20260",
-          "addr:street": "Ulica Ismaelis",
-          "amenity": "restaurant",
-          "email": "shije78@gmail.com",
-          "operator": "Dalmatian delicacies",
-          "phone": "+385(0)98 192104"
-        },
-        "notes": null
-      },
-      {
-        "name": "Bistro Arsenal",
-        "coordinates": {
-          "lat": 42.9607909,
-          "lon": 17.1359122
-        },
-        "osm_tags": {
-          "amenity": "restaurant",
-          "operator": "Dalmatian delicacies"
-        },
-        "notes": null
-      },
-      {
-        "name": "Planjak",
-        "coordinates": {
-          "lat": 42.9602076,
-          "lon": 17.1356492
-        },
-        "osm_tags": {
-          "amenity": "restaurant",
-          "email": "marketing@htp-korcula.hr",
-          "fax": "+385(0)20 711202",
-          "operator": "dalmatian",
-          "phone": "+385(0)20 711015",
-          "website": "http://www.korculahotels.com/en/hotels/apartmani-bon-repos.php"
-        },
-        "notes": null
-      },
-      {
-        "name": "Cupido",
-        "coordinates": {
-          "lat": 42.9618741,
-          "lon": 17.1369928
-        },
-        "osm_tags": {
-          "amenity": "restaurant",
-          "operator": "Dalmatian delicacies"
-        },
-        "notes": null
-      },
-      {
-        "name": "Pizzeria PaPe",
-        "coordinates": {
-          "lat": 42.9621753,
-          "lon": 17.1368525
-        },
-        "osm_tags": {
-          "amenity": "restaurant",
-          "opening_hours": "Mo-Su 08:00-01:00",
-          "operator": "pizzeria"
-        },
-        "notes": null
-      },
-      {
-        "name": "Morski konjic",
-        "coordinates": {
-          "lat": 42.9614633,
-          "lon": 17.1368973
-        },
-        "osm_tags": {
-          "amenity": "restaurant",
-          "operator": "Dalmatian delicacies"
-        },
-        "notes": null
-      },
-      {
-        "name": "Marco Polo Mistique",
-        "coordinates": {
-          "lat": 42.9605209,
-          "lon": 17.1364826
-        },
-        "osm_tags": {
-          "amenity": "cafe",
-          "name:etymology:wikidata": "Q6101"
-        },
-        "notes": null
-      },
-      {
-        "name": "Arula",
-        "coordinates": {
-          "lat": 42.9605339,
-          "lon": 17.1348856
-        },
-        "osm_tags": {
-          "amenity": "cafe",
-          "opening_hours": "Mo-Su 07:00-14:00,17:00-23:00"
-        },
-        "notes": null
-      },
-      {
-        "name": "ŽAK",
-        "coordinates": {
-          "lat": 42.9605685,
-          "lon": 17.1353062
-        },
-        "osm_tags": {
-          "amenity": "cafe"
-        },
-        "notes": null
-      },
-      {
-        "name": "Silk",
-        "coordinates": {
-          "lat": 42.9612887,
-          "lon": 17.1368646
-        },
-        "osm_tags": {
-          "amenity": "restaurant",
-          "cuisine": "asian"
-        },
-        "notes": null
-      },
-      {
-        "name": "Marinero",
-        "coordinates": {
-          "lat": 42.9613895,
-          "lon": 17.1365251
-        },
-        "osm_tags": {
-          "amenity": "restaurant",
-          "operator": "Dalmatian delicacies"
-        },
-        "notes": null
-      },
-      {
-        "name": "Marco's",
-        "coordinates": {
-          "lat": 42.9610543,
-          "lon": 17.1358142
-        },
-        "osm_tags": {
-          "amenity": "restaurant"
-        },
-        "notes": null
-      },
-      {
-        "name": "\"Bistro\"",
-        "coordinates": {
-          "lat": 42.9603534,
-          "lon": 17.1348958
-        },
-        "osm_tags": {
-          "amenity": "cafe"
-        },
-        "notes": null
-      },
-      {
-        "name": "Galerija",
-        "coordinates": {
-          "lat": 42.9598123,
-          "lon": 17.1348526
-        },
-        "osm_tags": {
-          "amenity": "cafe"
-        },
-        "notes": null
-      },
-      {
-        "name": "Lešić Dimitri",
-        "coordinates": {
-          "lat": 42.9617076,
-          "lon": 17.1369432
-        },
-        "osm_tags": {
-          "amenity": "bar"
-        },
-        "notes": null
-      },
-      {
-        "name": "Lešić Dimitri",
-        "coordinates": {
-          "lat": 42.9617281,
-          "lon": 17.1369466
-        },
-        "osm_tags": {
-          "addr:city": "Korčula",
-          "addr:housenumber": "1-6",
-          "addr:postcode": "20260",
-          "addr:street": "Don Pavla Pose",
-          "amenity": "restaurant",
-          "capacity": "36",
-          "cuisine": "regional",
-          "delivery": "yes",
-          "smoking": "outside",
-          "stars": "1",
-          "takeaway": "no",
-          "wikidata": "Q88300873"
-        },
-        "notes": null
-      },
-      {
-        "name": "Monika",
-        "coordinates": {
-          "lat": 42.9243836,
-          "lon": 17.1732353
-        },
-        "osm_tags": {
-          "amenity": "cafe",
-          "cuisine": "ice_cream"
-        },
-        "notes": null
-      },
-      {
-        "name": "Mot",
-        "coordinates": {
-          "lat": 42.922589,
-          "lon": 17.1714832
-        },
-        "osm_tags": {
-          "amenity": "cafe",
-          "source": "survey"
-        },
-        "notes": null
-      },
-      {
-        "name": "Kocka",
-        "coordinates": {
-          "lat": 42.9225398,
-          "lon": 17.1717607
-        },
-        "osm_tags": {
-          "amenity": "cafe",
-          "source": "survey"
         },
         "notes": null
       },
@@ -1791,32 +1217,6 @@
         "notes": null
       },
       {
-        "name": "Belin",
-        "coordinates": {
-          "lat": 42.9499897,
-          "lon": 17.1115759
-        },
-        "osm_tags": {
-          "amenity": "restaurant",
-          "cuisine": "regional",
-          "internet_access": "no"
-        },
-        "notes": null
-      },
-      {
-        "name": "Konoba Maslina",
-        "coordinates": {
-          "lat": 42.9409116,
-          "lon": 17.1429611
-        },
-        "osm_tags": {
-          "amenity": "restaurant",
-          "cuisine": "regional",
-          "internet_access": "no"
-        },
-        "notes": null
-      },
-      {
         "name": null,
         "coordinates": {
           "lat": 42.9378054,
@@ -1836,17 +1236,6 @@
         "osm_tags": {
           "amenity": "restaurant",
           "cuisine": "pizza"
-        },
-        "notes": null
-      },
-      {
-        "name": "Capers BAR",
-        "coordinates": {
-          "lat": 42.960778,
-          "lon": 17.1366701
-        },
-        "osm_tags": {
-          "amenity": "bar"
         },
         "notes": null
       },
@@ -2012,18 +1401,6 @@
         "notes": null
       },
       {
-        "name": "Atrij Žrnovo",
-        "coordinates": {
-          "lat": 42.9442606,
-          "lon": 17.109229
-        },
-        "osm_tags": {
-          "amenity": "restaurant",
-          "cuisine": "croatian;steak_house;local;pizza"
-        },
-        "notes": null
-      },
-      {
         "name": "Azzurro",
         "coordinates": {
           "lat": 42.9624006,
@@ -2064,31 +1441,17 @@
         "notes": null
       },
       {
-        "name": "\"Kiwi\" Caffe Bar Slastičarna",
+        "name": "Restoran Gradina",
         "coordinates": {
-          "lat": 42.9599602,
-          "lon": 17.1354082
+          "lat": 43.0232074,
+          "lon": 17.0277607
         },
         "osm_tags": {
-          "addr:housenumber": "16",
-          "addr:street": "Biline",
-          "amenity": "cafe",
-          "cuisine": "ice_cream;cake;smoothie",
-          "opening_hours": "Mo-Su 08:00-00:00",
-          "payment:cash": "only",
-          "phone": "+385 99 801 5100",
-          "website": "https://slasticarna-kiwi.business.site"
-        },
-        "notes": null
-      },
-      {
-        "name": "Deja Vu",
-        "coordinates": {
-          "lat": 42.9585427,
-          "lon": 17.1352482
-        },
-        "osm_tags": {
-          "amenity": "bar"
+          "amenity": "restaurant",
+          "contact:email": "info@pension-gradina.de",
+          "contact:mobile": "+38599672 49 26",
+          "phone": "+38520718-017",
+          "website": "https://www.pansion-gradina.com/de/menue/"
         },
         "notes": null
       },
@@ -2112,161 +1475,25 @@
         "notes": null
       },
       {
-        "name": "KIWI",
+        "name": "Barsa",
         "coordinates": {
-          "lat": 42.9599693,
-          "lon": 17.1354125
-        },
-        "osm_tags": {
-          "amenity": "cafe",
-          "internet_access": "wlan",
-          "name:pl": "KIWI",
-          "opening_hours": "Mo-Fr 08:00-00:00; Sa-Su 09:00-00:00"
-        },
-        "notes": null
-      },
-      {
-        "name": "Kolenda",
-        "coordinates": {
-          "lat": 42.959744,
-          "lon": 17.1346851
-        },
-        "osm_tags": {
-          "amenity": "cafe",
-          "cuisine": "breakfast;croatian;pizza;pasta;sandwich"
-        },
-        "notes": null
-      },
-      {
-        "name": "Pizzeria Leut",
-        "coordinates": {
-          "lat": 42.9601717,
-          "lon": 17.1345248
+          "lat": 43.0234443,
+          "lon": 17.0316878
         },
         "osm_tags": {
           "amenity": "restaurant",
-          "cuisine": "pizza"
+          "cuisine": "seafood;fish",
+          "outdoor_seating": "terrace",
+          "phone": "+385 20 718 057",
+          "website": "http://restaurantbarsa.com/"
         },
         "notes": null
       },
       {
-        "name": "Konoba Marco Polo",
+        "name": "Estravaganca",
         "coordinates": {
-          "lat": 42.961249,
-          "lon": 17.136276
-        },
-        "osm_tags": {
-          "amenity": "restaurant",
-          "cuisine": "balkan;croatian;fish;grill;pasta;regional;seafood",
-          "name:etymology:wikidata": "Q6101"
-        },
-        "notes": null
-      },
-      {
-        "name": "Servantes",
-        "coordinates": {
-          "lat": 42.958788,
-          "lon": 17.1345192
-        },
-        "osm_tags": {
-          "amenity": "cafe",
-          "cuisine": "coffee_shop;cake;sandwich",
-          "internet_access": "wlan"
-        },
-        "notes": null
-      },
-      {
-        "name": "Bistro Gušt",
-        "coordinates": {
-          "lat": 42.9597387,
-          "lon": 17.1351025
-        },
-        "osm_tags": {
-          "amenity": "restaurant",
-          "cuisine": "croatian"
-        },
-        "notes": null
-      },
-      {
-        "name": "Cini Coljac",
-        "coordinates": {
-          "lat": 42.960641,
-          "lon": 17.1365168
-        },
-        "osm_tags": {
-          "amenity": "cafe",
-          "cuisine": "coffee_shop"
-        },
-        "notes": null
-      },
-      {
-        "name": "Bajko",
-        "coordinates": {
-          "lat": 42.9281272,
-          "lon": 16.6869144
-        },
-        "osm_tags": {
-          "amenity": "restaurant",
-          "cuisine": "croatian",
-          "opening_hours": "Mo-Su 18:00-00:00"
-        },
-        "notes": null
-      },
-      {
-        "name": "Gavuni",
-        "coordinates": {
-          "lat": 42.9297778,
-          "lon": 17.1633592
-        },
-        "osm_tags": {
-          "addr:street": "Lumbarajska",
-          "amenity": "restaurant"
-        },
-        "notes": null
-      },
-      {
-        "name": "Aterina",
-        "coordinates": {
-          "lat": 42.961266,
-          "lon": 17.135118
-        },
-        "osm_tags": {
-          "addr:housenumber": "2",
-          "addr:street": "Trg korčulanskih klesara i kipara",
-          "amenity": "restaurant"
-        },
-        "notes": null
-      },
-      {
-        "name": "Konoba Hitegra",
-        "coordinates": {
-          "lat": 42.9225637,
-          "lon": 17.1711797
-        },
-        "osm_tags": {
-          "amenity": "restaurant",
-          "bar": "yes",
-          "cuisine": "coffee_shop;regional;burger;chicken;american;seafood;fish;tea;mediterranean;cake;fries;breakfast;wings;hot_dog",
-          "diet:chicken": "yes",
-          "diet:fish": "yes",
-          "diet:gluten_free": "yes",
-          "diet:local": "yes",
-          "diet:meat": "yes",
-          "diet:mediterranean": "yes",
-          "diet:vegetarian": "yes",
-          "email": "jadran.milina@gmail.com",
-          "mobile": "+385998323254",
-          "opening_hours": "Mo-Sa 09:00-18:00",
-          "phone": "+385915814670",
-          "website": "jadran.milina@gmail.com"
-        },
-        "notes": null
-      },
-      {
-        "name": "Konoba Luka",
-        "coordinates": {
-          "lat": 42.9228237,
-          "lon": 17.1833927
+          "lat": 43.0027554,
+          "lon": 17.0387832
         },
         "osm_tags": {
           "amenity": "restaurant"
@@ -2274,74 +1501,13 @@
         "notes": null
       },
       {
-        "name": "Fjaka",
+        "name": "Caffe bar Bolero",
         "coordinates": {
-          "lat": 42.9225165,
-          "lon": 17.1708841
+          "lat": 43.0227129,
+          "lon": 17.0301925
         },
         "osm_tags": {
-          "amenity": "restaurant"
-        },
-        "notes": null
-      },
-      {
-        "name": "Konoba MORE",
-        "coordinates": {
-          "lat": 42.9237849,
-          "lon": 17.1689622
-        },
-        "osm_tags": {
-          "amenity": "restaurant"
-        },
-        "notes": null
-      },
-      {
-        "name": "Aurora",
-        "coordinates": {
-          "lat": 42.9619243,
-          "lon": 17.1369614
-        },
-        "osm_tags": {
-          "addr:housenumber": "6",
-          "addr:postcode": "20260",
-          "addr:street": "Šetaliste Petra Kanavelića",
-          "amenity": "cafe",
-          "cuisine": "cake;coffee_shop;tea",
-          "opening_hours": "Mo-Su 08:00-00:00",
-          "phone": "+385 92 314 6278"
-        },
-        "notes": null
-      },
-      {
-        "name": "Konoba Gulin",
-        "coordinates": {
-          "lat": 42.9833337,
-          "lon": 16.6729528
-        },
-        "osm_tags": {
-          "amenity": "restaurant"
-        },
-        "notes": null
-      },
-      {
-        "name": "Konoba Caparin",
-        "coordinates": {
-          "lat": 42.9616526,
-          "lon": 17.1243759
-        },
-        "osm_tags": {
-          "amenity": "restaurant"
-        },
-        "notes": null
-      },
-      {
-        "name": "Restoran Malta",
-        "coordinates": {
-          "lat": 42.9448668,
-          "lon": 17.1455605
-        },
-        "osm_tags": {
-          "amenity": "restaurant"
+          "amenity": "bar"
         },
         "notes": null
       },
@@ -2357,26 +1523,10 @@
         "notes": null
       },
       {
-        "name": "Pinjac",
+        "name": "Teuta",
         "coordinates": {
-          "lat": 42.9342513,
-          "lon": 17.1070387
-        },
-        "osm_tags": {
-          "amenity": "restaurant",
-          "contact:facebook": "https://m.facebook.com/pages/category/Pub/Pinjac-Pub-444136482768479/",
-          "cuisine": "grill",
-          "opening_hours": "Mo-Su 18:00-00:00",
-          "outdoor_seating": "yes",
-          "phone": "+385 91 450 1073"
-        },
-        "notes": null
-      },
-      {
-        "name": "Vitis",
-        "coordinates": {
-          "lat": 42.9199077,
-          "lon": 17.1773494
+          "lat": 43.0237019,
+          "lon": 17.0323811
         },
         "osm_tags": {
           "amenity": "restaurant"
@@ -2384,95 +1534,72 @@
         "notes": null
       },
       {
-        "name": "Konoba Pavja luka",
+        "name": "Konoba Mirce",
         "coordinates": {
-          "lat": 42.9125059,
-          "lon": 17.1025326
+          "lat": 43.0311062,
+          "lon": 17.0296827
         },
         "osm_tags": {
           "amenity": "restaurant",
-          "capacity": "16",
+          "opening_hours": "Jun-Oct Mo-Su 02:00-23:00"
+        },
+        "notes": null
+      },
+      {
+        "name": "Trumbeta",
+        "coordinates": {
+          "lat": 43.0232871,
+          "lon": 17.0315768
+        },
+        "osm_tags": {
+          "amenity": "restaurant",
           "cuisine": "regional",
-          "description": "A small, lovely & solitary Konoba (family business) with charcoal barbecue. \nDrinks: beer, wine, mineralwater & homemade lemonade, coffee & tea - that's all. \nMeals: Dalmatian starters, pasta, fresh seafood, fish, lamb & pork",
-          "email": "pavjaluka@gmail.com",
-          "mobile": "+385 95 730 0091",
-          "phone": "+385 91 477 0257",
-          "website": "https://web.facebook.com/people/Konoba-Pavja-Luka/100036783532864/?_rdc=1&_rdr"
+          "opening_hours": "Mo-Su 08:00-00:00",
+          "outdoor_seating": "terrace"
         },
         "notes": null
       },
       {
-        "name": "Tavern Diva Faustina",
+        "name": "Cafe Bar Caramba",
         "coordinates": {
-          "lat": 42.9257578,
-          "lon": 17.168761
+          "lat": 43.0235535,
+          "lon": 17.0325717
         },
         "osm_tags": {
-          "amenity": "restaurant"
+          "addr:housenumber": "55",
+          "amenity": "cafe",
+          "outdoor_seating": "terrace"
         },
         "notes": null
       },
       {
-        "name": "Skafetin",
+        "name": "Bistro Montun",
         "coordinates": {
-          "lat": 42.9273089,
-          "lon": 17.1627966
+          "lat": 42.9846563,
+          "lon": 17.0919033
         },
         "osm_tags": {
-          "amenity": "restaurant"
+          "addr:city": "Kućište",
+          "addr:housenumber": "81",
+          "addr:postcode": "20267",
+          "addr:street": "Viganj",
+          "amenity": "restaurant",
+          "cuisine": "regional",
+          "phone": "+38598725841",
+          "website": "http://nakovana.com"
         },
         "notes": null
       },
       {
-        "name": "Nonno",
+        "name": "Restoran Luky",
         "coordinates": {
-          "lat": 42.9180324,
-          "lon": 17.1844935
+          "lat": 42.9608231,
+          "lon": 16.7137536
         },
         "osm_tags": {
           "amenity": "restaurant",
-          "fixme": "position/still there?"
-        },
-        "notes": null
-      },
-      {
-        "name": "Popina",
-        "coordinates": {
-          "lat": 42.9625343,
-          "lon": 17.1364817
-        },
-        "osm_tags": {
-          "amenity": "restaurant",
-          "outdoor_seating": "yes"
-        },
-        "notes": null
-      },
-      {
-        "name": null,
-        "coordinates": {
-          "lat": 42.9605984,
-          "lon": 17.1339775
-        },
-        "osm_tags": {
-          "amenity": "bar",
-          "cuisine": "ice_cream;salad"
-        },
-        "notes": null
-      },
-      {
-        "name": "BEVANDA Agroturizam",
-        "coordinates": {
-          "lat": 42.9499312,
-          "lon": 17.1097277
-        },
-        "osm_tags": {
-          "addr:housenumber": "2",
-          "addr:postcode": "20275",
-          "addr:street": "Žrnovo",
-          "amenity": "restaurant",
-          "cuisine": "croatian",
-          "opening_hours": "Mo-Sa 20:00-12:00",
-          "phone": "+385 91 477 0236"
+          "contact:facebook": "https://www.facebook.com/RESTAURANTLUKY/",
+          "website": "https://www.marina-korkyra.com/page/luky-restaurant-bar"
         },
         "notes": null
       },
@@ -2491,14 +1618,15 @@
         "notes": null
       },
       {
-        "name": "Amfora",
+        "name": "Konoba Mašklin Pelješac",
         "coordinates": {
-          "lat": 42.9612078,
-          "lon": 17.1357623
+          "lat": 42.9856382,
+          "lon": 17.0838385
         },
         "osm_tags": {
           "amenity": "restaurant",
-          "cuisine": "italian"
+          "contact:facebook": "https://www.facebook.com/masklin.peljesac",
+          "contact:phone": "+385 98 344 547"
         },
         "notes": null
       },
@@ -2512,109 +1640,6 @@
           "addr:postcode": "20271",
           "amenity": "restaurant",
           "phone": "+385 91 151 1127"
-        },
-        "notes": null
-      },
-      {
-        "name": "Konoba Šiloko",
-        "coordinates": {
-          "lat": 42.9723976,
-          "lon": 16.6781795
-        },
-        "osm_tags": {
-          "addr:city": "Vela Luka",
-          "addr:housenumber": "58",
-          "addr:place": "Gradina",
-          "addr:postcode": "20270",
-          "amenity": "restaurant",
-          "opening_hours": "Mo-Su 08:00-23:00",
-          "phone": "+385912011040"
-        },
-        "notes": null
-      },
-      {
-        "name": "Punto Mare Beach Bar",
-        "coordinates": {
-          "lat": 42.9564394,
-          "lon": 17.1374501
-        },
-        "osm_tags": {
-          "amenity": "bar",
-          "operator": "Aminess Hotels & Resorts"
-        },
-        "notes": null
-      },
-      {
-        "name": "Punto Mare Beach Bar",
-        "coordinates": {
-          "lat": 42.9522386,
-          "lon": 17.1431298
-        },
-        "osm_tags": {
-          "addr:city": "Korčula",
-          "addr:housenumber": "3",
-          "addr:postcode": "20260",
-          "addr:street": "Šetalište hrvatskih mornara",
-          "amenity": "restaurant",
-          "cuisine": "burger;coffee_shop;italian;grill;european;international",
-          "operator": "Aminess Vival Port9 Resort",
-          "website": "https://www.aminess.com/en/accommodation/hotels-and-resorts/korcula/aminess-port9-resort/restaurants-and-bars/"
-        },
-        "notes": null
-      },
-      {
-        "name": "Dritta Strada",
-        "coordinates": {
-          "lat": 42.9623731,
-          "lon": 17.136394
-        },
-        "osm_tags": {
-          "addr:city": "Korčula",
-          "addr:housenumber": "16",
-          "addr:postcode": "20260",
-          "addr:street": "Ulica svetog Roka",
-          "amenity": "restaurant",
-          "opening_hours": "Mo-Su 16:00-24:00",
-          "phone": "+385981654992",
-          "website": "https://drittastrada.com/"
-        },
-        "notes": null
-      },
-      {
-        "name": "7 Seas Restaurant & Bar by Matija Bogdan",
-        "coordinates": {
-          "lat": 42.9621109,
-          "lon": 17.1353231
-        },
-        "osm_tags": {
-          "addr:city": "Korčula",
-          "addr:housenumber": "5",
-          "addr:postcode": "20260",
-          "addr:street": "Obala dr. Franje Tuđmana",
-          "amenity": "restaurant",
-          "contact:facebook": "https://www.facebook.com/profile.php/?id=100093072866104",
-          "cuisine": "mediterranean;fine_dining;european;regional;breakfast;pastry",
-          "phone": "+385 52 858 600",
-          "website": "https://www.aminess.com/en/accommodation/hotels-and-resorts/korcula/aminess-korcula-heritage-hotel/"
-        },
-        "notes": null
-      },
-      {
-        "name": "Fundamentum",
-        "coordinates": {
-          "lat": 42.9622368,
-          "lon": 17.1358495
-        },
-        "osm_tags": {
-          "addr:housenumber": "2",
-          "addr:postcode": "20260",
-          "addr:street": "Španićeva ulica",
-          "amenity": "restaurant",
-          "contact:instagram": "fundamentum_korcula",
-          "cuisine": "italian;seafood",
-          "opening_hours": "Mo-Su 17:00-23:00",
-          "self_service": "no",
-          "website": "https://www.instagram.com/fundamentum_korcula"
         },
         "notes": null
       }
@@ -2661,177 +1686,6 @@
         "notes": null
       },
       {
-        "name": null,
-        "coordinates": {
-          "lat": 42.9226649,
-          "lon": 17.1725505
-        },
-        "osm_tags": {
-          "amenity": "atm"
-        },
-        "notes": null
-      },
-      {
-        "name": "OTP banka",
-        "coordinates": {
-          "lat": 42.9604127,
-          "lon": 17.1347246
-        },
-        "osm_tags": {
-          "amenity": "bank",
-          "atm": "yes",
-          "brand": "OTP banka",
-          "brand:wikidata": "Q31198593",
-          "operator": "OTP",
-          "ref:vatin": "HR52508873833"
-        },
-        "notes": null
-      },
-      {
-        "name": null,
-        "coordinates": {
-          "lat": 42.9604038,
-          "lon": 17.1347661
-        },
-        "osm_tags": {
-          "amenity": "atm",
-          "brand": "OTP banka",
-          "brand:wikidata": "Q31198593",
-          "check_date": "2023-05-25",
-          "operator": "OTP banka",
-          "operator:wikidata": "Q31198593"
-        },
-        "notes": null
-      },
-      {
-        "name": "Splitska Banka",
-        "coordinates": {
-          "lat": 42.9603898,
-          "lon": 17.1352955
-        },
-        "osm_tags": {
-          "amenity": "atm"
-        },
-        "notes": null
-      },
-      {
-        "name": "PBZ",
-        "coordinates": {
-          "lat": 42.9605189,
-          "lon": 17.136221
-        },
-        "osm_tags": {
-          "amenity": "bank",
-          "atm": "yes",
-          "brand": "PBZ",
-          "brand:wikidata": "Q7246343",
-          "opening_hours": "Mo-Fr 08:00-15:00",
-          "operator": "Privredna banka Zagreb",
-          "ref:vatin": "HR02535697732",
-          "shop": "convenience"
-        },
-        "notes": null
-      },
-      {
-        "name": null,
-        "coordinates": {
-          "lat": 42.9603692,
-          "lon": 17.1355735
-        },
-        "osm_tags": {
-          "amenity": "atm",
-          "operator": "Societe Generale - Splitska banka"
-        },
-        "notes": null
-      },
-      {
-        "name": "Zagrebačka banka",
-        "coordinates": {
-          "lat": 42.9604839,
-          "lon": 17.1357277
-        },
-        "osm_tags": {
-          "amenity": "atm",
-          "brand": "Zagrebačka banka",
-          "brand:wikidata": "Q140381",
-          "operator": "Zagrebačka banka",
-          "operator:wikidata": "Q140381"
-        },
-        "notes": null
-      },
-      {
-        "name": null,
-        "coordinates": {
-          "lat": 42.9595641,
-          "lon": 17.1351337
-        },
-        "osm_tags": {
-          "amenity": "atm",
-          "operator": "Societe Generale - Splitska banka"
-        },
-        "notes": null
-      },
-      {
-        "name": null,
-        "coordinates": {
-          "lat": 42.959783,
-          "lon": 17.133879
-        },
-        "osm_tags": {
-          "amenity": "bank",
-          "atm": "yes",
-          "operator": "Societe Generale - Splitska banka",
-          "ref:vatin": "HR69326397242"
-        },
-        "notes": null
-      },
-      {
-        "name": "Hrvatska poštanska banka",
-        "coordinates": {
-          "lat": 42.9600597,
-          "lon": 17.1356352
-        },
-        "osm_tags": {
-          "amenity": "atm",
-          "brand": "Hrvatska poštanska banka",
-          "brand:wikidata": "Q5923981",
-          "operator": "Hrvatska poštanska banka",
-          "operator:wikidata": "Q5923981"
-        },
-        "notes": null
-      },
-      {
-        "name": null,
-        "coordinates": {
-          "lat": 42.9588994,
-          "lon": 17.13507
-        },
-        "osm_tags": {
-          "amenity": "atm",
-          "atm": "yes",
-          "brand": "OTP banka",
-          "brand:wikidata": "Q31198593",
-          "operator": "OTP banka",
-          "operator:wikidata": "Q31198593"
-        },
-        "notes": null
-      },
-      {
-        "name": "Zagrebačka banka",
-        "coordinates": {
-          "lat": 42.9471899,
-          "lon": 17.1399111
-        },
-        "osm_tags": {
-          "amenity": "atm",
-          "brand": "Zagrebačka banka",
-          "brand:wikidata": "Q140381",
-          "operator": "Zagrebačka banka",
-          "operator:wikidata": "Q140381"
-        },
-        "notes": null
-      },
-      {
         "name": "Hrvatska poštanska banka",
         "coordinates": {
           "lat": 42.9063501,
@@ -2855,93 +1709,10 @@
         "notes": null
       },
       {
-        "name": "Hrvatska poštanska banka",
-        "coordinates": {
-          "lat": 42.9604512,
-          "lon": 17.1342457
-        },
-        "osm_tags": {
-          "amenity": "atm",
-          "brand": "Hrvatska poštanska banka",
-          "brand:wikidata": "Q5923981",
-          "operator": "Hrvatska poštanska banka",
-          "operator:wikidata": "Q5923981"
-        },
-        "notes": null
-      },
-      {
-        "name": null,
-        "coordinates": {
-          "lat": 42.9225932,
-          "lon": 17.1719071
-        },
-        "osm_tags": {
-          "amenity": "atm",
-          "check_date": "2023-08-19"
-        },
-        "notes": null
-      },
-      {
-        "name": "Euronet",
-        "coordinates": {
-          "lat": 42.9227022,
-          "lon": 17.1720182
-        },
-        "osm_tags": {
-          "amenity": "atm"
-        },
-        "notes": null
-      },
-      {
         "name": "Euronet",
         "coordinates": {
           "lat": 42.9069157,
           "lon": 16.7995859
-        },
-        "osm_tags": {
-          "amenity": "atm",
-          "brand": "Euronet",
-          "brand:wikidata": "Q5412010",
-          "operator": "Euronet",
-          "operator:wikidata": "Q5412010"
-        },
-        "notes": null
-      },
-      {
-        "name": "Euronet",
-        "coordinates": {
-          "lat": 42.9607452,
-          "lon": 17.1339192
-        },
-        "osm_tags": {
-          "amenity": "atm",
-          "brand": "Euronet",
-          "brand:wikidata": "Q5412010",
-          "operator": "Euronet",
-          "operator:wikidata": "Q5412010"
-        },
-        "notes": null
-      },
-      {
-        "name": "Euronet",
-        "coordinates": {
-          "lat": 42.9603527,
-          "lon": 17.1344296
-        },
-        "osm_tags": {
-          "amenity": "atm",
-          "brand": "Euronet",
-          "brand:wikidata": "Q5412010",
-          "operator": "Euronet",
-          "operator:wikidata": "Q5412010"
-        },
-        "notes": null
-      },
-      {
-        "name": "Euronet",
-        "coordinates": {
-          "lat": 42.9536167,
-          "lon": 17.1275277
         },
         "osm_tags": {
           "amenity": "atm",
@@ -3084,17 +1855,6 @@
         "notes": null
       },
       {
-        "name": null,
-        "coordinates": {
-          "lat": 42.9569702,
-          "lon": 17.1324787
-        },
-        "osm_tags": {
-          "amenity": "pharmacy"
-        },
-        "notes": null
-      },
-      {
         "name": "Dom zdravlja Blato",
         "coordinates": {
           "lat": 42.9383567,
@@ -3156,24 +1916,6 @@
           "internet_access:fee": "no",
           "smoking": "yes",
           "tourism": "guest_house"
-        },
-        "notes": null
-      },
-      {
-        "name": "Aminess Younique Korčula Heritage Hotel",
-        "coordinates": {
-          "lat": 42.962133,
-          "lon": 17.1353522
-        },
-        "osm_tags": {
-          "addr:city": "Korčula",
-          "addr:housenumber": "5",
-          "addr:postcode": "20260",
-          "addr:street": "Obala dr. Franje Tuđmana",
-          "brand": "Aminess Hotels & Resorts",
-          "restaurant": "7 Seas Restaurant & Bar by Matija Bogdan",
-          "tourism": "hotel",
-          "website": "https://www.aminess.com/en/aminess-korcula-heritage-hotel"
         },
         "notes": null
       },
@@ -3266,52 +2008,13 @@
         "notes": null
       },
       {
-        "name": "Villa Depolo",
+        "name": null,
         "coordinates": {
-          "lat": 42.9614192,
-          "lon": 17.1316606
+          "lat": 42.9036581,
+          "lon": 16.8601906
         },
         "osm_tags": {
           "tourism": "guest_house"
-        },
-        "notes": null
-      },
-      {
-        "name": "Lešić Dimitri Palace",
-        "coordinates": {
-          "lat": 42.9617461,
-          "lon": 17.1369472
-        },
-        "osm_tags": {
-          "addr:city": "Korčula",
-          "addr:housenumber": "1-6",
-          "addr:postcode": "20260",
-          "addr:street": "Don Pavla Pose",
-          "smoking": "outside",
-          "tourism": "hotel",
-          "website": "https://www.ldpalace.com/"
-        },
-        "notes": null
-      },
-      {
-        "name": "Konoba Bebić",
-        "coordinates": {
-          "lat": 42.9283256,
-          "lon": 17.1684524
-        },
-        "osm_tags": {
-          "tourism": "guest_house"
-        },
-        "notes": null
-      },
-      {
-        "name": "Apartments Veselka",
-        "coordinates": {
-          "lat": 42.927861,
-          "lon": 17.1581758
-        },
-        "osm_tags": {
-          "tourism": "hotel"
         },
         "notes": null
       },
@@ -3336,20 +2039,6 @@
           "stars": "4",
           "tourism": "hotel",
           "website": "https://www.hotel-korkyra.com/"
-        },
-        "notes": null
-      },
-      {
-        "name": "Villa Sole",
-        "coordinates": {
-          "lat": 42.9448976,
-          "lon": 17.1552761
-        },
-        "osm_tags": {
-          "addr:housenumber": "710",
-          "addr:street": "Soline",
-          "tourism": "guest_house",
-          "website": "https://villasole.net/"
         },
         "notes": null
       },
@@ -3416,17 +2105,6 @@
         "notes": null
       },
       {
-        "name": "Agro turizam Potirna",
-        "coordinates": {
-          "lat": 42.9306295,
-          "lon": 16.695334
-        },
-        "osm_tags": {
-          "tourism": "guest_house"
-        },
-        "notes": null
-      },
-      {
         "name": "Prišćapac",
         "coordinates": {
           "lat": 42.9039065,
@@ -3453,19 +2131,6 @@
         "notes": null
       },
       {
-        "name": "Sofka",
-        "coordinates": {
-          "lat": 42.9417912,
-          "lon": 17.1413105
-        },
-        "osm_tags": {
-          "internet_access": "yes",
-          "internet_access:fee": "no",
-          "tourism": "guest_house"
-        },
-        "notes": null
-      },
-      {
         "name": "Apartman MIRAMARE",
         "coordinates": {
           "lat": 42.9048492,
@@ -3485,13 +2150,15 @@
         "notes": null
       },
       {
-        "name": "Anita",
+        "name": "Pločica",
         "coordinates": {
-          "lat": 42.947379,
-          "lon": 17.1475626
+          "lat": 43.0305849,
+          "lon": 16.8165163
         },
         "osm_tags": {
-          "tourism": "apartment"
+          "operator": "Plovput",
+          "tourism": "guest_house",
+          "website": "https://www.lighthouses-croatia.com/lighthouses/plocica"
         },
         "notes": null
       },
@@ -3561,21 +2228,6 @@
         "notes": null
       },
       {
-        "name": "Hostel Caenazzo",
-        "coordinates": {
-          "lat": 42.9618665,
-          "lon": 17.136057
-        },
-        "osm_tags": {
-          "addr:city": "Korčula",
-          "addr:housenumber": "12",
-          "addr:postcode": "20260",
-          "addr:street": "Trg Sv. Marka",
-          "tourism": "hostel"
-        },
-        "notes": null
-      },
-      {
         "name": "Jadran",
         "coordinates": {
           "lat": 42.9592704,
@@ -3611,117 +2263,44 @@
         "notes": null
       },
       {
-        "name": "Korculapa",
+        "name": "Jerkovic Apartmani",
         "coordinates": {
-          "lat": 42.9482463,
-          "lon": 17.1345336
+          "lat": 43.0314767,
+          "lon": 17.0286017
         },
         "osm_tags": {
-          "addr:housenumber": "1",
-          "addr:street": "Ulica 56",
-          "tourism": "guest_house"
-        },
-        "notes": null
-      },
-      {
-        "name": "Dvi obale",
-        "coordinates": {
-          "lat": 42.928864,
-          "lon": 16.6667771
-        },
-        "osm_tags": {
-          "source": "OSM note",
-          "tourism": "apartment"
-        },
-        "notes": null
-      },
-      {
-        "name": "Katarina",
-        "coordinates": {
-          "lat": 42.9241771,
-          "lon": 17.1660041
-        },
-        "osm_tags": {
-          "addr:housenumber": "262",
-          "addr:place": "Lumbarda",
-          "internet_access": "wlan",
-          "internet_access:fee": "no",
-          "source:addr:place": "survey",
-          "tourism": "guest_house"
-        },
-        "notes": null
-      },
-      {
-        "name": "Apartment Emilija",
-        "coordinates": {
-          "lat": 42.9606971,
-          "lon": 17.1306246
-        },
-        "osm_tags": {
-          "addr:city": "Korcula",
-          "addr:housenumber": "28",
-          "addr:postcode": "20260",
-          "addr:street": "Bernarda Bernardi",
-          "email": "julije.urban@gmail.com",
-          "tourism": "apartment"
-        },
-        "notes": null
-      },
-      {
-        "name": "Apartmani Ardelić",
-        "coordinates": {
-          "lat": 42.9620511,
-          "lon": 17.1355331
-        },
-        "osm_tags": {
-          "tourism": "hostel"
-        },
-        "notes": null
-      },
-      {
-        "name": "Ante's House",
-        "coordinates": {
-          "lat": 42.9598915,
-          "lon": 17.1332066
-        },
-        "osm_tags": {
-          "addr:street": "Buculin b.b.",
-          "internet_access": "wlan",
-          "tourism": "guest_house"
-        },
-        "notes": null
-      },
-      {
-        "name": "Guesthouse Franica",
-        "coordinates": {
-          "lat": 42.9604946,
-          "lon": 17.1333578
-        },
-        "osm_tags": {
-          "addr:housenumber": "4",
-          "addr:postcode": "20260",
-          "addr:street": "Marinka Gjivoja",
-          "tourism": "guest_house"
-        },
-        "notes": null
-      },
-      {
-        "name": "Apartmens “Ela & Roko” family Ojdanić",
-        "coordinates": {
-          "lat": 42.9608122,
-          "lon": 17.1320662
-        },
-        "osm_tags": {
-          "addr:housenumber": "2a",
-          "addr:postcode": "20260",
-          "addr:street": "Cvijetno naselje",
-          "email": "roko.korcula@gmail.com",
-          "internet_access": "wlan",
+          "addr:city": "Mirca",
+          "addr:housenumber": "329",
+          "addr:place": "Mirca",
+          "addr:street": "Lovište",
           "opening_hours": "24/7",
-          "operator": "Family Ojdanić",
-          "phone": "+385915152555",
-          "tourism": "apartment",
-          "website": "https://www.korcula-roko.com/"
+          "phone": "+385 98 265750",
+          "tourism": "apartment"
+        },
+        "notes": null
+      },
+      {
+        "name": "Apartments Nujic",
+        "coordinates": {
+          "lat": 43.0276988,
+          "lon": 17.0318517
+        },
+        "osm_tags": {
+          "addr:city": "Lovište",
+          "addr:housenumber": "250",
+          "addr:postcode": "20269",
+          "addr:street": "Lovište",
+          "air_conditioning": "yes",
+          "description": "Apartments Rooms Accommodation Loviste Peljesac",
+          "email": "nujicanto@yahoo.com",
+          "guest_house": "apartment",
+          "internet_access": "yes",
+          "internet_access:fee": "no",
+          "operator": "Anto Nujić",
+          "phone": "+385919324190",
+          "reservation": "required",
+          "tourism": "guest_house",
+          "website": "www.apartmani-peljesac.eu"
         },
         "notes": null
       },
@@ -3732,6 +2311,36 @@
           "lon": 17.0942793
         },
         "osm_tags": {
+          "tourism": "apartment"
+        },
+        "notes": null
+      },
+      {
+        "name": "Sobe Suzana Srhoj",
+        "coordinates": {
+          "lat": 43.0232752,
+          "lon": 17.0281633
+        },
+        "osm_tags": {
+          "addr:city": "Lovište",
+          "addr:housenumber": "7",
+          "addr:postcode": "20263",
+          "addr:street": "Gradina 7",
+          "phone": "+385 20 718-029",
+          "tourism": "guest_house"
+        },
+        "notes": null
+      },
+      {
+        "name": "Apartments Tamaris",
+        "coordinates": {
+          "lat": 43.0235373,
+          "lon": 17.0330746
+        },
+        "osm_tags": {
+          "addr:city": "Lovište",
+          "addr:housenumber": "160",
+          "addr:place": "Lovište",
           "tourism": "apartment"
         },
         "notes": null
@@ -3751,6 +2360,19 @@
         "notes": null
       },
       {
+        "name": "Apartments Kuća nebeska",
+        "coordinates": {
+          "lat": 42.9860994,
+          "lon": 17.086798
+        },
+        "osm_tags": {
+          "description": "www.apartments-nebeska.com",
+          "image": "https://apartments-nebeska.com/wp-content/uploads/2021/01/Gaestehaus-bearbeitet-2-Kopiea-e1610814342162-940x590.png",
+          "tourism": "guest_house"
+        },
+        "notes": null
+      },
+      {
         "name": "B&B Vela Luka",
         "coordinates": {
           "lat": 42.9612992,
@@ -3765,10 +2387,10 @@
         "notes": null
       },
       {
-        "name": null,
+        "name": "Pension Tamara",
         "coordinates": {
-          "lat": 42.9707802,
-          "lon": 16.7743176
+          "lat": 43.0233586,
+          "lon": 17.0338882
         },
         "osm_tags": {
           "tourism": "apartment"
@@ -3776,13 +2398,13 @@
         "notes": null
       },
       {
-        "name": "Hostel Korcula",
+        "name": null,
         "coordinates": {
-          "lat": 42.9611788,
-          "lon": 17.1358931
+          "lat": 42.9707802,
+          "lon": 16.7743176
         },
         "osm_tags": {
-          "tourism": "hostel"
+          "tourism": "apartment"
         },
         "notes": null
       },
@@ -3802,32 +2424,6 @@
           "wheelchair": "limited"
         },
         "notes": null
-      },
-      {
-        "name": "Studio Apartman TEDY",
-        "coordinates": {
-          "lat": 42.9599315,
-          "lon": 17.1346539
-        },
-        "osm_tags": {
-          "addr:housenumber": "13",
-          "addr:street": "Ulica hrvatske bratske zajednice",
-          "tourism": "apartment"
-        },
-        "notes": null
-      },
-      {
-        "name": "Guest house Korunić",
-        "coordinates": {
-          "lat": 42.9600815,
-          "lon": 17.1345759
-        },
-        "osm_tags": {
-          "addr:housenumber": "5",
-          "addr:street": "Ulica hrvatske bratske zajednice",
-          "tourism": "apartment"
-        },
-        "notes": null
       }
     ],
     "landmarks": [
@@ -3841,33 +2437,6 @@
           "amenity": "ferry_terminal",
           "cargo": "passengers;vehicle",
           "ferry": "yes",
-          "public_transport": "station"
-        },
-        "notes": null
-      },
-      {
-        "name": null,
-        "coordinates": {
-          "lat": 42.96173,
-          "lon": 17.1346561
-        },
-        "osm_tags": {
-          "amenity": "ferry_terminal",
-          "ferry": "yes",
-          "public_transport": "stop_position"
-        },
-        "notes": null
-      },
-      {
-        "name": "Korčula",
-        "coordinates": {
-          "lat": 42.9528767,
-          "lon": 17.1500408
-        },
-        "osm_tags": {
-          "amenity": "ferry_terminal",
-          "ferry": "yes",
-          "name:el": "Μαύρη Κέρκυρα",
           "public_transport": "station"
         },
         "notes": null
@@ -3906,31 +2475,6 @@
         "osm_tags": {
           "amenity": "place_of_worship",
           "religion": "christian"
-        },
-        "notes": null
-      },
-      {
-        "name": "Dominče (Korčula)",
-        "coordinates": {
-          "lat": 42.9530375,
-          "lon": 17.1502367
-        },
-        "osm_tags": {
-          "amenity": "ferry_terminal",
-          "ferry": "yes",
-          "public_transport": "station"
-        },
-        "notes": null
-      },
-      {
-        "name": null,
-        "coordinates": {
-          "lat": 42.9518512,
-          "lon": 17.1389539
-        },
-        "osm_tags": {
-          "historic": "memorial",
-          "memorial": "war_memorial"
         },
         "notes": null
       },
@@ -3977,117 +2521,6 @@
         "coordinates": {
           "lat": 42.971681,
           "lon": 16.7106189
-        },
-        "osm_tags": {
-          "amenity": "place_of_worship",
-          "religion": "christian"
-        },
-        "notes": null
-      },
-      {
-        "name": null,
-        "coordinates": {
-          "lat": 42.9295261,
-          "lon": 17.1565279
-        },
-        "osm_tags": {
-          "amenity": "place_of_worship",
-          "religion": "christian"
-        },
-        "notes": null
-      },
-      {
-        "name": "Korčula",
-        "coordinates": {
-          "lat": 42.9602781,
-          "lon": 17.1367318
-        },
-        "osm_tags": {
-          "amenity": "ferry_terminal",
-          "ferry": "yes",
-          "name:el": "Μαύρη Κέρκυρα",
-          "public_transport": "stop_position"
-        },
-        "notes": null
-      },
-      {
-        "name": null,
-        "coordinates": {
-          "lat": 42.9608321,
-          "lon": 17.1356229
-        },
-        "osm_tags": {
-          "historic": "memorial",
-          "memorial": "plaque",
-          "wikimedia_commons": "File:Korcula Town Gate - panoramio - lienyuan lee.jpg"
-        },
-        "notes": null
-      },
-      {
-        "name": null,
-        "coordinates": {
-          "lat": 42.9488934,
-          "lon": 17.1116041
-        },
-        "osm_tags": {
-          "historic": "monument"
-        },
-        "notes": null
-      },
-      {
-        "name": null,
-        "coordinates": {
-          "lat": 42.9617882,
-          "lon": 17.1351072
-        },
-        "osm_tags": {
-          "historic": "memorial"
-        },
-        "notes": null
-      },
-      {
-        "name": null,
-        "coordinates": {
-          "lat": 42.961867,
-          "lon": 17.1351315
-        },
-        "osm_tags": {
-          "historic": "memorial"
-        },
-        "notes": null
-      },
-      {
-        "name": "Kapelica Gospe Lurdske",
-        "coordinates": {
-          "lat": 42.9534415,
-          "lon": 17.1377544
-        },
-        "osm_tags": {
-          "amenity": "place_of_worship",
-          "check_date": "2024-07-22",
-          "denomination": "catholic",
-          "opening_hours": "24/7",
-          "religion": "christian"
-        },
-        "notes": null
-      },
-      {
-        "name": null,
-        "coordinates": {
-          "lat": 42.9213565,
-          "lon": 17.171052
-        },
-        "osm_tags": {
-          "amenity": "place_of_worship",
-          "religion": "christian"
-        },
-        "notes": null
-      },
-      {
-        "name": null,
-        "coordinates": {
-          "lat": 42.9233575,
-          "lon": 17.1729396
         },
         "osm_tags": {
           "amenity": "place_of_worship",
@@ -4240,31 +2673,6 @@
         "notes": null
       },
       {
-        "name": null,
-        "coordinates": {
-          "lat": 42.9174881,
-          "lon": 17.1816355
-        },
-        "osm_tags": {
-          "historic": "monument"
-        },
-        "notes": null
-      },
-      {
-        "name": "Jump",
-        "coordinates": {
-          "lat": 42.9172337,
-          "lon": 17.1988099
-        },
-        "osm_tags": {
-          "name:de": "Springen",
-          "name:hu": "Sziklaugrás",
-          "sport": "cliff_diving",
-          "tourism": "attraction"
-        },
-        "notes": null
-      },
-      {
         "name": "Sveti Kuzma i Damjan",
         "coordinates": {
           "lat": 42.943386,
@@ -4274,6 +2682,19 @@
           "amenity": "place_of_worship",
           "denomination": "catholic",
           "religion": "christian"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0293951,
+          "lon": 16.8196512
+        },
+        "osm_tags": {
+          "amenity": "ferry_terminal",
+          "ferry": "yes",
+          "public_transport": "station"
         },
         "notes": null
       },
@@ -4307,13 +2728,30 @@
         "notes": null
       },
       {
-        "name": "Rasohatica beach",
+        "name": "Kapela Bezgrešno Srce Marijino",
         "coordinates": {
-          "lat": 42.912793,
-          "lon": 17.1295729
+          "lat": 43.0230493,
+          "lon": 17.0316628
         },
         "osm_tags": {
-          "tourism": "attraction"
+          "addr:city": "Lovište",
+          "addr:street": "Lovište",
+          "amenity": "place_of_worship",
+          "denomination": "roman_catholic",
+          "religion": "christian"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0450182,
+          "lon": 17.0025362
+        },
+        "osm_tags": {
+          "amenity": "ferry_terminal",
+          "ferry": "yes",
+          "public_transport": "station"
         },
         "notes": null
       },
@@ -4357,13 +2795,72 @@
         "notes": null
       },
       {
-        "name": "Water Taxi",
+        "name": "Spomenik NOB",
         "coordinates": {
-          "lat": 42.9252439,
-          "lon": 17.1743315
+          "lat": 43.0228463,
+          "lon": 17.0316097
         },
         "osm_tags": {
-          "amenity": "ferry_terminal"
+          "access": "yes",
+          "historic": "monument",
+          "memorial": "war_memorial",
+          "wikimedia_commons:path": "Category:Partisan monument (Lovište)"
+        },
+        "notes": null
+      },
+      {
+        "name": "Prvi mornarički vod južnog Jadrana",
+        "coordinates": {
+          "lat": 43.022841,
+          "lon": 17.0317825
+        },
+        "osm_tags": {
+          "historic": "memorial",
+          "material": "stone",
+          "memorial": "plaque",
+          "war_memorial": "yes",
+          "wikimedia_commons": "File:Spomen ploča partizanskoj mornarici, Lovište05702.JPG"
+        },
+        "notes": null
+      },
+      {
+        "name": "Starosjediocima",
+        "coordinates": {
+          "lat": 43.0229601,
+          "lon": 17.0318391
+        },
+        "osm_tags": {
+          "historic": "memorial",
+          "inscription": "Starosjediocima ...",
+          "memorial": "plaque",
+          "wikimedia_commons": "File:Spomen ploča prvim doseljenicima, Lovište05701.JPG"
+        },
+        "notes": null
+      },
+      {
+        "name": "Kraj pomorske blokade Jadrana",
+        "coordinates": {
+          "lat": 43.0229138,
+          "lon": 17.0318171
+        },
+        "osm_tags": {
+          "historic": "memorial",
+          "memorial": "plaque",
+          "wikimedia_commons": "File:Spomen ploča iz DR, Lovište05700.JPG"
+        },
+        "notes": null
+      },
+      {
+        "name": "Streljanim talcima",
+        "coordinates": {
+          "lat": 43.0228202,
+          "lon": 17.0298405
+        },
+        "osm_tags": {
+          "historic": "memorial",
+          "memorial": "plaque",
+          "war_memorial": "yes",
+          "wikimedia_commons": "File:Spomen ploča steljanim, Lovište00958.JPG"
         },
         "notes": null
       }
@@ -4371,7 +2868,7 @@
   },
   "practical": {
     "atm_available": true,
-    "atm_count": 28,
+    "atm_count": 10,
     "medical_facility": true,
     "cash_only_warning": false,
     "day_trip_viable": true,
@@ -4379,6 +2876,7 @@
       "Badija",
       "Brač",
       "Hvar",
+      "Korčula",
       "Lastovo",
       "Mljet",
       "Sveti Klement",
