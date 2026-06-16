@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "island": "Korčula",
+    "slug": "korcula",
+    "last_updated": "2026-06-16",
+    "contributed_by": "curator"
+  },
+  "identity": {
+    "population": 15522,
+    "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Korcula_City.jpg/960px-Korcula_City.jpg?_=20160112144518",
+    "hero_image_credit": null,
+    "tagline": "A walled medieval town on an island — said to be the birthplace of Marco Polo.",
+    "best_for": ["history", "wine", "cycling", "beaches", "old town atmosphere"]
+  },
+  "practical": {
+    "car_free": false,
+    "cash_only_warning": false,
+    "day_trip_viable": true,
+    "day_trip_note": "Reachable as a day trip from Split or Dubrovnik but the old town deserves an evening — the crowds thin out after the day-trip ferries leave."
+  },
+  "getting_there": {
+    "ferry_notes": "Multiple connections from Split (via catamaran to Korčula town, or car ferry to Vela Luka on the western tip). A short passenger ferry runs from Orebić on the Pelješac peninsula directly to Korčula town — useful if driving from Dubrovnik.",
+    "ferry_routes": [
+      {
+        "origin": "Split -Vela Luka (Korčula)",
+        "operator": "Jadrolinija",
+        "duration_minutes": 60,
+        "frequency_peak": 3,
+        "frequency_low": 1,
+        "bikes_allowed": true,
+        "cars_allowed": true,
+        "community_note": "Car ferry to Vela Luka on the western end of the island. You'll need to drive or take a bus to Korčula town from there (~45 min)."
+      },
+      {
+        "origin": "Orebić",
+        "operator": "Jadrolinija",
+        "duration_minutes": 15,
+        "frequency_peak": 12,
+        "frequency_low": 6,
+        "bikes_allowed": true,
+        "cars_allowed": false,
+        "community_note": "Short passenger ferry from the Pelješac peninsula directly to Korčula town. The most convenient connection if coming from Dubrovnik by car — park in Orebić, walk on."
+      }
+    ]
+  },
+  "nearby_islands": [
+    {
+      "name": "Badija",
+      "duration_minutes": 15,
+      "description": "A small island just off Korčula town with a Franciscan monastery and a deer park. No cars.",
+      "worth_visiting_for": "A peaceful half-day walk from Korčula town."
+    },
+    {
+      "name": "Mljet",
+      "duration_minutes": 90,
+      "description": "A heavily forested island with a national park containing two saltwater lakes. One of Croatia's most beautiful islands.",
+      "worth_visiting_for": "The national park — swimming in the lakes, kayaking, cycling the island."
+    },
+    {
+      "name": "Lastovo",
+      "duration_minutes": 120,
+      "description": "One of Croatia's most remote and least visited islands. A nature park with almost no mass tourism.",
+      "worth_visiting_for": "Complete escape. Strong local identity and good seafood."
+    }
+  ],
+  "hidden_gems": [
+    {
+      "title": "Pošip and Grk wine",
+      "description": "Korčula produces two indigenous white wines — Pošip and Grk — that are genuinely excellent and rarely found outside Croatia. Ask for them by name in any konoba."
+    },
+    {
+      "title": "Moreška sword dance",
+      "description": "A traditional sword dance performed only in Korčula town, with roots going back centuries. Performed regularly in summer for tourists but it is an authentic local tradition, not a fabricated one."
+    }
+  ],
+  "local_warnings": [
+    "Korčula town gets very busy with cruise ship day-trippers in July and August — mornings are crowded, evenings are peaceful once the ships leave.",
+    "Vela Luka (the car ferry port) is a separate town from Korčula town — factor in the transfer time when planning connections."
+  ]
+}

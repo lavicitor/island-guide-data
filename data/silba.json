@@ -1,0 +1,567 @@
+{
+  "meta": {
+    "island": "Silba",
+    "slug": "silba",
+    "generated_at": "2026-06-16T17:07:51Z",
+    "data_quality": {
+      "osm_poi_count": 29,
+      "ferry_routes_found": 2,
+      "weather_months_complete": 12,
+      "coverage_warning": null
+    }
+  },
+  "identity": {
+    "name": "Silba",
+    "name_hr": "Silba",
+    "region": "Zadar County",
+    "coordinates": {
+      "lat": 44.3747,
+      "lon": 14.6953
+    },
+    "area_km2": 15.0,
+    "population": null,
+    "car_free": true,
+    "description": "Silba is an island in Croatia with an area of 15 km2, northern Dalmatia, south-east of Lošinj, between the islands of Premuda and Olib. It has a Mediterranean climate with 2570 hours a year of sunshine. Most summer days are hot, bright and clear with light westerly maestral wind cooling the island in the afternoons.",
+    "best_for": []
+  },
+  "getting_there": {
+    "ferry_routes": [
+      {
+        "origin": "Zadar (Gaženica)",
+        "destination": "Silba",
+        "operator": "Jadrolinija",
+        "duration_minutes": null,
+        "frequency_peak": null,
+        "frequency_low": null,
+        "bikes_allowed": true,
+        "cars_allowed": null,
+        "booking_url": "https://www.jadrolinija.hr/en/travel/zadar_gazenica_-_ist_-_olib_-_silba_-_premuda_-_mali_losinj"
+      },
+      {
+        "origin": "Zadar",
+        "destination": "Silba",
+        "operator": "Jadrolinija",
+        "duration_minutes": null,
+        "frequency_peak": null,
+        "frequency_low": null,
+        "bikes_allowed": false,
+        "cars_allowed": false,
+        "booking_url": "https://www.jadrolinija.hr/en/travel/zadar_-_silba_-_mali_losinj_2"
+      }
+    ]
+  },
+  "weather": {
+    "monthly": [
+      {
+        "month": 1,
+        "month_name": "January",
+        "avg_temp_c": 10.1,
+        "avg_rain_days": 11.2,
+        "avg_sunshine_hours": 6.2,
+        "sea_temp_c": 14.1,
+        "peak_season": false
+      },
+      {
+        "month": 2,
+        "month_name": "February",
+        "avg_temp_c": 10.5,
+        "avg_rain_days": 10.0,
+        "avg_sunshine_hours": 7.3,
+        "sea_temp_c": 13.3,
+        "peak_season": false
+      },
+      {
+        "month": 3,
+        "month_name": "March",
+        "avg_temp_c": 11.5,
+        "avg_rain_days": 10.8,
+        "avg_sunshine_hours": 9.2,
+        "sea_temp_c": 13.7,
+        "peak_season": false
+      },
+      {
+        "month": 4,
+        "month_name": "April",
+        "avg_temp_c": 13.5,
+        "avg_rain_days": 8.0,
+        "avg_sunshine_hours": 10.9,
+        "sea_temp_c": 15.2,
+        "peak_season": false
+      },
+      {
+        "month": 5,
+        "month_name": "May",
+        "avg_temp_c": 17.5,
+        "avg_rain_days": 7.8,
+        "avg_sunshine_hours": 12.2,
+        "sea_temp_c": 18.2,
+        "peak_season": false
+      },
+      {
+        "month": 6,
+        "month_name": "June",
+        "avg_temp_c": 22.3,
+        "avg_rain_days": 3.8,
+        "avg_sunshine_hours": 13.4,
+        "sea_temp_c": 22.8,
+        "peak_season": false
+      },
+      {
+        "month": 7,
+        "month_name": "July",
+        "avg_temp_c": 24.7,
+        "avg_rain_days": 4.8,
+        "avg_sunshine_hours": 13.5,
+        "sea_temp_c": 26.2,
+        "peak_season": true
+      },
+      {
+        "month": 8,
+        "month_name": "August",
+        "avg_temp_c": 24.5,
+        "avg_rain_days": 5.4,
+        "avg_sunshine_hours": 12.5,
+        "sea_temp_c": 26.1,
+        "peak_season": false
+      },
+      {
+        "month": 9,
+        "month_name": "September",
+        "avg_temp_c": 21.6,
+        "avg_rain_days": 9.4,
+        "avg_sunshine_hours": 10.2,
+        "sea_temp_c": 23.9,
+        "peak_season": false
+      },
+      {
+        "month": 10,
+        "month_name": "October",
+        "avg_temp_c": 18.3,
+        "avg_rain_days": 8.0,
+        "avg_sunshine_hours": 8.8,
+        "sea_temp_c": 21.4,
+        "peak_season": false
+      },
+      {
+        "month": 11,
+        "month_name": "November",
+        "avg_temp_c": 14.3,
+        "avg_rain_days": 14.2,
+        "avg_sunshine_hours": 6.1,
+        "sea_temp_c": 18.6,
+        "peak_season": false
+      },
+      {
+        "month": 12,
+        "month_name": "December",
+        "avg_temp_c": 11.8,
+        "avg_rain_days": 13.8,
+        "avg_sunshine_hours": 5.4,
+        "sea_temp_c": 16.0,
+        "peak_season": false
+      }
+    ],
+    "best_months": [
+      "June",
+      "August"
+    ],
+    "peak_season_months": [
+      "July"
+    ]
+  },
+  "points_of_interest": {
+    "beaches": [
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.3684706,
+          "lon": 14.6939248
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "pebblestone"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.3695514,
+          "lon": 14.693836
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "pebblestone"
+        },
+        "notes": null
+      },
+      {
+        "name": "Žalić",
+        "coordinates": {
+          "lat": 44.3742259,
+          "lon": 14.6918687
+        },
+        "osm_tags": {
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.3720381,
+          "lon": 14.7021004
+        },
+        "osm_tags": {
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.3717017,
+          "lon": 14.703393
+        },
+        "osm_tags": {
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": "Tratica",
+        "coordinates": {
+          "lat": 44.3759707,
+          "lon": 14.6913431
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "pebblestone"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.3593772,
+          "lon": 14.7025425
+        },
+        "osm_tags": {
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.3573051,
+          "lon": 14.7067031
+        },
+        "osm_tags": {
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.3580044,
+          "lon": 14.7217344
+        },
+        "osm_tags": {
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.3752156,
+          "lon": 14.6914144
+        },
+        "osm_tags": {
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.4050316,
+          "lon": 14.6981017
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "rocky"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.3633454,
+          "lon": 14.6928241
+        },
+        "osm_tags": {
+          "natural": "beach"
+        },
+        "notes": null
+      }
+    ],
+    "restaurants": [
+      {
+        "name": "MIK",
+        "coordinates": {
+          "lat": 44.3744958,
+          "lon": 14.6973458
+        },
+        "osm_tags": {
+          "amenity": "cafe",
+          "internet_access": "wlan",
+          "wifi": "yes"
+        },
+        "notes": null
+      },
+      {
+        "name": "Turist",
+        "coordinates": {
+          "lat": 44.3740879,
+          "lon": 14.6965856
+        },
+        "osm_tags": {
+          "amenity": "restaurant",
+          "check_date": "2024-07-17",
+          "cuisine": "pizza",
+          "indoor_seating": "yes",
+          "internet_access": "wlan",
+          "opening_hours:kitchen": "16:00",
+          "outdoor_seating": "yes"
+        },
+        "notes": null
+      },
+      {
+        "name": "Vila Velebita",
+        "coordinates": {
+          "lat": 44.3735999,
+          "lon": 14.69613
+        },
+        "osm_tags": {
+          "amenity": "restaurant",
+          "check_date": "2025-07-13",
+          "outdoor_seating": "yes",
+          "phone": "+385 98 175 6409",
+          "website": "http://www.vilavelebita-silba.hr/"
+        },
+        "notes": null
+      },
+      {
+        "name": "Mul",
+        "coordinates": {
+          "lat": 44.3741897,
+          "lon": 14.7006101
+        },
+        "osm_tags": {
+          "amenity": "restaurant",
+          "check_date": "2024-07-13",
+          "payment:cards": "no",
+          "payment:cash": "yes",
+          "payment:credit_cards": "no",
+          "payment:debit_cards": "no"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.3894297,
+          "lon": 14.6953244
+        },
+        "osm_tags": {
+          "amenity": "restaurant"
+        },
+        "notes": null
+      },
+      {
+        "name": "Katrida Silba",
+        "coordinates": {
+          "lat": 44.3741592,
+          "lon": 14.7011663
+        },
+        "osm_tags": {
+          "amenity": "restaurant",
+          "check_date": "2024-07-13",
+          "contact:facebook": "https://www.facebook.com/katridasilba",
+          "opening_hours": "Mo-Su 12:00-23:00"
+        },
+        "notes": null
+      }
+    ],
+    "atms": [
+      {
+        "name": "Euronet",
+        "coordinates": {
+          "lat": 44.3741526,
+          "lon": 14.6921154
+        },
+        "osm_tags": {
+          "amenity": "atm",
+          "brand": "Euronet"
+        },
+        "notes": null
+      }
+    ],
+    "medical": [],
+    "accommodation": [
+      {
+        "name": "Fregadon",
+        "coordinates": {
+          "lat": 44.3740007,
+          "lon": 14.6934472
+        },
+        "osm_tags": {
+          "check_date": "2025-07-13",
+          "created_by": "Vespucci 0.6.5",
+          "opening_hours": "Mo-Su 09:00-14:00,18:00-23:00",
+          "tourism": "guest_house"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.3747562,
+          "lon": 14.6975272
+        },
+        "osm_tags": {
+          "addr:housenumber": "451",
+          "stars": "3",
+          "tourism": "guest_house"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.3784504,
+          "lon": 14.6909958
+        },
+        "osm_tags": {
+          "stars": "3",
+          "tourism": "guest_house"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.3776782,
+          "lon": 14.693587
+        },
+        "osm_tags": {
+          "stars": "3",
+          "tourism": "guest_house"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.3707006,
+          "lon": 14.6981066
+        },
+        "osm_tags": {
+          "tourism": "guest_house"
+        },
+        "notes": null
+      },
+      {
+        "name": "Palma Green & Yellow",
+        "coordinates": {
+          "lat": 44.378529,
+          "lon": 14.6916958
+        },
+        "osm_tags": {
+          "tourism": "guest_house"
+        },
+        "notes": null
+      },
+      {
+        "name": "Belvedere",
+        "coordinates": {
+          "lat": 44.3706257,
+          "lon": 14.6944923
+        },
+        "osm_tags": {
+          "check_date": "2024-07-18",
+          "tourism": "guest_house"
+        },
+        "notes": null
+      }
+    ],
+    "landmarks": [
+      {
+        "name": "Silba",
+        "coordinates": {
+          "lat": 44.3735371,
+          "lon": 14.6915973
+        },
+        "osm_tags": {
+          "amenity": "ferry_terminal",
+          "check_date": "2023-07-11",
+          "ferry": "yes",
+          "name:it": "Selve",
+          "public_transport": "stop_position"
+        },
+        "notes": null
+      },
+      {
+        "name": "Silbenskim borcima palim u NOB-u 1941-1945",
+        "coordinates": {
+          "lat": 44.3744866,
+          "lon": 14.6957079
+        },
+        "osm_tags": {
+          "historic": "memorial",
+          "inscription": "VJEČNA HVALA I SLAVA SILBENSKIM BORCIMA PALIM U NOB-U 1941-1945\nBAČI JOSIP\nBERNIĆ IVAN\nBOTA ANTE\nMATEŠIĆ DALIBOR\nMATEŠIĆ LAV\nMATEŠIĆ VSEVOLOD\nMOTUŠIĆ PAŠKO\nSUPIČIĆ BRANKO\nSUPIČIĆ PRVISLAV\nSUPIČIĆ VINKO\nĆULUN FRA KARLO\nLAZARIN PETAR\nPETITO ANTE\n22.XII 1963",
+          "memorial": "sculpture",
+          "start_date": "1963-12-22"
+        },
+        "notes": null
+      },
+      {
+        "name": "Oslobađanje Silbe od kmetstva",
+        "coordinates": {
+          "lat": 44.374624,
+          "lon": 14.696
+        },
+        "osm_tags": {
+          "historic": "memorial",
+          "inscription": "19.III.1852. NAŠI STARI OTKUPIŠE OSLOBODIŠE OTOK OD KMETSTVA",
+          "memorial": "plaque",
+          "start_date": "1952-03-19"
+        },
+        "notes": null
+      }
+    ]
+  },
+  "practical": {
+    "atm_available": true,
+    "atm_count": 1,
+    "medical_facility": false,
+    "cash_only_warning": true,
+    "day_trip_viable": true,
+    "nearby_islands": [
+      "Dugi otok",
+      "Ilovik",
+      "Ist",
+      "Iž",
+      "Lošinj",
+      "Molat",
+      "Olib",
+      "Pag",
+      "Premuda",
+      "Rab"
+    ],
+    "recommended_stay_nights": 2
+  }
+}

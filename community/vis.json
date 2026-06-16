@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "island": "Vis",
+    "slug": "vis",
+    "last_updated": "2026-06-16",
+    "contributed_by": "curator"
+  },
+  "identity": {
+    "population": 3460,
+    "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/J32_438_Vis-Stadt%2C_Vi%C5%A1ka_Luka.jpg/960px-J32_438_Vis-Stadt%2C_Vi%C5%A1ka_Luka.jpg?_=20200423000527",
+    "hero_image_credit": null,
+    "tagline": "Croatia's most remote inhabited island — closed to tourists until 1989, still fiercely itself.",
+    "best_for": ["authentic atmosphere", "wine", "diving", "sea caves", "escaping the crowds"]
+  },
+  "practical": {
+    "car_free": false,
+    "cash_only_warning": false,
+    "day_trip_viable": false,
+    "day_trip_note": "Vis is 2.5 hours from Split by ferry — too far for a comfortable day trip. Plan at least two nights to justify the journey and actually feel the island.",
+    "recommended_stay_nights": 3
+  },
+  "getting_there": {
+    "ferry_notes": "One main ferry route from Split, run by Jadrolinija. Journey takes approximately 2.5 hours. Significantly fewer sailings than Hvar or Brač — check the schedule carefully, especially for return trips. Book in advance in peak season.",
+    "ferry_routes": [
+      {
+        "origin": "Split",
+        "operator": "Jadrolinija",
+        "duration_minutes": 150,
+        "frequency_peak": 4,
+        "frequency_low": 2,
+        "bikes_allowed": true,
+        "cars_allowed": true,
+        "community_note": "The only direct ferry connection. Limited sailings — plan around the timetable."
+      }
+    ]
+  },
+  "nearby_islands": [
+    {
+      "name": "Biševo",
+      "duration_minutes": 45,
+      "description": "A tiny island with the famous Blue Cave (Modra špilja) — one of Croatia's most visited natural attractions.",
+      "worth_visiting_for": "The Blue Cave. Go early morning for the best light inside the cave."
+    },
+    {
+      "name": "Hvar",
+      "duration_minutes": 90,
+      "description": "Croatia's most famous island, a complete contrast to the quietness of Vis.",
+      "worth_visiting_for": "If you want nightlife and a busier scene after the tranquillity of Vis."
+    }
+  ],
+  "hidden_gems": [
+    {
+      "title": "Stiniva Cove",
+      "description": "Consistently rated one of Croatia's most beautiful beaches — a narrow pebble cove reached through a dramatic rock gap. Crowded at midday in summer, magical at dawn or dusk."
+    },
+    {
+      "title": "Vis town wine bars",
+      "description": "Vis produces some of Croatia's best indigenous wines, particularly Vugava white and Plavac Mali red. The wine bars in Vis town are unpretentious and excellent."
+    }
+  ],
+  "local_warnings": [
+    "Ferry frequency is low — missing the last return sailing means an unplanned extra night on the island.",
+    "The Blue Cave on Biševo requires a boat trip and gets extremely crowded in July and August. Book in advance or go in June or September."
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "island": "Hvar",
+    "slug": "hvar",
+    "last_updated": "2026-06-16",
+    "contributed_by": "curator"
+  },
+  "identity": {
+    "population": 11103,
+    "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Evening_Plaza_%2836869180223%29.jpg/960px-Evening_Plaza_%2836869180223%29.jpg?_=20211129053545",
+    "hero_image_credit": null,
+    "tagline": "Croatia's sunniest island — lavender fields, medieval towns, and a buzzing nightlife.",
+    "best_for": ["nightlife", "culture", "beaches", "sailing", "food and wine"]
+  },
+  "practical": {
+    "car_free": false,
+    "cash_only_warning": false,
+    "day_trip_viable": true,
+    "day_trip_note": "Hvar is reachable as a day trip from Split but the island rewards at least one night — the old town comes alive in the evening."
+  },
+  "getting_there": {
+    "ferry_notes": "Car ferries run from Split to Stari Grad (the main ferry port, ~2 hours). A faster catamaran runs Split to Hvar town directly (~1 hour, passengers only, no cars or bikes). If driving, use the Stari Grad ferry and drive across the island.",
+    "ferry_routes": [
+      {
+        "origin": "Split",
+        "operator": "Jadrolinija",
+        "duration_minutes": 120,
+        "frequency_peak": 14,
+        "frequency_low": 4,
+        "bikes_allowed": true,
+        "cars_allowed": true,
+        "community_note": "Car ferry to Stari Grad. Book car spaces in advance in July and August."
+      },
+      {
+        "origin": "Drvenik",
+        "operator": "Jadrolinija",
+        "duration_minutes": 35,
+        "frequency_peak": 12,
+        "frequency_low": 6,
+        "bikes_allowed": true,
+        "cars_allowed": true,
+        "community_note": "Short car ferry to Sućuraj on the eastern tip of the island. Useful if driving from Dalmatia."
+      }
+    ]
+  },
+  "nearby_islands": [
+    {
+      "name": "Brač",
+      "duration_minutes": 60,
+      "description": "Home to Zlatni Rat, Croatia's most photographed beach.",
+      "worth_visiting_for": "The beach and the town of Bol."
+    },
+    {
+      "name": "Vis",
+      "duration_minutes": 90,
+      "description": "Remote, quiet, and increasingly popular with travellers seeking the road less taken.",
+      "worth_visiting_for": "The Blue Cave and a slower pace than Hvar."
+    },
+    {
+      "name": "Pakleni Islands",
+      "duration_minutes": 15,
+      "description": "A string of small uninhabited islands just off Hvar town with excellent swimming.",
+      "worth_visiting_for": "A half-day boat trip from Hvar town harbour."
+    }
+  ]
+}

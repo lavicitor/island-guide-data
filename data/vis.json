@@ -1,0 +1,2497 @@
+{
+  "meta": {
+    "island": "Vis",
+    "slug": "vis",
+    "generated_at": "2026-06-16T20:03:14Z",
+    "data_quality": {
+      "osm_poi_count": 176,
+      "ferry_routes_found": 1,
+      "weather_months_complete": 12,
+      "coverage_warning": null
+    }
+  },
+  "identity": {
+    "name": "Vis",
+    "name_hr": "Vis",
+    "region": "Split-Dalmatia County",
+    "coordinates": {
+      "lat": 43.0425,
+      "lon": 16.1525
+    },
+    "area_km2": 90.3,
+    "population": null,
+    "car_free": true,
+    "description": "Vis je istureni hrvatski otok u Jadranskom moru. Od kopna je udaljen 45 km.",
+    "best_for": []
+  },
+  "getting_there": {
+    "ferry_routes": [
+      {
+        "origin": "Split",
+        "destination": "Vis",
+        "operator": "Jadrolinija",
+        "duration_minutes": null,
+        "frequency_peak": null,
+        "frequency_low": null,
+        "bikes_allowed": true,
+        "cars_allowed": null,
+        "booking_url": "https://www.jadrolinija.hr/en/travel/split_–_vis"
+      }
+    ]
+  },
+  "weather": {
+    "monthly": [
+      {
+        "month": 1,
+        "month_name": "January",
+        "avg_temp_c": 10.0,
+        "avg_rain_days": 11.2,
+        "avg_sunshine_hours": 6.6,
+        "sea_temp_c": 15.8,
+        "peak_season": false
+      },
+      {
+        "month": 2,
+        "month_name": "February",
+        "avg_temp_c": 10.3,
+        "avg_rain_days": 10.4,
+        "avg_sunshine_hours": 8.2,
+        "sea_temp_c": 15.1,
+        "peak_season": false
+      },
+      {
+        "month": 3,
+        "month_name": "March",
+        "avg_temp_c": 10.9,
+        "avg_rain_days": 10.8,
+        "avg_sunshine_hours": 9.3,
+        "sea_temp_c": 15.2,
+        "peak_season": false
+      },
+      {
+        "month": 4,
+        "month_name": "April",
+        "avg_temp_c": 12.7,
+        "avg_rain_days": 6.8,
+        "avg_sunshine_hours": 11.1,
+        "sea_temp_c": 16.0,
+        "peak_season": false
+      },
+      {
+        "month": 5,
+        "month_name": "May",
+        "avg_temp_c": 16.3,
+        "avg_rain_days": 7.4,
+        "avg_sunshine_hours": 12.4,
+        "sea_temp_c": 18.5,
+        "peak_season": false
+      },
+      {
+        "month": 6,
+        "month_name": "June",
+        "avg_temp_c": 20.9,
+        "avg_rain_days": 3.0,
+        "avg_sunshine_hours": 13.4,
+        "sea_temp_c": 23.0,
+        "peak_season": false
+      },
+      {
+        "month": 7,
+        "month_name": "July",
+        "avg_temp_c": 23.5,
+        "avg_rain_days": 2.4,
+        "avg_sunshine_hours": 13.6,
+        "sea_temp_c": 25.7,
+        "peak_season": false
+      },
+      {
+        "month": 8,
+        "month_name": "August",
+        "avg_temp_c": 23.5,
+        "avg_rain_days": 4.8,
+        "avg_sunshine_hours": 12.8,
+        "sea_temp_c": 26.0,
+        "peak_season": false
+      },
+      {
+        "month": 9,
+        "month_name": "September",
+        "avg_temp_c": 20.8,
+        "avg_rain_days": 6.4,
+        "avg_sunshine_hours": 10.7,
+        "sea_temp_c": 24.6,
+        "peak_season": false
+      },
+      {
+        "month": 10,
+        "month_name": "October",
+        "avg_temp_c": 17.7,
+        "avg_rain_days": 6.2,
+        "avg_sunshine_hours": 9.3,
+        "sea_temp_c": 21.8,
+        "peak_season": false
+      },
+      {
+        "month": 11,
+        "month_name": "November",
+        "avg_temp_c": 14.2,
+        "avg_rain_days": 14.2,
+        "avg_sunshine_hours": 6.7,
+        "sea_temp_c": 19.4,
+        "peak_season": false
+      },
+      {
+        "month": 12,
+        "month_name": "December",
+        "avg_temp_c": 11.6,
+        "avg_rain_days": 13.8,
+        "avg_sunshine_hours": 6.3,
+        "sea_temp_c": 17.3,
+        "peak_season": false
+      }
+    ],
+    "best_months": [
+      "June",
+      "July",
+      "August"
+    ],
+    "peak_season_months": []
+  },
+  "points_of_interest": {
+    "beaches": [
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.073447,
+          "lon": 16.1921679
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "nudism": "yes"
+        },
+        "notes": null
+      },
+      {
+        "name": "Stončica",
+        "coordinates": {
+          "lat": 43.0645515,
+          "lon": 16.2418033
+        },
+        "osm_tags": {
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": "Milna",
+        "coordinates": {
+          "lat": 43.0399753,
+          "lon": 16.2305328
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "sand"
+        },
+        "notes": null
+      },
+      {
+        "name": "Zaglav",
+        "coordinates": {
+          "lat": 43.032677,
+          "lon": 16.2284777
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "sand"
+        },
+        "notes": null
+      },
+      {
+        "name": "Srebrna",
+        "coordinates": {
+          "lat": 43.0203887,
+          "lon": 16.2053594
+        },
+        "osm_tags": {
+          "name:de": "Srebrna Strand",
+          "natural": "beach",
+          "surface": "gravel"
+        },
+        "notes": null
+      },
+      {
+        "name": "Stiniva",
+        "coordinates": {
+          "lat": 43.0214116,
+          "lon": 16.1716032
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "tourism": "attraction"
+        },
+        "notes": null
+      },
+      {
+        "name": "Novo Pošta FKK",
+        "coordinates": {
+          "lat": 43.035882,
+          "lon": 16.0932527
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "nudism": "yes"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0456045,
+          "lon": 16.0888245
+        },
+        "osm_tags": {
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": "Perna",
+        "coordinates": {
+          "lat": 43.0487789,
+          "lon": 16.059638
+        },
+        "osm_tags": {
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": "Barjosko",
+        "coordinates": {
+          "lat": 43.0515259,
+          "lon": 16.0561456
+        },
+        "osm_tags": {
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": "Pizdica",
+        "coordinates": {
+          "lat": 43.0283195,
+          "lon": 16.0935526
+        },
+        "osm_tags": {
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": "Velu Zolo",
+        "coordinates": {
+          "lat": 43.0247192,
+          "lon": 16.0931305
+        },
+        "osm_tags": {
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": "Bele Stine",
+        "coordinates": {
+          "lat": 43.0471879,
+          "lon": 16.0788985
+        },
+        "osm_tags": {
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": "Gusarica",
+        "coordinates": {
+          "lat": 43.0478417,
+          "lon": 16.0848763
+        },
+        "osm_tags": {
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": "Knezica",
+        "coordinates": {
+          "lat": 43.0442326,
+          "lon": 16.0639595
+        },
+        "osm_tags": {
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": "Kupinovac Mali",
+        "coordinates": {
+          "lat": 43.0211979,
+          "lon": 16.0900278
+        },
+        "osm_tags": {
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": "Mlin",
+        "coordinates": {
+          "lat": 43.0401743,
+          "lon": 16.0909812
+        },
+        "osm_tags": {
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": "Pol Borcića",
+        "coordinates": {
+          "lat": 43.0466147,
+          "lon": 16.0599025
+        },
+        "osm_tags": {
+          "alt_name": "Podborcića",
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": "Pritiscina",
+        "coordinates": {
+          "lat": 43.0084187,
+          "lon": 16.1130031
+        },
+        "osm_tags": {
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": "Templuz FKK",
+        "coordinates": {
+          "lat": 43.0344784,
+          "lon": 16.093483
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "nudism": "yes"
+        },
+        "notes": null
+      },
+      {
+        "name": "Zukamice",
+        "coordinates": {
+          "lat": 43.059014,
+          "lon": 16.0598486
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "source": "Bing"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0470589,
+          "lon": 16.0862647
+        },
+        "osm_tags": {
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": "Vartalac",
+        "coordinates": {
+          "lat": 43.0392477,
+          "lon": 16.0914316
+        },
+        "osm_tags": {
+          "dog": "yes",
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": "Kamenice",
+        "coordinates": {
+          "lat": 43.0383291,
+          "lon": 16.0919546
+        },
+        "osm_tags": {
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": "Grandovac",
+        "coordinates": {
+          "lat": 43.0684008,
+          "lon": 16.2061911
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "source": "Bing"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0714311,
+          "lon": 16.2289385
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "source": "Bing"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0714824,
+          "lon": 16.2225061
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "source": "Bing"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0712663,
+          "lon": 16.2205777
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "source": "Bing"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0582126,
+          "lon": 16.2522589
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "source": "Bing"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0721398,
+          "lon": 16.2373456
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "source": "Bing"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0657977,
+          "lon": 16.2413789
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "source": "Bing"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0703023,
+          "lon": 16.2399935
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "source": "Bing"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0657535,
+          "lon": 16.2489206
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "source": "Bing"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0431548,
+          "lon": 16.2405043
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "source": "Bing"
+        },
+        "notes": null
+      },
+      {
+        "name": "Lucica",
+        "coordinates": {
+          "lat": 43.0430182,
+          "lon": 16.088841
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "source": "Bing"
+        },
+        "notes": null
+      },
+      {
+        "name": "FKK",
+        "coordinates": {
+          "lat": 43.0180382,
+          "lon": 16.204799
+        },
+        "osm_tags": {
+          "description": "FKK",
+          "name:de": "FKK Strand",
+          "natural": "beach",
+          "nudism": "yes",
+          "surface": "paving_stones"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0731888,
+          "lon": 16.1317086
+        },
+        "osm_tags": {
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": "Velo Travna",
+        "coordinates": {
+          "lat": 43.0212939,
+          "lon": 16.1858907
+        },
+        "osm_tags": {
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": "Teplus",
+        "coordinates": {
+          "lat": 43.0197645,
+          "lon": 16.2119847
+        },
+        "osm_tags": {
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": "Bili bok",
+        "coordinates": {
+          "lat": 43.0178596,
+          "lon": 16.211349
+        },
+        "osm_tags": {
+          "description": "FKK",
+          "fee": "no",
+          "natural": "beach",
+          "nudism": "yes",
+          "surface": "stone",
+          "wheelchair": "no"
+        },
+        "notes": null
+      },
+      {
+        "name": "Mala Srebrna",
+        "coordinates": {
+          "lat": 43.0225785,
+          "lon": 16.2037222
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "opening_hours": "24/7",
+          "supervised": "no",
+          "surface": "pebblestone"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.008414,
+          "lon": 16.1037662
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "gravel"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0089093,
+          "lon": 16.109698
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "gravel"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0169039,
+          "lon": 16.1559821
+        },
+        "osm_tags": {
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": "PRIROVO BEACH",
+        "coordinates": {
+          "lat": 43.0642156,
+          "lon": 16.1890724
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "rocky"
+        },
+        "notes": null
+      }
+    ],
+    "restaurants": [
+      {
+        "name": "Konoba Ferol",
+        "coordinates": {
+          "lat": 43.0308256,
+          "lon": 16.212959
+        },
+        "osm_tags": {
+          "amenity": "restaurant",
+          "cuisine": "regional"
+        },
+        "notes": null
+      },
+      {
+        "name": "Konoba Dalmatino",
+        "coordinates": {
+          "lat": 43.0221135,
+          "lon": 16.2129793
+        },
+        "osm_tags": {
+          "amenity": "restaurant",
+          "cuisine": "regional",
+          "opening_hours": "Mo-Su,PH 12:00-23:00"
+        },
+        "notes": null
+      },
+      {
+        "name": "Konoba Le Terrazze",
+        "coordinates": {
+          "lat": 43.0219112,
+          "lon": 16.2113814
+        },
+        "osm_tags": {
+          "amenity": "restaurant",
+          "cuisine": "regional"
+        },
+        "notes": null
+      },
+      {
+        "name": "Konoba Kuca Keja",
+        "coordinates": {
+          "lat": 43.0285204,
+          "lon": 16.1416099
+        },
+        "osm_tags": {
+          "amenity": "restaurant",
+          "cuisine": "regional",
+          "operator": "Niko Zambarlin",
+          "phone": "+385 (0)98 776553"
+        },
+        "notes": null
+      },
+      {
+        "name": "Dionis Pizzeria",
+        "coordinates": {
+          "lat": 43.0590132,
+          "lon": 16.1869004
+        },
+        "osm_tags": {
+          "amenity": "restaurant"
+        },
+        "notes": null
+      },
+      {
+        "name": "Konoba Gostiona Vis",
+        "coordinates": {
+          "lat": 43.0603984,
+          "lon": 16.1847012
+        },
+        "osm_tags": {
+          "addr:street": "Obala sv. Jurja",
+          "amenity": "restaurant",
+          "cuisine": "croatian;fish;local;regional;seafood",
+          "opening_hours": "Mo-Su 18:00-23:00"
+        },
+        "notes": null
+      },
+      {
+        "name": "Konoba Kantun",
+        "coordinates": {
+          "lat": 43.0590355,
+          "lon": 16.1880326
+        },
+        "osm_tags": {
+          "amenity": "restaurant",
+          "opening_hours": "Mo-Su 17:00-24:00"
+        },
+        "notes": null
+      },
+      {
+        "name": "Restaurant Val",
+        "coordinates": {
+          "lat": 43.0582309,
+          "lon": 16.1985523
+        },
+        "osm_tags": {
+          "addr:city": "Vis",
+          "addr:housenumber": "1",
+          "addr:postcode": "21480",
+          "addr:street": "Marasovića don Cvjetka",
+          "amenity": "restaurant",
+          "cuisine": "croatian;mediterranean;seafood",
+          "opening_hours": "Mo-Su 12:00-01:00",
+          "phone": "+385 21 711 763",
+          "phone_1": "+385 91 508 20155"
+        },
+        "notes": null
+      },
+      {
+        "name": "Konoba koluna",
+        "coordinates": {
+          "lat": 43.0441591,
+          "lon": 16.0890256
+        },
+        "osm_tags": {
+          "addr:city": "Komiža",
+          "addr:postcode": "21485",
+          "amenity": "restaurant"
+        },
+        "notes": null
+      },
+      {
+        "name": "Pizzeria Charly",
+        "coordinates": {
+          "lat": 43.0443392,
+          "lon": 16.0895362
+        },
+        "osm_tags": {
+          "addr:city": "Komiža",
+          "addr:postcode": "21485",
+          "amenity": "restaurant"
+        },
+        "notes": null
+      },
+      {
+        "name": "Dal Mare",
+        "coordinates": {
+          "lat": 43.0442205,
+          "lon": 16.0892152
+        },
+        "osm_tags": {
+          "addr:city": "Komiža",
+          "addr:postcode": "21485",
+          "amenity": "restaurant"
+        },
+        "notes": null
+      },
+      {
+        "name": "Bejbi",
+        "coordinates": {
+          "lat": 43.0623037,
+          "lon": 16.1837626
+        },
+        "osm_tags": {
+          "amenity": "bar"
+        },
+        "notes": null
+      },
+      {
+        "name": "Mileva",
+        "coordinates": {
+          "lat": 43.0599207,
+          "lon": 16.1850071
+        },
+        "osm_tags": {
+          "amenity": "cafe"
+        },
+        "notes": null
+      },
+      {
+        "name": "Konoba Tavern Vatricai",
+        "coordinates": {
+          "lat": 43.0589252,
+          "lon": 16.1991692
+        },
+        "osm_tags": {
+          "amenity": "restaurant",
+          "cuisine": "regional",
+          "outdoor_seating": "terrace",
+          "start_date": "1979"
+        },
+        "notes": null
+      },
+      {
+        "name": "Riva",
+        "coordinates": {
+          "lat": 43.0594347,
+          "lon": 16.1867023
+        },
+        "osm_tags": {
+          "amenity": "cafe",
+          "opening_hours": "07:00-01:00"
+        },
+        "notes": null
+      },
+      {
+        "name": "caffe bar SPEED",
+        "coordinates": {
+          "lat": 43.0454602,
+          "lon": 16.0894116
+        },
+        "osm_tags": {
+          "addr:housenumber": "12",
+          "addr:street": "Škor",
+          "amenity": "bar"
+        },
+        "notes": null
+      },
+      {
+        "name": "Pirkotova Lula ex. Bane",
+        "coordinates": {
+          "lat": 43.0455149,
+          "lon": 16.0894068
+        },
+        "osm_tags": {
+          "addr:housenumber": "8",
+          "addr:street": "Školska ulica",
+          "amenity": "bar",
+          "cuisine": "croatian",
+          "diet:vegan": "yes",
+          "diet:vegetarian": "yes"
+        },
+        "notes": null
+      },
+      {
+        "name": "Riva",
+        "coordinates": {
+          "lat": 43.0447027,
+          "lon": 16.0897101
+        },
+        "osm_tags": {
+          "addr:city": "Komiža",
+          "addr:postcode": "21485",
+          "amenity": "cafe"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0428195,
+          "lon": 16.088856
+        },
+        "osm_tags": {
+          "amenity": "bar",
+          "check_date": "2023-09-16",
+          "payment:cards": "no",
+          "payment:credit_cards": "no",
+          "payment:debit_cards": "no"
+        },
+        "notes": null
+      },
+      {
+        "name": "Konoba Pol Murvu",
+        "coordinates": {
+          "lat": 43.0346275,
+          "lon": 16.138826
+        },
+        "osm_tags": {
+          "amenity": "restaurant"
+        },
+        "notes": null
+      },
+      {
+        "name": "Fabrika",
+        "coordinates": {
+          "lat": 43.0441068,
+          "lon": 16.0888235
+        },
+        "osm_tags": {
+          "addr:city": "Komiža",
+          "addr:housenumber": "12",
+          "addr:postcode": "21485",
+          "addr:street": "Riva svetega Mikule",
+          "amenity": "restaurant",
+          "check_date": "2023-09-13",
+          "contact:facebook": "Fabrika.hr",
+          "contact:instagram": "bistro_fabrika",
+          "cuisine": "breakfast;burger;international",
+          "diet:vegetarian": "yes",
+          "email": "info@fabrikavis.hr",
+          "internet_access": "wlan",
+          "name:fr": "Fabrika",
+          "opening_hours": "Mo-Su 08:00-00:00",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes",
+          "phone": "+385 21 713 155"
+        },
+        "notes": null
+      },
+      {
+        "name": "Diamond Beach Fish Fine Food",
+        "coordinates": {
+          "lat": 43.0195428,
+          "lon": 16.2118929
+        },
+        "osm_tags": {
+          "amenity": "bar"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0644308,
+          "lon": 16.2418965
+        },
+        "osm_tags": {
+          "amenity": "bar"
+        },
+        "notes": null
+      },
+      {
+        "name": "Stončica",
+        "coordinates": {
+          "lat": 43.0646411,
+          "lon": 16.2413565
+        },
+        "osm_tags": {
+          "amenity": "restaurant",
+          "phone": "+385912512262"
+        },
+        "notes": null
+      },
+      {
+        "name": "Konoba Bako",
+        "coordinates": {
+          "lat": 43.046774,
+          "lon": 16.0871519
+        },
+        "osm_tags": {
+          "addr:housenumber": "1",
+          "addr:postcode": "21485",
+          "addr:street": "Gundulićeva",
+          "amenity": "restaurant",
+          "check_date": "2023-09-16",
+          "contact:facebook": "pages/Konoba-Bako-Komiza-Vis/206846929352900",
+          "cuisine": "croatian;mediterranean;seafood",
+          "diet:fish": "yes",
+          "email": "info@konobabako.hr",
+          "internet_access": "wlan",
+          "internet_access:fee": "customers",
+          "name:fr": "Restaurant Bako",
+          "opening_hours": "Mo-Su 16:00-01:00",
+          "outdoor_seating": "yes",
+          "payment:mastercard": "yes",
+          "payment:visa": "yes",
+          "phone": "+385 21 713 742;+385 98 360 469",
+          "reservation": "yes",
+          "smoking": "outside",
+          "website": "https://konobabako.hr/",
+          "wheelchair": "no"
+        },
+        "notes": null
+      },
+      {
+        "name": "Roki's",
+        "coordinates": {
+          "lat": 43.0338462,
+          "lon": 16.1834152
+        },
+        "osm_tags": {
+          "amenity": "restaurant",
+          "outdoor_seating": "yes",
+          "takeaway": "no"
+        },
+        "notes": null
+      },
+      {
+        "name": "Konoba Golub",
+        "coordinates": {
+          "lat": 43.0438249,
+          "lon": 16.1917559
+        },
+        "osm_tags": {
+          "amenity": "restaurant",
+          "source": "Bing"
+        },
+        "notes": null
+      },
+      {
+        "name": "Alavia Bar",
+        "coordinates": {
+          "lat": 43.063242,
+          "lon": 16.1886079
+        },
+        "osm_tags": {
+          "addr:city": "Vis",
+          "addr:housenumber": "2",
+          "addr:postcode": "21480",
+          "addr:street": "Šetalište Apolonija Zanelle",
+          "amenity": "bar",
+          "brewery": "yes;Pan",
+          "description": "Cocktail bar and café",
+          "opening_hours": "Mo-Su 08:00-23:00",
+          "outdoor_seating": "yes"
+        },
+        "notes": null
+      },
+      {
+        "name": "Konoba Senko Karuza",
+        "coordinates": {
+          "lat": 43.0204307,
+          "lon": 16.1795218
+        },
+        "osm_tags": {
+          "amenity": "restaurant",
+          "cuisine": "regional;Fish",
+          "delivery": "no",
+          "outdoor_seating": "yes",
+          "takeaway": "no"
+        },
+        "notes": null
+      },
+      {
+        "name": "Konoba Magić",
+        "coordinates": {
+          "lat": 43.0534252,
+          "lon": 16.2338821
+        },
+        "osm_tags": {
+          "amenity": "restaurant",
+          "cuisine": "mediterranean;fish",
+          "delivery": "no",
+          "phone": "+385918984859",
+          "takeaway": "no"
+        },
+        "notes": null
+      },
+      {
+        "name": "Maxo",
+        "coordinates": {
+          "lat": 43.0328294,
+          "lon": 16.1424494
+        },
+        "osm_tags": {
+          "amenity": "restaurant",
+          "cuisine": "mediterranean;fish;local",
+          "delivery": "no",
+          "outdoor_seating": "yes",
+          "takeaway": "no"
+        },
+        "notes": null
+      },
+      {
+        "name": "Frutarija",
+        "coordinates": {
+          "lat": 43.0579262,
+          "lon": 16.1936871
+        },
+        "osm_tags": {
+          "addr:city": "Vis",
+          "addr:housenumber": "13",
+          "addr:postcode": "21480",
+          "addr:street": "Uliva Viški Boj",
+          "amenity": "bar",
+          "description": "Cocktail Bar, Breakfast, Brunch and Nibbles",
+          "opening_hours": "Mo-Su 08:00-24:00",
+          "outdoor_seating": "yes"
+        },
+        "notes": null
+      },
+      {
+        "name": "Orion",
+        "coordinates": {
+          "lat": 43.0442412,
+          "lon": 16.0893016
+        },
+        "osm_tags": {
+          "addr:city": "Komiža",
+          "addr:postcode": "21485",
+          "addr:street": "Riva Svetega Mikule",
+          "amenity": "bar",
+          "outdoor_seating": "yes"
+        },
+        "notes": null
+      },
+      {
+        "name": "Škor",
+        "coordinates": {
+          "lat": 43.0453348,
+          "lon": 16.0892848
+        },
+        "osm_tags": {
+          "amenity": "bar",
+          "outdoor_seating": "yes"
+        },
+        "notes": null
+      },
+      {
+        "name": "Dudo",
+        "coordinates": {
+          "lat": 43.0603701,
+          "lon": 16.1823866
+        },
+        "osm_tags": {
+          "addr:housenumber": "3",
+          "addr:street": "Vukovarska",
+          "amenity": "restaurant",
+          "cuisine": "regional;pizza",
+          "outdoor_seating": "yes"
+        },
+        "notes": null
+      },
+      {
+        "name": "Kod Paveta",
+        "coordinates": {
+          "lat": 43.0587282,
+          "lon": 16.1900828
+        },
+        "osm_tags": {
+          "addr:city": "Vis",
+          "addr:housenumber": "42",
+          "addr:postcode": "21480",
+          "addr:street": "Ulica Ivana Farolfija",
+          "amenity": "restaurant",
+          "cuisine": "regional",
+          "opening_hours": "Mo-Su 17:00-23:00",
+          "outdoor_seating": "yes"
+        },
+        "notes": null
+      },
+      {
+        "name": "Konoba",
+        "coordinates": {
+          "lat": 43.0582865,
+          "lon": 16.1982212
+        },
+        "osm_tags": {
+          "amenity": "restaurant"
+        },
+        "notes": null
+      },
+      {
+        "name": "Tavern Peruka",
+        "coordinates": {
+          "lat": 43.0214763,
+          "lon": 16.1713736
+        },
+        "osm_tags": {
+          "addr:city": "Vis",
+          "addr:housenumber": "2",
+          "addr:postcode": "21480",
+          "addr:street": "Stiniva",
+          "amenity": "restaurant",
+          "bar": "yes",
+          "cuisine": "seafood;regional;burger;pizza;sandwich",
+          "description": "Tavern Peruka is settled down in the shades of the high cliffs at the Stiniva beach. It offers refreshment drinks and food menus from breakfast to dinner. The speciality of Tavern Peruka is a fresh grilled fish and meat - ideal lunch or early dinner.",
+          "opening_hours": "Mo-Su 09:00-23:00",
+          "outdoor_seating": "yes",
+          "phone": "+385 92 164 6622",
+          "reservation": "yes",
+          "website": "https://restaurantscroatia.com/tavern-peruka/"
+        },
+        "notes": null
+      },
+      {
+        "name": "Belotovo Agritourismo",
+        "coordinates": {
+          "lat": 43.0314775,
+          "lon": 16.1809789
+        },
+        "osm_tags": {
+          "addr:housenumber": "2",
+          "addr:postcode": "21480",
+          "addr:street": "Belotovo",
+          "amenity": "restaurant"
+        },
+        "notes": null
+      },
+      {
+        "name": "AnDe bistro & bar",
+        "coordinates": {
+          "lat": 43.0586763,
+          "lon": 16.1896404
+        },
+        "osm_tags": {
+          "addr:housenumber": "2",
+          "addr:postcode": "21480",
+          "addr:street": "Viškog skupa",
+          "amenity": "restaurant",
+          "cuisine": "burger;coffee_shop;fish_and_chips;friture",
+          "internet_access": "wlan",
+          "opening_hours": "Mo-Su 10:00-23:00"
+        },
+        "notes": null
+      },
+      {
+        "name": "Konoba Tezok",
+        "coordinates": {
+          "lat": 43.0595217,
+          "lon": 16.1991212
+        },
+        "osm_tags": {
+          "amenity": "restaurant",
+          "outdoor_seating": "terrace"
+        },
+        "notes": null
+      },
+      {
+        "name": "Cafe Bar Josip",
+        "coordinates": {
+          "lat": 43.0585026,
+          "lon": 16.1986168
+        },
+        "osm_tags": {
+          "addr:housenumber": "1",
+          "addr:street": "Obala kralja Krešimira IV",
+          "amenity": "cafe"
+        },
+        "notes": null
+      },
+      {
+        "name": "bokum",
+        "coordinates": {
+          "lat": 43.0586137,
+          "lon": 16.1988927
+        },
+        "osm_tags": {
+          "amenity": "cafe"
+        },
+        "notes": null
+      },
+      {
+        "name": "Lambik",
+        "coordinates": {
+          "lat": 43.0586811,
+          "lon": 16.199139
+        },
+        "osm_tags": {
+          "amenity": "bar"
+        },
+        "notes": null
+      },
+      {
+        "name": "Pizzeria Kut",
+        "coordinates": {
+          "lat": 43.058302,
+          "lon": 16.1980002
+        },
+        "osm_tags": {
+          "addr:postcode": "21480",
+          "amenity": "restaurant",
+          "cuisine": "pizza"
+        },
+        "notes": null
+      },
+      {
+        "name": "Fort George",
+        "coordinates": {
+          "lat": 43.0735986,
+          "lon": 16.1964435
+        },
+        "osm_tags": {
+          "addr:postcode": "21480",
+          "addr:street": "Utvrda Sv. Juraj",
+          "amenity": "restaurant",
+          "cuisine": "croatian;mediterranean;seafood;steak_house",
+          "email": "info@fortgeorgecroatia.com",
+          "opening_hours": "Mo-Su 11:00-23:00",
+          "phone": "+385 91 265 6041",
+          "website": "https://www.fortgeorgecroatia.com/"
+        },
+        "notes": null
+      },
+      {
+        "name": "Pizzeria Charlie",
+        "coordinates": {
+          "lat": 43.0599699,
+          "lon": 16.18504
+        },
+        "osm_tags": {
+          "amenity": "restaurant"
+        },
+        "notes": null
+      },
+      {
+        "name": "Biliba",
+        "coordinates": {
+          "lat": 43.0597492,
+          "lon": 16.185218
+        },
+        "osm_tags": {
+          "amenity": "bar"
+        },
+        "notes": null
+      },
+      {
+        "name": "Konoba Dol",
+        "coordinates": {
+          "lat": 43.059501,
+          "lon": 16.1561725
+        },
+        "osm_tags": {
+          "amenity": "restaurant"
+        },
+        "notes": null
+      },
+      {
+        "name": "Corto Maltese",
+        "coordinates": {
+          "lat": 43.0450794,
+          "lon": 16.0896564
+        },
+        "osm_tags": {
+          "addr:street": "Riva svetega Mikule",
+          "amenity": "bar"
+        },
+        "notes": null
+      },
+      {
+        "name": "Corto Maltese",
+        "coordinates": {
+          "lat": 43.0450969,
+          "lon": 16.0897296
+        },
+        "osm_tags": {
+          "addr:street": "Ulica hrvatskih mučenika",
+          "amenity": "restaurant"
+        },
+        "notes": null
+      },
+      {
+        "name": "Speed",
+        "coordinates": {
+          "lat": 43.045278,
+          "lon": 16.0894639
+        },
+        "osm_tags": {
+          "addr:street": "Riva svetega Mikule",
+          "amenity": "bar"
+        },
+        "notes": null
+      },
+      {
+        "name": "Konoba Jastožera",
+        "coordinates": {
+          "lat": 43.0464733,
+          "lon": 16.0866426
+        },
+        "osm_tags": {
+          "addr:housenumber": "6",
+          "addr:postcode": "21485",
+          "addr:street": "Ivana Gundulića",
+          "amenity": "restaurant",
+          "email": "el.fiore7@gmail.com",
+          "opening_hours": "Mo-Su 12:00-00:00",
+          "phone": "+385919842513",
+          "website": "https://jastozera.eu/"
+        },
+        "notes": null
+      },
+      {
+        "name": "L'amoure per il gelato",
+        "coordinates": {
+          "lat": 43.0589275,
+          "lon": 16.187849
+        },
+        "osm_tags": {
+          "amenity": "cafe"
+        },
+        "notes": null
+      },
+      {
+        "name": "Peskarija 1911",
+        "coordinates": {
+          "lat": 43.0591376,
+          "lon": 16.1874073
+        },
+        "osm_tags": {
+          "addr:city": "Vis",
+          "addr:housenumber": "7",
+          "addr:postcode": "21480",
+          "addr:street": "Obala sv. Jurja",
+          "amenity": "restaurant",
+          "opening_hours": "Mo-Tu 17:00-01:00; We off; Th-Su 17:00-01:00",
+          "phone": "+385912718746"
+        },
+        "notes": null
+      },
+      {
+        "name": "Kula bistro",
+        "coordinates": {
+          "lat": 43.0602354,
+          "lon": 16.1843323
+        },
+        "osm_tags": {
+          "addr:postcode": "21480",
+          "amenity": "restaurant",
+          "cuisine": "croatian;local;pasta"
+        },
+        "notes": null
+      },
+      {
+        "name": "Mote i grgo",
+        "coordinates": {
+          "lat": 43.0577215,
+          "lon": 16.1973938
+        },
+        "osm_tags": {
+          "addr:street": "Ulica Vladimira Nazora",
+          "amenity": "restaurant",
+          "cuisine": "croatian"
+        },
+        "notes": null
+      },
+      {
+        "name": "Pizzeria Karijola",
+        "coordinates": {
+          "lat": 43.0581334,
+          "lon": 16.1916198
+        },
+        "osm_tags": {
+          "addr:postcode": "21480",
+          "addr:street": "Ulica Ivana Farolfija",
+          "amenity": "restaurant",
+          "cuisine": "pizza",
+          "opening_hours": "17:00-23:00"
+        },
+        "notes": null
+      },
+      {
+        "name": "Marshal",
+        "coordinates": {
+          "lat": 43.0588071,
+          "lon": 16.1891408
+        },
+        "osm_tags": {
+          "addr:housenumber": "7",
+          "addr:postcode": "21480",
+          "addr:street": "Ulica Ivana Farolfija",
+          "amenity": "restaurant",
+          "cuisine": "breakfast;coffee_shop;croatian;local;mediterranean"
+        },
+        "notes": null
+      },
+      {
+        "name": "Villa Kaliopa",
+        "coordinates": {
+          "lat": 43.0570447,
+          "lon": 16.196088
+        },
+        "osm_tags": {
+          "addr:postcode": "21480",
+          "addr:street": "Ulica Vladimira Nazora",
+          "amenity": "restaurant",
+          "cuisine": "croatian"
+        },
+        "notes": null
+      },
+      {
+        "name": "Lola Konaba & Bar",
+        "coordinates": {
+          "lat": 43.0593103,
+          "lon": 16.185886
+        },
+        "osm_tags": {
+          "addr:housenumber": "12",
+          "addr:street": "Ulica Matije Gupca",
+          "amenity": "bar",
+          "check_date": "2025-03-27",
+          "payment:cash": "yes",
+          "payment:credit_cards": "yes",
+          "payment:debit_cards": "yes",
+          "website": "https://www.lolavis.com"
+        },
+        "notes": null
+      },
+      {
+        "name": "Bar 587",
+        "coordinates": {
+          "lat": 43.0393273,
+          "lon": 16.0914937
+        },
+        "osm_tags": {
+          "amenity": "bar",
+          "internet_access": "wlan"
+        },
+        "notes": null
+      }
+    ],
+    "atms": [
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0453412,
+          "lon": 16.0903796
+        },
+        "osm_tags": {
+          "amenity": "atm",
+          "operator": "Erste"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0594432,
+          "lon": 16.1866164
+        },
+        "osm_tags": {
+          "amenity": "atm",
+          "check_date": "2025-06-18",
+          "operator": "Euronet Worldwide"
+        },
+        "notes": null
+      },
+      {
+        "name": "PBZ",
+        "coordinates": {
+          "lat": 43.0600953,
+          "lon": 16.18517
+        },
+        "osm_tags": {
+          "amenity": "atm",
+          "brand": "PBZ",
+          "brand:wikidata": "Q7246343",
+          "operator": "PBZ",
+          "operator:wikidata": "Q7246343"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0439978,
+          "lon": 16.0884717
+        },
+        "osm_tags": {
+          "amenity": "atm",
+          "cash_in": "no",
+          "check_date": "2023-09-14",
+          "operator": "OTP Banka"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0441838,
+          "lon": 16.089556
+        },
+        "osm_tags": {
+          "amenity": "atm",
+          "cash_in": "no",
+          "check_date": "2023-09-13",
+          "operator": "Euronet"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0589681,
+          "lon": 16.1991322
+        },
+        "osm_tags": {
+          "amenity": "atm"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0461908,
+          "lon": 16.0882549
+        },
+        "osm_tags": {
+          "amenity": "atm",
+          "brand": "Euronet",
+          "brand:wikidata": "Q5412010",
+          "cash_in": "no",
+          "check_date": "2023-09-13",
+          "operator": "Euronet",
+          "operator:wikidata": "Q5412010"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0452793,
+          "lon": 16.0896259
+        },
+        "osm_tags": {
+          "amenity": "atm",
+          "cash_in": "no",
+          "check_date": "2023-09-15",
+          "operator": "Monestiq"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0445496,
+          "lon": 16.0897142
+        },
+        "osm_tags": {
+          "amenity": "atm",
+          "cash_in": "no",
+          "check_date": "2023-09-18",
+          "operator": "Euronet"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0590194,
+          "lon": 16.1877706
+        },
+        "osm_tags": {
+          "amenity": "atm"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0587077,
+          "lon": 16.1894199
+        },
+        "osm_tags": {
+          "amenity": "atm",
+          "cash_in": "no",
+          "operator": "Euronet"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0603206,
+          "lon": 16.1846338
+        },
+        "osm_tags": {
+          "amenity": "atm",
+          "operator": "Euronet"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0597539,
+          "lon": 16.1856863
+        },
+        "osm_tags": {
+          "amenity": "atm",
+          "operator": "HPB"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0619764,
+          "lon": 16.1836919
+        },
+        "osm_tags": {
+          "amenity": "atm",
+          "operator": "Erste Bank"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.060165,
+          "lon": 16.1850779
+        },
+        "osm_tags": {
+          "amenity": "atm",
+          "cash_in": "yes",
+          "operator": "HPB"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0602036,
+          "lon": 16.1850387
+        },
+        "osm_tags": {
+          "amenity": "atm",
+          "operator": "Zagrebačka banka"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.061562,
+          "lon": 16.1835141
+        },
+        "osm_tags": {
+          "amenity": "atm",
+          "operator": "MoneyGet"
+        },
+        "notes": null
+      }
+    ],
+    "medical": [
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0600093,
+          "lon": 16.1830341
+        },
+        "osm_tags": {
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy"
+        },
+        "notes": null
+      },
+      {
+        "name": "Ambulanta",
+        "coordinates": {
+          "lat": 43.0466783,
+          "lon": 16.0909522
+        },
+        "osm_tags": {
+          "addr:city": "Komiža",
+          "addr:postcode": "21485",
+          "amenity": "pharmacy",
+          "healthcare": "pharmacy",
+          "opening_hours": "Mo-Fr 09:00-16:00; Sa 08:00-13:00",
+          "wheelchair": "no"
+        },
+        "notes": null
+      }
+    ],
+    "accommodation": [
+      {
+        "name": "Biševo",
+        "coordinates": {
+          "lat": 43.0479701,
+          "lon": 16.0858858
+        },
+        "osm_tags": {
+          "addr:city": "Komiža",
+          "addr:postcode": "21485",
+          "internet_access": "terminal",
+          "stars": "2",
+          "tourism": "hotel",
+          "website": "http://www.hotel-bisevo.com.hr/"
+        },
+        "notes": null
+      },
+      {
+        "name": "Dionis ",
+        "coordinates": {
+          "lat": 43.0590785,
+          "lon": 16.1868954
+        },
+        "osm_tags": {
+          "tourism": "guest_house"
+        },
+        "notes": null
+      },
+      {
+        "name": "Lavanda i ruzmarin",
+        "coordinates": {
+          "lat": 43.0266237,
+          "lon": 16.1769015
+        },
+        "osm_tags": {
+          "tourism": "guest_house"
+        },
+        "notes": null
+      },
+      {
+        "name": "Talez",
+        "coordinates": {
+          "lat": 43.0225961,
+          "lon": 16.1472416
+        },
+        "osm_tags": {
+          "historic": "archaeological_site",
+          "tourism": "guest_house"
+        },
+        "notes": null
+      },
+      {
+        "name": "Tamaris",
+        "coordinates": {
+          "lat": 43.0599834,
+          "lon": 16.1853933
+        },
+        "osm_tags": {
+          "tourism": "hotel"
+        },
+        "notes": null
+      },
+      {
+        "name": "Gala apartment",
+        "coordinates": {
+          "lat": 43.0445968,
+          "lon": 16.0897435
+        },
+        "osm_tags": {
+          "addr:city": "Komiža",
+          "addr:postcode": "21485",
+          "tourism": "apartment"
+        },
+        "notes": null
+      },
+      {
+        "name": "Apartment Podselje 2462a",
+        "coordinates": {
+          "lat": 43.0432147,
+          "lon": 16.1904358
+        },
+        "osm_tags": {
+          "source": "Bing",
+          "tourism": "guest_house"
+        },
+        "notes": null
+      },
+      {
+        "name": "Villa Dojmi",
+        "coordinates": {
+          "lat": 43.0341453,
+          "lon": 16.1526257
+        },
+        "osm_tags": {
+          "source": "Bing",
+          "tourism": "guest_house"
+        },
+        "notes": null
+      },
+      {
+        "name": "Country House Speedy",
+        "coordinates": {
+          "lat": 43.0232611,
+          "lon": 16.1287274
+        },
+        "osm_tags": {
+          "source": "Bing",
+          "tourism": "guest_house"
+        },
+        "notes": null
+      },
+      {
+        "name": "Apartmani Šimunović",
+        "coordinates": {
+          "lat": 43.0621936,
+          "lon": 16.1827028
+        },
+        "osm_tags": {
+          "addr:city": "Vis",
+          "addr:housenumber": "9",
+          "addr:postcode": "21480",
+          "addr:street": "Ulica Vlahe Paljetka",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "internet_access:ssid": "Apartmani Simunovic",
+          "tourism": "apartment"
+        },
+        "notes": null
+      },
+      {
+        "name": "Air B&B",
+        "coordinates": {
+          "lat": 43.0475168,
+          "lon": 16.0867671
+        },
+        "osm_tags": {
+          "tourism": "hotel"
+        },
+        "notes": null
+      },
+      {
+        "name": "Apartman Lissa",
+        "coordinates": {
+          "lat": 43.0432756,
+          "lon": 16.2401001
+        },
+        "osm_tags": {
+          "addr:city": "Vis",
+          "addr:housenumber": "84",
+          "addr:postcode": "21480",
+          "addr:street": "Ženka",
+          "email": "dunja.bezjak@gmail.com",
+          "internet_access": "yes",
+          "internet_access:fee": "yes",
+          "tourism": "apartment"
+        },
+        "notes": null
+      },
+      {
+        "name": "Apartmani Čulek",
+        "coordinates": {
+          "lat": 43.0229961,
+          "lon": 16.2109524
+        },
+        "osm_tags": {
+          "addr:housenumber": "60",
+          "addr:postcode": "21480",
+          "addr:street": "Luka",
+          "internet_access": "wlan",
+          "name:de": "Appartment Čulek",
+          "phone": "+385992503158",
+          "tourism": "apartment"
+        },
+        "notes": null
+      },
+      {
+        "name": "SUHO",
+        "coordinates": {
+          "lat": 43.0493822,
+          "lon": 16.0861277
+        },
+        "osm_tags": {
+          "internet_access": "wlan",
+          "phone": "+385992364565",
+          "tourism": "apartment"
+        },
+        "notes": null
+      },
+      {
+        "name": "Pomâlo Inn",
+        "coordinates": {
+          "lat": 43.060053,
+          "lon": 16.1846192
+        },
+        "osm_tags": {
+          "addr:city": "Vis",
+          "addr:housenumber": "4",
+          "addr:postcode": "21480",
+          "addr:street": "Trg Patija",
+          "air_conditioning": "yes",
+          "email": "info@pomaloinn.com",
+          "internet_access": "wlan",
+          "internet_access:fee": "customers",
+          "phone": "+385993937260",
+          "rooms": "10",
+          "tourism": "hotel",
+          "website": "https://www.pomaloinn.com"
+        },
+        "notes": null
+      },
+      {
+        "name": "Apartment MORE",
+        "coordinates": {
+          "lat": 43.0409729,
+          "lon": 16.235306
+        },
+        "osm_tags": {
+          "tourism": "apartment"
+        },
+        "notes": null
+      }
+    ],
+    "landmarks": [
+      {
+        "name": "Vis",
+        "coordinates": {
+          "lat": 43.0615909,
+          "lon": 16.184094
+        },
+        "osm_tags": {
+          "amenity": "ferry_terminal",
+          "ferry": "yes",
+          "public_transport": "stop_position"
+        },
+        "notes": null
+      },
+      {
+        "name": "Velington",
+        "coordinates": {
+          "lat": 43.0685591,
+          "lon": 16.2153773
+        },
+        "osm_tags": {
+          "historic": "ruins"
+        },
+        "notes": null
+      },
+      {
+        "name": "Stupišće",
+        "coordinates": {
+          "lat": 43.0103127,
+          "lon": 16.074674
+        },
+        "osm_tags": {
+          "building": "bunker",
+          "bunker_type": "missile_silo",
+          "location": "underground",
+          "military": "bunker",
+          "tourism": "attraction",
+          "tunnel": "entrance"
+        },
+        "notes": null
+      },
+      {
+        "name": "Tunnel",
+        "coordinates": {
+          "lat": 43.011428,
+          "lon": 16.0751218
+        },
+        "osm_tags": {
+          "bunker_type": "missile_silo",
+          "location": "underground",
+          "military": "bunker",
+          "tourism": "attraction",
+          "tunnel": "entrance"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0108972,
+          "lon": 16.0752433
+        },
+        "osm_tags": {
+          "historic": "yes",
+          "military": "bunker",
+          "tourism": "attraction"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0784529,
+          "lon": 16.1821868
+        },
+        "osm_tags": {
+          "building": "yes",
+          "historic": "ruins",
+          "roof:material": "roof_tiles",
+          "roof:shape": "gabled"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0802235,
+          "lon": 16.183148
+        },
+        "osm_tags": {
+          "historic": "ruins"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0808884,
+          "lon": 16.1819118
+        },
+        "osm_tags": {
+          "historic": "ruins"
+        },
+        "notes": null
+      },
+      {
+        "name": "War Memorial of the men of the Royal Air Force",
+        "coordinates": {
+          "lat": 43.0480016,
+          "lon": 16.2024938
+        },
+        "osm_tags": {
+          "historic": "memorial",
+          "inscription": "In proud momory of the men of the Royal Air Force who lost their lives whilst operationg over Croatia",
+          "material": "stone",
+          "memorial": "war_memorial",
+          "source": "Bing"
+        },
+        "notes": null
+      },
+      {
+        "name": "Artillery Gun",
+        "coordinates": {
+          "lat": 43.006683,
+          "lon": 16.0734371
+        },
+        "osm_tags": {
+          "bunker_type": "artillery_cavern",
+          "military": "bunker",
+          "tourism": "attraction"
+        },
+        "notes": null
+      },
+      {
+        "name": "Ancient Artillery gun",
+        "coordinates": {
+          "lat": 43.0063986,
+          "lon": 16.072037
+        },
+        "osm_tags": {
+          "building": "bunker",
+          "bunker_type": "artillery_cavern",
+          "military": "bunker",
+          "tourism": "attraction",
+          "wheelchair": "no"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0454369,
+          "lon": 16.1952722
+        },
+        "osm_tags": {
+          "historic": "memorial",
+          "source": "Bing"
+        },
+        "notes": null
+      },
+      {
+        "name": "bunker Vela Glava - kupola",
+        "coordinates": {
+          "lat": 43.0467502,
+          "lon": 16.1579492
+        },
+        "osm_tags": {
+          "building": "bunker",
+          "military": "bunker",
+          "tourism": "attraction"
+        },
+        "notes": null
+      },
+      {
+        "name": "bunker Vela Glava - ulaz na vrhu1",
+        "coordinates": {
+          "lat": 43.0470305,
+          "lon": 16.1580347
+        },
+        "osm_tags": {
+          "building": "bunker",
+          "military": "bunker",
+          "tourism": "attraction"
+        },
+        "notes": null
+      },
+      {
+        "name": "bunker Vela Glava - ulaz na vrhu2",
+        "coordinates": {
+          "lat": 43.0469874,
+          "lon": 16.1577557
+        },
+        "osm_tags": {
+          "building": "bunker",
+          "military": "bunker",
+          "tourism": "attraction"
+        },
+        "notes": null
+      },
+      {
+        "name": "bunker Vela Glava - glavni ulaz",
+        "coordinates": {
+          "lat": 43.0462564,
+          "lon": 16.1556977
+        },
+        "osm_tags": {
+          "building": "bunker",
+          "military": "bunker",
+          "tourism": "attraction"
+        },
+        "notes": null
+      },
+      {
+        "name": "bunker Vela Glava - stranki ulaz1",
+        "coordinates": {
+          "lat": 43.0460583,
+          "lon": 16.1560035
+        },
+        "osm_tags": {
+          "building": "bunker",
+          "military": "bunker",
+          "tourism": "attraction"
+        },
+        "notes": null
+      },
+      {
+        "name": "bunker Vela glava - stranski ulaz2",
+        "coordinates": {
+          "lat": 43.0465902,
+          "lon": 16.1559927
+        },
+        "osm_tags": {
+          "building": "bunker",
+          "military": "bunker",
+          "tourism": "attraction"
+        },
+        "notes": null
+      },
+      {
+        "name": "Bunker Auxiliary Exit",
+        "coordinates": {
+          "lat": 43.0067845,
+          "lon": 16.0736864
+        },
+        "osm_tags": {
+          "building": "bunker",
+          "military": "bunker",
+          "tourism": "attraction"
+        },
+        "notes": null
+      },
+      {
+        "name": "Bunker Main Entry",
+        "coordinates": {
+          "lat": 43.0069608,
+          "lon": 16.0716985
+        },
+        "osm_tags": {
+          "building": "bunker",
+          "military": "bunker",
+          "tourism": "attraction",
+          "wheelchair": "no"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0143656,
+          "lon": 16.0736847
+        },
+        "osm_tags": {
+          "historic": "ruins"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0089466,
+          "lon": 16.0729176
+        },
+        "osm_tags": {
+          "historic": "ruins"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0065674,
+          "lon": 16.0715738
+        },
+        "osm_tags": {
+          "historic": "ruins"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0080208,
+          "lon": 16.0710159
+        },
+        "osm_tags": {
+          "historic": "ruins"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0078561,
+          "lon": 16.0740763
+        },
+        "osm_tags": {
+          "historic": "ruins"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0085229,
+          "lon": 16.0735559
+        },
+        "osm_tags": {
+          "historic": "ruins"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.0109314,
+          "lon": 16.0750472
+        },
+        "osm_tags": {
+          "historic": "ruins"
+        },
+        "notes": null
+      },
+      {
+        "name": "Stone Garden",
+        "coordinates": {
+          "lat": 43.0636931,
+          "lon": 16.1541724
+        },
+        "osm_tags": {
+          "tourism": "attraction"
+        },
+        "notes": null
+      },
+      {
+        "name": "Kula Bentinck Terjun",
+        "coordinates": {
+          "lat": 43.0711646,
+          "lon": 16.1915436
+        },
+        "osm_tags": {
+          "historic": "ruins"
+        },
+        "notes": null
+      },
+      {
+        "name": "Crkva sv. Nikola",
+        "coordinates": {
+          "lat": 43.0582235,
+          "lon": 16.1627407
+        },
+        "osm_tags": {
+          "amenity": "place_of_worship",
+          "denomination": "catholic",
+          "religion": "christian"
+        },
+        "notes": null
+      },
+      {
+        "name": "Komiža (Vis)",
+        "coordinates": {
+          "lat": 43.0444713,
+          "lon": 16.08607
+        },
+        "osm_tags": {
+          "amenity": "ferry_terminal",
+          "ferry": "yes",
+          "public_transport": "station"
+        },
+        "notes": null
+      },
+      {
+        "name": "Mladineova kula",
+        "coordinates": {
+          "lat": 43.0350243,
+          "lon": 16.1280406
+        },
+        "osm_tags": {
+          "historic": "ruins"
+        },
+        "notes": null
+      },
+      {
+        "name": "Sv. Blaž",
+        "coordinates": {
+          "lat": 43.051239,
+          "lon": 16.0803936
+        },
+        "osm_tags": {
+          "amenity": "place_of_worship",
+          "religion": "christian"
+        },
+        "notes": null
+      },
+      {
+        "name": "Vis",
+        "coordinates": {
+          "lat": 43.061834,
+          "lon": 16.1841438
+        },
+        "osm_tags": {
+          "amenity": "ferry_terminal",
+          "ferry": "yes",
+          "public_transport": "stop_position"
+        },
+        "notes": null
+      }
+    ]
+  },
+  "practical": {
+    "atm_available": true,
+    "atm_count": 17,
+    "medical_facility": true,
+    "cash_only_warning": false,
+    "day_trip_viable": true,
+    "nearby_islands": [
+      "Biševo",
+      "Brač",
+      "Drvenik Mali",
+      "Drvenik Veli",
+      "Hvar",
+      "Korčula",
+      "Sveti Klement",
+      "Šolta"
+    ],
+    "recommended_stay_nights": 4
+  }
+}

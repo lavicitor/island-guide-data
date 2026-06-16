@@ -1,0 +1,10 @@
+# Build artefacts
+index_cache/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Local dev
+.cache/

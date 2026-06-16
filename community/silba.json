@@ -1,0 +1,261 @@
+{
+  "meta": {
+    "island": "Silba",
+    "slug": "silba",
+    "last_updated": "2026-06-16",
+    "contributed_by": "curator",
+    "notes": "Manually curated data layer. Fields here override or supplement scraped data."
+  },
+
+  "identity": {
+    "population": 292,
+    "best_for": [
+      "couples",
+      "walkers",
+      "digital detox",
+      "peaceful beaches",
+      "families with young children"
+    ],
+    "hero_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Silba_-_The_Sails.jpg/960px-Silba_-_The_Sails.jpg?_=20170509205521",
+    "tagline": "Croatia's car-free island — where the only traffic is the evening stroll."
+  },
+
+  "getting_there": {
+    "ferry_notes": "The journey from Zadar takes approximately 1.5–2 hours depending on the route. Friday evening ferries in July and August fill quickly — arrive at the port at least 45 minutes early. The Gaženica route (out of Zadar's newer port) is the more reliable year-round service. Book tickets in advance during peak season at jadrolinija.hr.",
+    "ferry_routes": [
+      {
+        "origin": "Zadar (Gaženica)",
+        "operator": "Jadrolinija",
+        "duration_minutes": 110,
+        "frequency_peak": 5,
+        "frequency_low": 3,
+        "bikes_allowed": true,
+        "cars_allowed": false,
+        "community_note": "Main year-round route. Stops at Ist, Olib, and Premuda before Silba."
+      },
+      {
+        "origin": "Zadar",
+        "operator": "Jadrolinija",
+        "duration_minutes": 90,
+        "frequency_peak": 7,
+        "frequency_low": 2,
+        "bikes_allowed": false,
+        "cars_allowed": false,
+        "community_note": "Faster catamaran service. No bikes. Runs more frequently in summer."
+      }
+    ],
+    "practical_tips": [
+      "No cars are permitted on the island — leave yours in Zadar or use the paid car park near Gaženica port.",
+      "Bikes can be brought on the Gaženica ferry. The island is small enough to walk everywhere.",
+      "Return ferry times in peak season sell out — book the return leg before you arrive."
+    ]
+  },
+
+  "practical": {
+    "medical_facility": true,
+    "medical_notes": "Seasonal medical office operates in the village centre during summer months (roughly June–September). Outside season, the nearest hospital is in Zadar.",
+    "cash_only_warning": true,
+    "cash_notes": "Bring cash from Zadar. There is one Euronet ATM near the ferry terminal but it can run out in peak season. Konoba Mul is confirmed cash only. Other restaurants increasingly accept cards but do not rely on it.",
+    "internet": "Limited. MIK café has Wi-Fi. Mobile signal (HT/T-Com) is usable in the village but weak on the southern beaches.",
+    "shopping": "One small shop for basics. Stock up on supplies in Zadar before coming — prices on the island are higher and selection limited.",
+    "recommended_stay_nights": 2,
+    "day_trip_note": "Silba works as a day trip from Zadar but you will spend most of your time on ferries. Two nights is the minimum to feel the pace of the island properly."
+  },
+
+  "nearby_islands": [
+    {
+      "name": "Olib",
+      "duration_minutes": 20,
+      "description": "Quiet island known for ancient olive groves and untouched beaches. Smaller and even more peaceful than Silba.",
+      "worth_visiting_for": "A half-day escape for those who want complete solitude."
+    },
+    {
+      "name": "Premuda",
+      "duration_minutes": 30,
+      "description": "One of Croatia's best diving spots. The Cathedral cave is a highlight. Only around 60 permanent residents.",
+      "worth_visiting_for": "Diving and snorkelling. Completely undeveloped tourism."
+    },
+    {
+      "name": "Ilovik",
+      "duration_minutes": 20,
+      "description": "Known as the island of flowers. Tiny, with a single village and excellent anchorage for sailors.",
+      "worth_visiting_for": "A quiet afternoon with exceptional swimming."
+    },
+    {
+      "name": "Mali Lošinj",
+      "duration_minutes": 45,
+      "description": "The largest town in the area with a proper harbour, supermarkets, pharmacies, and a wider restaurant scene.",
+      "worth_visiting_for": "Resupply, a bigger-town evening, or onward connections."
+    }
+  ],
+
+  "beaches": [
+    {
+      "osm_name": "Žalić",
+      "area": "west",
+      "one_liner": "The most popular beach on the island, right next to the main harbour.",
+      "tips": [
+        "Pebble beach, bring water shoes.",
+        "Gets crowded by 11am in July and August — arrive early or after 5pm.",
+        "Sheltered from the maestral wind, which makes it calmer but hotter in the afternoon."
+      ],
+      "standout_tip": "Arrive before 10am in peak season for a good spot.",
+      "surface": "pebble",
+      "shade": "none",
+      "best_for": ["swimming", "families"],
+      "image_url": null
+    },
+    {
+      "osm_name": "Tratica",
+      "area": "north",
+      "one_liner": "A quieter pebble beach on the northern side, further from the village.",
+      "tips": [
+        "15-minute walk from the village centre.",
+        "More exposed to wind from the north — better on calm days.",
+        "Tends to be less crowded than Žalić even in peak season."
+      ],
+      "standout_tip": "The better choice if you want space in August.",
+      "surface": "pebble",
+      "shade": "none",
+      "best_for": ["swimming", "snorkelling", "those avoiding crowds"],
+      "image_url": null
+    }
+  ],
+
+  "restaurants": [
+    {
+      "osm_name": "Mul",
+      "one_liner": "The most reliable kitchen on the island. Worth the walk to the eastern harbour.",
+      "tips": [
+        "Cash only — confirmed as of 2024.",
+        "Black risotto (crni rižoto) is the standout dish.",
+        "Book ahead or arrive before 7pm in July and August.",
+        "Generous portions, moderate prices for a tourist island."
+      ],
+      "standout_tip": "Cash only — the ATM is a 10-minute walk away.",
+      "price_range": "moderate",
+      "seasonal": "May–September",
+      "payment": "cash only",
+      "image_url": null
+    },
+    {
+      "osm_name": "Katrida Silba",
+      "one_liner": "Open all day, reliable for a late lunch when other kitchens are closed.",
+      "tips": [
+        "Open 12:00–23:00 daily according to OSM (verify on arrival).",
+        "Good for groups — larger terrace than most.",
+        "More casual than Mul, solid rather than exceptional food."
+      ],
+      "standout_tip": "The safe choice if you arrive on a late ferry and everything else is shut.",
+      "price_range": "moderate",
+      "seasonal": "summer season",
+      "payment": "cards accepted (verify on arrival)",
+      "image_url": null
+    },
+    {
+      "osm_name": "Vila Velebita",
+      "one_liner": "Restaurant attached to the guesthouse of the same name — reliable home cooking.",
+      "tips": [
+        "Outdoor seating with a pleasant terrace.",
+        "Phone ahead out of peak season: +385 98 175 6409.",
+        "More suited to a quiet dinner than a lively evening out."
+      ],
+      "standout_tip": "Good option for a relaxed dinner away from the harbour bustle.",
+      "price_range": "moderate",
+      "seasonal": "May–September",
+      "payment": "verify on arrival",
+      "image_url": null
+    },
+    {
+      "osm_name": "Turist",
+      "one_liner": "The pizza option — useful to know about when you want something simple.",
+      "tips": [
+        "Kitchen opens at 16:00.",
+        "Has indoor seating and Wi-Fi — rare on the island.",
+        "Not the reason to come to Silba but reliable for a casual evening."
+      ],
+      "standout_tip": "Kitchen doesn't open until 4pm — plan accordingly.",
+      "price_range": "budget",
+      "seasonal": "summer season",
+      "payment": "verify on arrival",
+      "image_url": null
+    },
+    {
+      "osm_name": "MIK",
+      "one_liner": "The main café — good for morning coffee and the island's best Wi-Fi.",
+      "tips": [
+        "Wi-Fi available — the most reliable connection point on the island.",
+        "Central location, good for watching village life go by.",
+        "Café rather than restaurant — drinks, coffee, light snacks only."
+      ],
+      "standout_tip": "Best spot for morning coffee before the beaches fill up.",
+      "price_range": "budget",
+      "seasonal": "summer season",
+      "payment": "verify on arrival",
+      "image_url": null
+    }
+  ],
+
+  "landmarks": [
+    {
+      "name": "Toreta Tower",
+      "area": "village centre",
+      "one_liner": "The island's most recognisable landmark — a round stone tower with views over the whole island.",
+      "tips": [
+        "Climb to the top for the best views on the island, especially at sunset.",
+        "The tower is visible from both harbours and serves as a natural navigation point.",
+        "Most tourists pass it without going up — worth the few minutes."
+      ],
+      "standout_tip": "Sunset from the top is the single best thing to do on Silba.",
+      "coordinates": { "lat": 44.3738, "lon": 14.6955 },
+      "image_url": null
+    },
+    {
+      "name": "War Memorial",
+      "osm_name": "Silbenskim borcima palim u NOB-u 1941-1945",
+      "area": "village centre",
+      "one_liner": "Memorial to Silba's residents who fell in the Second World War.",
+      "tips": [
+        "The inscription lists 13 names from a permanent population of a few hundred — a significant loss for such a small community.",
+        "Located near the main square, easy to find."
+      ],
+      "standout_tip": null,
+      "image_url": null
+    },
+    {
+      "name": "Freedom from Serfdom Plaque",
+      "osm_name": "Oslobađanje Silbe od kmetstva",
+      "area": "village centre",
+      "one_liner": "A plaque marking the day in 1852 when Silba's residents bought their freedom from feudal rule.",
+      "tips": [
+        "The inscription reads: 'On 19 March 1852, our ancestors bought and freed the island from serfdom'.",
+        "Small but historically significant — the islanders collectively purchased their own freedom, which was unusual for the period."
+      ],
+      "standout_tip": "Easy to walk past — look for it near the central square.",
+      "image_url": null
+    }
+  ],
+
+  "hidden_gems": [
+    {
+      "title": "Evening korzo",
+      "description": "Like most Croatian coastal communities, Silba has an unofficial evening promenade. The stretch between the two harbours comes alive around 8–9pm. Worth experiencing even if you're not eating out."
+    },
+    {
+      "title": "South of the island",
+      "description": "Most tourists stay near the village. The southern tip of the island (30-minute walk) has more isolated beaches and a noticeably different, wilder feel. Worth the walk on a calm day."
+    },
+    {
+      "title": "The silence",
+      "description": "No cars means no background engine noise — something you only notice once it's gone. At night the island is genuinely quiet in a way that almost nowhere in Croatia is any more."
+    }
+  ],
+
+  "local_warnings": [
+    "No cars on the island — and no bikes during summer months either. Everything is on foot.",
+    "One ATM. Bring more cash than you think you need.",
+    "Mobile internet is limited. Download maps offline before you arrive.",
+    "The island is very small and very social — the same faces appear everywhere. Respect the community.",
+    "Last ferry back to Zadar can be early evening in low season. Check the return schedule before you come."
+  ]
+}
