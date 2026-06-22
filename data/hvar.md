@@ -23,7 +23,7 @@ Hvar is a Croatian island in the Adriatic Sea, located off the Dalmatian coast, 
 | March | 11.0°C | 9 | 9.0 | 15.0°C |
 | April | 13.9°C | 9 | 10.9 | 16.0°C |
 | May | 18.4°C | 9 | 12.2 | 18.6°C |
-| June | 23.7°C | 4 | 13.4 | 22.8°C |
+| June | 23.7°C | 4 | 13.5 | 22.8°C |
 | **July** | 26.4°C | 2 | 13.6 | 25.1°C |
 | **August** | 25.7°C | 5 | 12.8 | 25.7°C |
 | September | 21.7°C | 7 | 10.5 | 24.8°C |
@@ -250,6 +250,7 @@ Hvar is a Croatian island in the Adriatic Sea, located off the Dalmatian coast, 
 - **Pošteri** (Restaurant)
 - **Bonaca** (Restaurant)
 - **Bistro Star** (Restaurant · italian;italian_pizza;local)
+- **Dubovica** (Restaurant · regional)
 - **Central Park Club** (Bar)
 - **Konoba Menego** (Restaurant)
 - **Pizza Feta** (Restaurant)
@@ -377,7 +378,7 @@ Hvar is a Croatian island in the Adriatic Sea, located off the Dalmatian coast, 
 
 ## Practical Information
 
-- **ATM:** 38 available (PBZ, Banka Splitsko Dalmatinska, Erste Bank, PBZ, Zagrebačka banka, Euronet, OTP Bank, Zagrebačka banka, Euronet, Euronet, Monestiq)
+- **ATM:** 39 available (PBZ, Banka Splitsko Dalmatinska, Erste Bank, PBZ, Zagrebačka banka, Euronet, OTP Bank, Zagrebačka banka, Euronet, Euronet, Monestiq)
 - **Medical:** Ljekarnička Jedinica Hvar, Ljekarna Stari Grad, Dentist Ordinacija Dentalne Medicine, Ljekarna Radonić
 - **Accommodation:** 109 options found (hotels, guesthouses, apartments)
 - **Recommended stay:** 7 nights
@@ -395,4 +396,4 @@ Hvar is a Croatian island in the Adriatic Sea, located off the Dalmatian coast, 
 - Šolta
 
 ---
-*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-06-16T21:12:05Z. Coverage: all sources complete.*
+*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-06-22T11:30:25Z. Coverage: all sources complete.*

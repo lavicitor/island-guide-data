@@ -21,7 +21,7 @@ Vis is a Croatian island in the Adriatic Sea. Before the end of World War I, the
 | March | 10.9°C | 11 | 9.3 | 15.2°C |
 | April | 12.7°C | 7 | 11.1 | 16.0°C |
 | May | 16.3°C | 7 | 12.4 | 18.5°C |
-| June | 20.9°C | 3 | 13.4 | 23.0°C |
+| June | 20.9°C | 3 | 13.5 | 23.0°C |
 | July | 23.5°C | 2 | 13.6 | 25.7°C |
 | August | 23.5°C | 5 | 12.8 | 26.0°C |
 | September | 20.8°C | 6 | 10.7 | 24.6°C |
@@ -162,4 +162,4 @@ Vis is a Croatian island in the Adriatic Sea. Before the end of World War I, the
 - Šolta
 
 ---
-*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-06-16T21:13:59Z. Coverage: all sources complete.*
+*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-06-22T11:31:23Z. Coverage: all sources complete.*

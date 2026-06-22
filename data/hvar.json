@@ -2,9 +2,9 @@
   "meta": {
     "island": "Hvar",
     "slug": "hvar",
-    "generated_at": "2026-06-16T21:12:05Z",
+    "generated_at": "2026-06-22T11:30:25Z",
     "data_quality": {
-      "osm_poi_count": 547,
+      "osm_poi_count": 550,
       "ferry_routes_found": 2,
       "weather_months_complete": 12,
       "coverage_warning": null
@@ -102,7 +102,7 @@
         "month_name": "June",
         "avg_temp_c": 23.7,
         "avg_rain_days": 3.7,
-        "avg_sunshine_hours": 13.4,
+        "avg_sunshine_hours": 13.5,
         "sea_temp_c": 22.8,
         "peak_season": false
       },
@@ -2807,6 +2807,19 @@
         "notes": null
       },
       {
+        "name": "Dubovica",
+        "coordinates": {
+          "lat": 43.1462284,
+          "lon": 16.5339476
+        },
+        "osm_tags": {
+          "amenity": "restaurant",
+          "contact:instagram": "konoba_dubovica",
+          "cuisine": "regional"
+        },
+        "notes": null
+      },
+      {
         "name": "Central Park Club",
         "coordinates": {
           "lat": 43.1728704,
@@ -5010,6 +5023,19 @@
         "osm_tags": {
           "amenity": "atm",
           "operator": "Euronet"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.1462313,
+          "lon": 16.5339963
+        },
+        "osm_tags": {
+          "amenity": "atm",
+          "check_date": "2026-06-15",
+          "note": "U konobi stvarno ima bankomat."
         },
         "notes": null
       }
@@ -7332,12 +7358,23 @@
           "public_transport": "station"
         },
         "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.1636002,
+          "lon": 16.701232
+        },
+        "osm_tags": {
+          "amenity": "place_of_worship"
+        },
+        "notes": null
       }
     ]
   },
   "practical": {
     "atm_available": true,
-    "atm_count": 38,
+    "atm_count": 39,
     "medical_facility": true,
     "cash_only_warning": false,
     "day_trip_viable": true,
