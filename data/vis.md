@@ -21,7 +21,7 @@ Vis is a Croatian island in the Adriatic Sea. Before the end of World War I, the
 | March | 10.9°C | 11 | 9.3 | 15.2°C |
 | April | 12.7°C | 7 | 11.1 | 16.0°C |
 | May | 16.3°C | 7 | 12.4 | 18.5°C |
-| June | 20.9°C | 3 | 13.5 | 23.0°C |
+| June | 21.1°C | 3 | 13.5 | 23.1°C |
 | July | 23.5°C | 2 | 13.6 | 25.7°C |
 | August | 23.5°C | 5 | 12.8 | 26.0°C |
 | September | 20.8°C | 6 | 10.7 | 24.6°C |
@@ -31,7 +31,6 @@ Vis is a Croatian island in the Adriatic Sea. Before the end of World War I, the
 
 ## Beaches
 
-- **Unnamed beach** (43.0734, 16.1922)
 - **Stončica** (43.0646, 16.2418)
 - **Milna** (43.0400, 16.2305)
 - **Zaglav** (43.0327, 16.2285)
@@ -81,7 +80,6 @@ Vis is a Croatian island in the Adriatic Sea. Before the end of World War I, the
 
 - **Konoba Ferol** (Restaurant · regional)
 - **Konoba Dalmatino** (Restaurant · regional)
-- **Konoba Le Terrazze** (Restaurant · regional)
 - **Konoba Kuca Keja** (Restaurant · regional)
 - **Dionis Pizzeria** (Restaurant)
 - **Konoba Gostiona Vis** (Restaurant · croatian;fish;local;regional;seafood)
@@ -94,6 +92,7 @@ Vis is a Croatian island in the Adriatic Sea. Before the end of World War I, the
 - **Mileva** (Cafe)
 - **Konoba Tavern Vatricai** (Restaurant · regional)
 - **Riva** (Cafe)
+- **Issa bar** (Bar)
 - **caffe bar SPEED** (Bar)
 - **Pirkotova Lula ex. Bane** (Bar · croatian)
 - **Riva** (Cafe)
@@ -115,7 +114,6 @@ Vis is a Croatian island in the Adriatic Sea. Before the end of World War I, the
 - **Škor** (Bar)
 - **Dudo** (Restaurant · regional;pizza)
 - **Kod Paveta** (Restaurant · regional)
-- **Konoba** (Restaurant)
 - **Tavern Peruka** (Restaurant · seafood;regional;burger;pizza;sandwich)
 - **Belotovo Agritourismo** (Restaurant)
 - **AnDe bistro & bar** (Restaurant · burger;coffee_shop;fish_and_chips;friture)
@@ -146,7 +144,7 @@ Vis is a Croatian island in the Adriatic Sea. Before the end of World War I, the
 
 - **ATM:** 17 available (PBZ)
 - **Medical:** Ambulanta
-- **Accommodation:** 16 options found (hotels, guesthouses, apartments)
+- **Accommodation:** 18 options found (hotels, guesthouses, apartments)
 - **Recommended stay:** 4 nights
 - **Day trip:** Viable by ferry from the mainland
 
@@ -162,4 +160,4 @@ Vis is a Croatian island in the Adriatic Sea. Before the end of World War I, the
 - Šolta
 
 ---
-*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-06-22T11:31:23Z. Coverage: all sources complete.*
+*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-06-29T10:19:52Z. Coverage: all sources complete.*

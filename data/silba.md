@@ -23,7 +23,7 @@ Silba is an island in Croatia with an area of 15 km2, northern Dalmatia, south-
 | March | 11.5°C | 11 | 9.2 | 13.7°C |
 | April | 13.5°C | 8 | 10.9 | 15.2°C |
 | May | 17.5°C | 8 | 12.2 | 18.2°C |
-| June | 22.4°C | 4 | 13.4 | 22.8°C |
+| June | 22.5°C | 4 | 13.4 | 22.9°C |
 | **July** | 24.7°C | 5 | 13.5 | 26.2°C |
 | August | 24.5°C | 5 | 12.5 | 26.1°C |
 | September | 21.6°C | 9 | 10.2 | 23.9°C |
@@ -78,4 +78,4 @@ Silba is an island in Croatia with an area of 15 km2, northern Dalmatia, south-
 - Rab
 
 ---
-*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-06-22T11:29:59Z. Coverage: all sources complete.*
+*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-06-29T10:17:44Z. Coverage: all sources complete.*

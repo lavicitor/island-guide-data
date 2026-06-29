@@ -2,7 +2,7 @@
   "meta": {
     "island": "Vis",
     "slug": "vis",
-    "generated_at": "2026-06-22T11:31:23Z",
+    "generated_at": "2026-06-29T10:19:52Z",
     "data_quality": {
       "osm_poi_count": 176,
       "ferry_routes_found": 1,
@@ -89,10 +89,10 @@
       {
         "month": 6,
         "month_name": "June",
-        "avg_temp_c": 20.9,
+        "avg_temp_c": 21.1,
         "avg_rain_days": 3.0,
         "avg_sunshine_hours": 13.5,
-        "sea_temp_c": 23.0,
+        "sea_temp_c": 23.1,
         "peak_season": false
       },
       {
@@ -159,18 +159,6 @@
   },
   "points_of_interest": {
     "beaches": [
-      {
-        "name": null,
-        "coordinates": {
-          "lat": 43.073447,
-          "lon": 16.1921679
-        },
-        "osm_tags": {
-          "natural": "beach",
-          "nudism": "yes"
-        },
-        "notes": null
-      },
       {
         "name": "Stončica",
         "coordinates": {
@@ -719,18 +707,6 @@
         "notes": null
       },
       {
-        "name": "Konoba Le Terrazze",
-        "coordinates": {
-          "lat": 43.0219112,
-          "lon": 16.2113814
-        },
-        "osm_tags": {
-          "amenity": "restaurant",
-          "cuisine": "regional"
-        },
-        "notes": null
-      },
-      {
         "name": "Konoba Kuca Keja",
         "coordinates": {
           "lat": 43.0285204,
@@ -888,6 +864,19 @@
         "notes": null
       },
       {
+        "name": "Issa bar",
+        "coordinates": {
+          "lat": 43.0577885,
+          "lon": 16.1982036
+        },
+        "osm_tags": {
+          "amenity": "bar",
+          "check_date": "2024-12-26",
+          "source": "https://osm.org/note/4564261"
+        },
+        "notes": null
+      },
+      {
         "name": "caffe bar SPEED",
         "coordinates": {
           "lat": 43.0454602,
@@ -985,8 +974,8 @@
       {
         "name": "Diamond Beach Fish Fine Food",
         "coordinates": {
-          "lat": 43.0195428,
-          "lon": 16.2118929
+          "lat": 43.0196605,
+          "lon": 16.2117333
         },
         "osm_tags": {
           "amenity": "bar"
@@ -1211,17 +1200,6 @@
           "cuisine": "regional",
           "opening_hours": "Mo-Su 17:00-23:00",
           "outdoor_seating": "yes"
-        },
-        "notes": null
-      },
-      {
-        "name": "Konoba",
-        "coordinates": {
-          "lat": 43.0582865,
-          "lon": 16.1982212
-        },
-        "osm_tags": {
-          "amenity": "restaurant"
         },
         "notes": null
       },
@@ -1553,6 +1531,7 @@
           "addr:street": "Ulica Matije Gupca",
           "amenity": "bar",
           "check_date": "2025-03-27",
+          "mobile": "+385 95 5633 247",
           "payment:cash": "yes",
           "payment:credit_cards": "yes",
           "payment:debit_cards": "yes",
@@ -2044,6 +2023,36 @@
         },
         "osm_tags": {
           "tourism": "apartment"
+        },
+        "notes": null
+      },
+      {
+        "name": "CMA-Croatia Mediterranean authenticity",
+        "coordinates": {
+          "lat": 43.0233908,
+          "lon": 16.2072337
+        },
+        "osm_tags": {
+          "check_date": "2019-09-23",
+          "source": "https://osm.org/note/1936519",
+          "tourism": "guest_house"
+        },
+        "notes": null
+      },
+      {
+        "name": "Ribarska Villa",
+        "coordinates": {
+          "lat": 43.045422,
+          "lon": 16.0891934
+        },
+        "osm_tags": {
+          "check_date": "2026-06-26",
+          "contact:facebook": "RibarskaBeachHouse",
+          "contact:instagram": "ribarskahouse",
+          "email": "beach.villa.komiza@gmail.com",
+          "source": "https://osm.org/note/4766599",
+          "tourism": "guest_house",
+          "website": "https://www.ribarskavilla.com/"
         },
         "notes": null
       }
