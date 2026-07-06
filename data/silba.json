@@ -2,12 +2,12 @@
   "meta": {
     "island": "Silba",
     "slug": "silba",
-    "generated_at": "2026-06-29T10:17:44Z",
+    "generated_at": "2026-07-06T09:55:22Z",
     "data_quality": {
       "osm_poi_count": 29,
-      "ferry_routes_found": 2,
+      "ferry_routes_found": 0,
       "weather_months_complete": 12,
-      "coverage_warning": null
+      "coverage_warning": "Ferry: No ferry data found from any source"
     }
   },
   "identity": {
@@ -25,30 +25,7 @@
     "best_for": []
   },
   "getting_there": {
-    "ferry_routes": [
-      {
-        "origin": "Zadar (Gaženica)",
-        "destination": "Silba",
-        "operator": "Jadrolinija",
-        "duration_minutes": null,
-        "frequency_peak": null,
-        "frequency_low": null,
-        "bikes_allowed": true,
-        "cars_allowed": null,
-        "booking_url": "https://www.jadrolinija.hr/en/travel/zadar_gazenica_-_ist_-_olib_-_silba_-_premuda_-_mali_losinj"
-      },
-      {
-        "origin": "Zadar",
-        "destination": "Silba",
-        "operator": "Jadrolinija",
-        "duration_minutes": null,
-        "frequency_peak": null,
-        "frequency_low": null,
-        "bikes_allowed": false,
-        "cars_allowed": false,
-        "booking_url": "https://www.jadrolinija.hr/en/travel/zadar_-_silba_-_mali_losinj_2"
-      }
-    ]
+    "ferry_routes": []
   },
   "weather": {
     "monthly": [
@@ -100,17 +77,17 @@
       {
         "month": 6,
         "month_name": "June",
-        "avg_temp_c": 22.5,
-        "avg_rain_days": 3.8,
-        "avg_sunshine_hours": 13.4,
-        "sea_temp_c": 22.9,
+        "avg_temp_c": 22.6,
+        "avg_rain_days": 4.6,
+        "avg_sunshine_hours": 13.5,
+        "sea_temp_c": 23.1,
         "peak_season": false
       },
       {
         "month": 7,
         "month_name": "July",
         "avg_temp_c": 24.7,
-        "avg_rain_days": 4.8,
+        "avg_rain_days": 4.0,
         "avg_sunshine_hours": 13.5,
         "sea_temp_c": 26.2,
         "peak_season": true

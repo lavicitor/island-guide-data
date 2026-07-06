@@ -2,10 +2,10 @@
   "meta": {
     "island": "Vis",
     "slug": "vis",
-    "generated_at": "2026-06-29T10:19:52Z",
+    "generated_at": "2026-07-06T10:03:38Z",
     "data_quality": {
       "osm_poi_count": 176,
-      "ferry_routes_found": 1,
+      "ferry_routes_found": 3,
       "weather_months_complete": 12,
       "coverage_warning": null
     }
@@ -27,15 +27,37 @@
   "getting_there": {
     "ferry_routes": [
       {
-        "origin": "Split",
+        "origin": "Additional trip —  Krilo Eclipse — Vis",
         "destination": "Vis",
-        "operator": "Jadrolinija",
+        "operator": "Krilo Kapetan Luka",
         "duration_minutes": null,
         "frequency_peak": null,
         "frequency_low": null,
-        "bikes_allowed": true,
-        "cars_allowed": null,
-        "booking_url": "https://www.jadrolinija.hr/en/travel/split_–_vis"
+        "bikes_allowed": false,
+        "cars_allowed": false,
+        "booking_url": "https://www.krilo.hr/en/news/vanredno-putovanje-krilo-eclipse-vis-split-vis-06-07-2026"
+      },
+      {
+        "origin": "06.07.2026.Vanredno putovanje —  Krilo Eclipse — Vis",
+        "destination": "Vis",
+        "operator": "Krilo Kapetan Luka",
+        "duration_minutes": null,
+        "frequency_peak": null,
+        "frequency_low": null,
+        "bikes_allowed": false,
+        "cars_allowed": false,
+        "booking_url": "https://www.krilo.hr/en/news/vanredno-putovanje-krilo-eclipse-vis-split-vis-06-07-2026"
+      },
+      {
+        "origin": "SPLIT",
+        "destination": "Vis",
+        "operator": "Krilo Kapetan Luka",
+        "duration_minutes": null,
+        "frequency_peak": null,
+        "frequency_low": null,
+        "bikes_allowed": false,
+        "cars_allowed": false,
+        "booking_url": "https://www.krilo.hr/en/schedule"
       }
     ]
   },
@@ -90,18 +112,18 @@
         "month": 6,
         "month_name": "June",
         "avg_temp_c": 21.1,
-        "avg_rain_days": 3.0,
+        "avg_rain_days": 3.6,
         "avg_sunshine_hours": 13.5,
-        "sea_temp_c": 23.1,
+        "sea_temp_c": 23.3,
         "peak_season": false
       },
       {
         "month": 7,
         "month_name": "July",
         "avg_temp_c": 23.5,
-        "avg_rain_days": 2.4,
+        "avg_rain_days": 2.0,
         "avg_sunshine_hours": 13.6,
-        "sea_temp_c": 25.7,
+        "sea_temp_c": 25.8,
         "peak_season": false
       },
       {
@@ -215,6 +237,8 @@
         },
         "osm_tags": {
           "natural": "beach",
+          "nudism": "no",
+          "surface": "pebblestone",
           "tourism": "attraction"
         },
         "notes": null

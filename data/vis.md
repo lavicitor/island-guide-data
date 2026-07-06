@@ -8,7 +8,9 @@ Vis is a Croatian island in the Adriatic Sea. Before the end of World War I, the
 
 | From | Operator | Duration | Peak (sailings/wk) | Low (sailings/wk) | Bikes | Cars | Book |
 |------|----------|----------|--------------------|-------------------|-------|------|------|
-| Split | Jadrolinija | — | — | — | ✓ | ? | [Book](https://www.jadrolinija.hr/en/travel/split_–_vis) |
+| Additional trip —  Krilo Eclipse — Vis | Krilo Kapetan Luka | — | — | — | ✗ | ✗ | [Book](https://www.krilo.hr/en/news/vanredno-putovanje-krilo-eclipse-vis-split-vis-06-07-2026) |
+| 06.07.2026.Vanredno putovanje —  Krilo Eclipse — Vis | Krilo Kapetan Luka | — | — | — | ✗ | ✗ | [Book](https://www.krilo.hr/en/news/vanredno-putovanje-krilo-eclipse-vis-split-vis-06-07-2026) |
+| SPLIT | Krilo Kapetan Luka | — | — | — | ✗ | ✗ | [Book](https://www.krilo.hr/en/schedule) |
 
 ## Best Time to Visit
 
@@ -21,8 +23,8 @@ Vis is a Croatian island in the Adriatic Sea. Before the end of World War I, the
 | March | 10.9°C | 11 | 9.3 | 15.2°C |
 | April | 12.7°C | 7 | 11.1 | 16.0°C |
 | May | 16.3°C | 7 | 12.4 | 18.5°C |
-| June | 21.1°C | 3 | 13.5 | 23.1°C |
-| July | 23.5°C | 2 | 13.6 | 25.7°C |
+| June | 21.1°C | 4 | 13.5 | 23.3°C |
+| July | 23.5°C | 2 | 13.6 | 25.8°C |
 | August | 23.5°C | 5 | 12.8 | 26.0°C |
 | September | 20.8°C | 6 | 10.7 | 24.6°C |
 | October | 17.7°C | 6 | 9.3 | 21.8°C |
@@ -160,4 +162,4 @@ Vis is a Croatian island in the Adriatic Sea. Before the end of World War I, the
 - Šolta
 
 ---
-*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-06-29T10:19:52Z. Coverage: all sources complete.*
+*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-07-06T10:03:38Z. Coverage: all sources complete.*
