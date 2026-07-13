@@ -2,10 +2,10 @@
   "meta": {
     "island": "Vis",
     "slug": "vis",
-    "generated_at": "2026-07-06T10:03:38Z",
+    "generated_at": "2026-07-13T08:45:25Z",
     "data_quality": {
       "osm_poi_count": 176,
-      "ferry_routes_found": 3,
+      "ferry_routes_found": 1,
       "weather_months_complete": 12,
       "coverage_warning": null
     }
@@ -27,37 +27,15 @@
   "getting_there": {
     "ferry_routes": [
       {
-        "origin": "Additional trip —  Krilo Eclipse — Vis",
+        "origin": "Split",
         "destination": "Vis",
-        "operator": "Krilo Kapetan Luka",
+        "operator": "Jadrolinija",
         "duration_minutes": null,
         "frequency_peak": null,
         "frequency_low": null,
-        "bikes_allowed": false,
-        "cars_allowed": false,
-        "booking_url": "https://www.krilo.hr/en/news/vanredno-putovanje-krilo-eclipse-vis-split-vis-06-07-2026"
-      },
-      {
-        "origin": "06.07.2026.Vanredno putovanje —  Krilo Eclipse — Vis",
-        "destination": "Vis",
-        "operator": "Krilo Kapetan Luka",
-        "duration_minutes": null,
-        "frequency_peak": null,
-        "frequency_low": null,
-        "bikes_allowed": false,
-        "cars_allowed": false,
-        "booking_url": "https://www.krilo.hr/en/news/vanredno-putovanje-krilo-eclipse-vis-split-vis-06-07-2026"
-      },
-      {
-        "origin": "SPLIT",
-        "destination": "Vis",
-        "operator": "Krilo Kapetan Luka",
-        "duration_minutes": null,
-        "frequency_peak": null,
-        "frequency_low": null,
-        "bikes_allowed": false,
-        "cars_allowed": false,
-        "booking_url": "https://www.krilo.hr/en/schedule"
+        "bikes_allowed": true,
+        "cars_allowed": null,
+        "booking_url": "https://www.jadrolinija.hr/en/travel/split_–_vis"
       }
     ]
   },
@@ -121,7 +99,7 @@
         "month": 7,
         "month_name": "July",
         "avg_temp_c": 23.5,
-        "avg_rain_days": 2.0,
+        "avg_rain_days": 1.8,
         "avg_sunshine_hours": 13.6,
         "sea_temp_c": 25.8,
         "peak_season": false

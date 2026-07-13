@@ -8,7 +8,8 @@ Hvar is a Croatian island in the Adriatic Sea, located off the Dalmatian coast, 
 
 | From | Operator | Duration | Peak (sailings/wk) | Low (sailings/wk) | Bikes | Cars | Book |
 |------|----------|----------|--------------------|-------------------|-------|------|------|
-| SPLIT | Krilo Kapetan Luka | — | — | — | ✗ | ✗ | [Book](https://www.krilo.hr/en/schedule) |
+| Drvenik | Jadrolinija | — | — | — | ✓ | ? | [Book](https://www.jadrolinija.hr/en/travel/drvenik_-_sucuraj_hvar) |
+| Split | Jadrolinija | — | — | — | ✓ | ? | [Book](https://www.jadrolinija.hr/en/travel/split_-_stari_grad_hvar) |
 
 ## Best Time to Visit
 
@@ -23,7 +24,7 @@ Hvar is a Croatian island in the Adriatic Sea, located off the Dalmatian coast, 
 | April | 13.9°C | 9 | 10.9 | 16.0°C |
 | May | 18.4°C | 9 | 12.2 | 18.6°C |
 | June | 24.0°C | 4 | 13.5 | 23.1°C |
-| **July** | 26.4°C | 2 | 13.6 | 25.1°C |
+| **July** | 26.5°C | 2 | 13.6 | 25.1°C |
 | **August** | 25.7°C | 5 | 12.8 | 25.7°C |
 | September | 21.7°C | 7 | 10.5 | 24.8°C |
 | October | 17.7°C | 8 | 9.1 | 22.1°C |
@@ -373,6 +374,9 @@ Hvar is a Croatian island in the Adriatic Sea, located off the Dalmatian coast, 
 - **Vespera** (Restaurant)
 - **Villa Vela Stina** (Restaurant · regional;seafood;barbecue;fish;pasta;diner;mediterranean)
 - **Shell cafe** (Cafe)
+- **Silk** (Restaurant)
+- **Rosetta Sushi Bar** (Restaurant)
+- **KOVINO** (Cafe)
 
 ## Practical Information
 
@@ -394,4 +398,4 @@ Hvar is a Croatian island in the Adriatic Sea, located off the Dalmatian coast, 
 - Šolta
 
 ---
-*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-07-06T09:59:24Z. Coverage: all sources complete.*
+*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-07-13T08:43:59Z. Coverage: all sources complete.*

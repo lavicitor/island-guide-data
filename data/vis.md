@@ -8,9 +8,7 @@ Vis is a Croatian island in the Adriatic Sea. Before the end of World War I, the
 
 | From | Operator | Duration | Peak (sailings/wk) | Low (sailings/wk) | Bikes | Cars | Book |
 |------|----------|----------|--------------------|-------------------|-------|------|------|
-| Additional trip —  Krilo Eclipse — Vis | Krilo Kapetan Luka | — | — | — | ✗ | ✗ | [Book](https://www.krilo.hr/en/news/vanredno-putovanje-krilo-eclipse-vis-split-vis-06-07-2026) |
-| 06.07.2026.Vanredno putovanje —  Krilo Eclipse — Vis | Krilo Kapetan Luka | — | — | — | ✗ | ✗ | [Book](https://www.krilo.hr/en/news/vanredno-putovanje-krilo-eclipse-vis-split-vis-06-07-2026) |
-| SPLIT | Krilo Kapetan Luka | — | — | — | ✗ | ✗ | [Book](https://www.krilo.hr/en/schedule) |
+| Split | Jadrolinija | — | — | — | ✓ | ? | [Book](https://www.jadrolinija.hr/en/travel/split_–_vis) |
 
 ## Best Time to Visit
 
@@ -162,4 +160,4 @@ Vis is a Croatian island in the Adriatic Sea. Before the end of World War I, the
 - Šolta
 
 ---
-*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-07-06T10:03:38Z. Coverage: all sources complete.*
+*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-07-13T08:45:25Z. Coverage: all sources complete.*

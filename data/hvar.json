@@ -2,10 +2,10 @@
   "meta": {
     "island": "Hvar",
     "slug": "hvar",
-    "generated_at": "2026-07-06T09:59:24Z",
+    "generated_at": "2026-07-13T08:43:59Z",
     "data_quality": {
-      "osm_poi_count": 549,
-      "ferry_routes_found": 1,
+      "osm_poi_count": 552,
+      "ferry_routes_found": 2,
       "weather_months_complete": 12,
       "coverage_warning": null
     }
@@ -27,15 +27,26 @@
   "getting_there": {
     "ferry_routes": [
       {
-        "origin": "SPLIT",
+        "origin": "Drvenik",
         "destination": "Hvar",
-        "operator": "Krilo Kapetan Luka",
+        "operator": "Jadrolinija",
         "duration_minutes": null,
         "frequency_peak": null,
         "frequency_low": null,
-        "bikes_allowed": false,
-        "cars_allowed": false,
-        "booking_url": "https://www.krilo.hr/en/schedule"
+        "bikes_allowed": true,
+        "cars_allowed": null,
+        "booking_url": "https://www.jadrolinija.hr/en/travel/drvenik_-_sucuraj_hvar"
+      },
+      {
+        "origin": "Split",
+        "destination": "Hvar",
+        "operator": "Jadrolinija",
+        "duration_minutes": null,
+        "frequency_peak": null,
+        "frequency_low": null,
+        "bikes_allowed": true,
+        "cars_allowed": null,
+        "booking_url": "https://www.jadrolinija.hr/en/travel/split_-_stari_grad_hvar"
       }
     ]
   },
@@ -98,8 +109,8 @@
       {
         "month": 7,
         "month_name": "July",
-        "avg_temp_c": 26.4,
-        "avg_rain_days": 2.2,
+        "avg_temp_c": 26.5,
+        "avg_rain_days": 2.0,
         "avg_sunshine_hours": 13.6,
         "sea_temp_c": 25.1,
         "peak_season": true
@@ -509,7 +520,8 @@
           "lon": 16.4283784
         },
         "osm_tags": {
-          "natural": "beach"
+          "natural": "beach",
+          "surface": "pebblestone"
         },
         "notes": null
       },
@@ -4495,6 +4507,39 @@
         "osm_tags": {
           "amenity": "cafe",
           "check_date": "2025-07-06"
+        },
+        "notes": null
+      },
+      {
+        "name": "Silk",
+        "coordinates": {
+          "lat": 43.1729469,
+          "lon": 16.4402044
+        },
+        "osm_tags": {
+          "amenity": "restaurant"
+        },
+        "notes": null
+      },
+      {
+        "name": "Rosetta Sushi Bar",
+        "coordinates": {
+          "lat": 43.1728439,
+          "lon": 16.4402844
+        },
+        "osm_tags": {
+          "amenity": "restaurant"
+        },
+        "notes": null
+      },
+      {
+        "name": "KOVINO",
+        "coordinates": {
+          "lat": 43.1726661,
+          "lon": 16.4427521
+        },
+        "osm_tags": {
+          "amenity": "cafe"
         },
         "notes": null
       }

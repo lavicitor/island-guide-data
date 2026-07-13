@@ -4,6 +4,13 @@
 
 Silba is an island in Croatia with an area of 15 km2, northern Dalmatia, south-east of Lošinj, between the islands of Premuda and Olib. It has a Mediterranean climate with 2570 hours a year of sunshine. Most summer days are hot, bright and clear with light westerly maestral wind cooling the island in the afternoons.
 
+## Getting There
+
+| From | Operator | Duration | Peak (sailings/wk) | Low (sailings/wk) | Bikes | Cars | Book |
+|------|----------|----------|--------------------|-------------------|-------|------|------|
+| Zadar (Gaženica) | Jadrolinija | — | — | — | ✓ | ? | [Book](https://www.jadrolinija.hr/en/travel/zadar_gazenica_-_ist_-_olib_-_silba_-_premuda_-_mali_losinj) |
+| Zadar | Jadrolinija | — | — | — | ✓ | ? | [Book](https://www.jadrolinija.hr/en/travel/zadar_-_silba_-_mali_losinj_2) |
+
 ## Best Time to Visit
 
 **Best months:** June, August
@@ -17,7 +24,7 @@ Silba is an island in Croatia with an area of 15 km2, northern Dalmatia, south-
 | April | 13.5°C | 8 | 10.9 | 15.2°C |
 | May | 17.5°C | 8 | 12.2 | 18.2°C |
 | June | 22.6°C | 5 | 13.5 | 23.1°C |
-| **July** | 24.7°C | 4 | 13.5 | 26.2°C |
+| **July** | 24.8°C | 4 | 13.5 | 26.2°C |
 | August | 24.5°C | 5 | 12.5 | 26.1°C |
 | September | 21.6°C | 9 | 10.2 | 23.9°C |
 | October | 18.3°C | 8 | 8.8 | 21.4°C |
@@ -71,4 +78,4 @@ Silba is an island in Croatia with an area of 15 km2, northern Dalmatia, south-
 - Rab
 
 ---
-*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-07-06T09:55:22Z. Coverage: ferry data unavailable.*
+*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-07-13T08:42:37Z. Coverage: all sources complete.*
