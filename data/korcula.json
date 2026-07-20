@@ -2,7 +2,7 @@
   "meta": {
     "island": "Korcula",
     "slug": "korcula",
-    "generated_at": "2026-07-13T08:46:43Z",
+    "generated_at": "2026-07-20T08:39:16Z",
     "data_quality": {
       "osm_poi_count": 215,
       "ferry_routes_found": 0,
@@ -86,10 +86,10 @@
       {
         "month": 7,
         "month_name": "July",
-        "avg_temp_c": 26.1,
-        "avg_rain_days": 1.8,
+        "avg_temp_c": 26.0,
+        "avg_rain_days": 2.0,
         "avg_sunshine_hours": 13.6,
-        "sea_temp_c": 25.8,
+        "sea_temp_c": 25.9,
         "peak_season": true
       },
       {
@@ -2873,14 +2873,16 @@
     "cash_only_warning": false,
     "day_trip_viable": true,
     "nearby_islands": [
-      "Badija",
-      "Brač",
-      "Hvar",
+      "Bol",
+      "Dominče (Korčula)",
+      "Drvenik",
+      "Katamaran Jelsa",
+      "Katamaran Vira",
+      "Kontejnerski terminal",
       "Korčula",
-      "Lastovo",
-      "Mljet",
-      "Sveti Klement",
-      "Vrnik"
+      "Korčula (Old Town)",
+      "Mali most",
+      "Passenger ferry to Korčula"
     ],
     "recommended_stay_nights": 7
   }

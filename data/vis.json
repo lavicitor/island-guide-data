@@ -2,7 +2,7 @@
   "meta": {
     "island": "Vis",
     "slug": "vis",
-    "generated_at": "2026-07-13T08:45:25Z",
+    "generated_at": "2026-07-20T08:36:56Z",
     "data_quality": {
       "osm_poi_count": 176,
       "ferry_routes_found": 1,
@@ -99,7 +99,7 @@
         "month": 7,
         "month_name": "July",
         "avg_temp_c": 23.5,
-        "avg_rain_days": 1.8,
+        "avg_rain_days": 2.0,
         "avg_sunshine_hours": 13.6,
         "sea_temp_c": 25.8,
         "peak_season": false

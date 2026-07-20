@@ -78,4 +78,4 @@ Silba is an island in Croatia with an area of 15 km2, northern Dalmatia, south-
 - Rab
 
 ---
-*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-07-13T08:42:37Z. Coverage: all sources complete.*
+*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-07-20T08:34:38Z. Coverage: all sources complete.*
