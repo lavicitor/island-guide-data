@@ -10,8 +10,6 @@ Hvar is a Croatian island in the Adriatic Sea, located off the Dalmatian coast, 
 |------|----------|----------|--------------------|-------------------|-------|------|------|
 | Drvenik | Jadrolinija | — | — | — | ✓ | ? | [Book](https://www.jadrolinija.hr/en/travel/drvenik_-_sucuraj_hvar) |
 | Split | Jadrolinija | — | — | — | ✓ | ? | [Book](https://www.jadrolinija.hr/en/travel/split_-_stari_grad_hvar) |
-| Krilo Tropic — Split | Krilo Kapetan Luka | — | — | — | ✗ | ✗ | [Book](https://www.krilo.hr/en/news/captain-1784532990047) |
-| 20.07.2026.Krilo Tropic — Split | Krilo Kapetan Luka | — | — | — | ✗ | ✗ | [Book](https://www.krilo.hr/en/news/captain-1784532990047) |
 
 ## Best Time to Visit
 
@@ -26,7 +24,7 @@ Hvar is a Croatian island in the Adriatic Sea, located off the Dalmatian coast, 
 | April | 13.9°C | 9 | 10.9 | 16.0°C |
 | May | 18.4°C | 9 | 12.2 | 18.6°C |
 | June | 24.0°C | 4 | 13.5 | 23.1°C |
-| **July** | 26.5°C | 2 | 13.6 | 25.1°C |
+| **July** | 26.6°C | 2 | 13.6 | 25.2°C |
 | **August** | 25.7°C | 5 | 12.8 | 25.7°C |
 | September | 21.7°C | 7 | 10.5 | 24.8°C |
 | October | 17.7°C | 8 | 9.1 | 22.1°C |
@@ -363,4 +361,4 @@ Hvar is a Croatian island in the Adriatic Sea, located off the Dalmatian coast, 
 - Šolta
 
 ---
-*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-07-20T08:36:39Z. Coverage: all sources complete.*
+*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-07-27T09:25:00Z. Coverage: all sources complete.*

@@ -22,7 +22,7 @@ Vis is a Croatian island in the Adriatic Sea. Before the end of World War I, the
 | April | 12.7°C | 7 | 11.1 | 16.0°C |
 | May | 16.3°C | 7 | 12.4 | 18.5°C |
 | June | 21.1°C | 4 | 13.5 | 23.3°C |
-| July | 23.5°C | 2 | 13.6 | 25.8°C |
+| July | 23.6°C | 2 | 13.6 | 25.9°C |
 | August | 23.5°C | 5 | 12.8 | 26.0°C |
 | September | 20.8°C | 6 | 10.7 | 24.6°C |
 | October | 17.7°C | 6 | 9.3 | 21.8°C |
@@ -35,6 +35,7 @@ Vis is a Croatian island in the Adriatic Sea. Before the end of World War I, the
 - **Milna** (43.0400, 16.2305)
 - **Zaglav** (43.0327, 16.2285)
 - **Srebrna** (43.0204, 16.2054)
+- **Porat** (42.9830, 16.0046)
 - **Stiniva** (43.0214, 16.1716)
 - **Novo Pošta FKK** (43.0359, 16.0933)
 - **Unnamed beach** (43.0456, 16.0888)
@@ -55,6 +56,9 @@ Vis is a Croatian island in the Adriatic Sea. Before the end of World War I, the
 - **Vartalac** (43.0392, 16.0914)
 - **Kamenice** (43.0383, 16.0920)
 - **Grandovac** (43.0684, 16.2062)
+- **Unnamed beach** (43.0211, 16.2301)
+- **Unnamed beach** (43.0278, 16.2424)
+- **Unnamed beach** (43.0269, 16.2401)
 - **Unnamed beach** (43.0714, 16.2289)
 - **Unnamed beach** (43.0715, 16.2225)
 - **Unnamed beach** (43.0713, 16.2206)
@@ -71,10 +75,12 @@ Vis is a Croatian island in the Adriatic Sea. Before the end of World War I, the
 - **Teplus** (43.0198, 16.2120)
 - **Bili bok** (43.0179, 16.2113)
 - **Mala Srebrna** (43.0226, 16.2037)
+- **Unnamed beach** (43.0788, 16.1864)
 - **Unnamed beach** (43.0084, 16.1038)
 - **Unnamed beach** (43.0089, 16.1097)
 - **Unnamed beach** (43.0169, 16.1560)
 - **PRIROVO BEACH** (43.0642, 16.1891)
+- **Salbunara** (42.9863, 16.0034)
 
 ## Food & Drink
 
@@ -101,7 +107,7 @@ Vis is a Croatian island in the Adriatic Sea. Before the end of World War I, the
 - **Fabrika** (Restaurant · breakfast;burger;international)
 - **Diamond Beach Fish Fine Food** (Bar)
 - **Unnamed** (Bar)
-- **Stončica** (Restaurant)
+- **Konoba Stončica** (Restaurant)
 - **Konoba Bako** (Restaurant · croatian;mediterranean;seafood)
 - **Roki's** (Restaurant)
 - **Konoba Golub** (Restaurant)
@@ -126,6 +132,8 @@ Vis is a Croatian island in the Adriatic Sea. Before the end of World War I, the
 - **Pizzeria Charlie** (Restaurant)
 - **Biliba** (Bar)
 - **Konoba Dol** (Restaurant)
+- **Robinzon** (Cafe)
+- **Gatula** (Cafe)
 - **Corto Maltese** (Bar)
 - **Corto Maltese** (Restaurant)
 - **Speed** (Bar)
@@ -160,4 +168,4 @@ Vis is a Croatian island in the Adriatic Sea. Before the end of World War I, the
 - Šolta
 
 ---
-*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-07-20T08:36:56Z. Coverage: all sources complete.*
+*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-07-27T09:27:11Z. Coverage: all sources complete.*

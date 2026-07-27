@@ -2,10 +2,10 @@
   "meta": {
     "island": "Hvar",
     "slug": "hvar",
-    "generated_at": "2026-07-20T08:36:39Z",
+    "generated_at": "2026-07-27T09:25:00Z",
     "data_quality": {
       "osm_poi_count": 487,
-      "ferry_routes_found": 4,
+      "ferry_routes_found": 2,
       "weather_months_complete": 12,
       "coverage_warning": null
     }
@@ -47,28 +47,6 @@
         "bikes_allowed": true,
         "cars_allowed": null,
         "booking_url": "https://www.jadrolinija.hr/en/travel/split_-_stari_grad_hvar"
-      },
-      {
-        "origin": "Krilo Tropic — Split",
-        "destination": "Hvar",
-        "operator": "Krilo Kapetan Luka",
-        "duration_minutes": null,
-        "frequency_peak": null,
-        "frequency_low": null,
-        "bikes_allowed": false,
-        "cars_allowed": false,
-        "booking_url": "https://www.krilo.hr/en/news/captain-1784532990047"
-      },
-      {
-        "origin": "20.07.2026.Krilo Tropic — Split",
-        "destination": "Hvar",
-        "operator": "Krilo Kapetan Luka",
-        "duration_minutes": null,
-        "frequency_peak": null,
-        "frequency_low": null,
-        "bikes_allowed": false,
-        "cars_allowed": false,
-        "booking_url": "https://www.krilo.hr/en/news/captain-1784532990047"
       }
     ]
   },
@@ -131,10 +109,10 @@
       {
         "month": 7,
         "month_name": "July",
-        "avg_temp_c": 26.5,
-        "avg_rain_days": 2.2,
+        "avg_temp_c": 26.6,
+        "avg_rain_days": 2.3,
         "avg_sunshine_hours": 13.6,
-        "sea_temp_c": 25.1,
+        "sea_temp_c": 25.2,
         "peak_season": true
       },
       {
@@ -741,7 +719,8 @@
           "lon": 16.5913742
         },
         "osm_tags": {
-          "natural": "beach"
+          "natural": "beach",
+          "surface": "pebblestone"
         },
         "notes": null
       },
@@ -6380,6 +6359,7 @@
         "osm_tags": {
           "addr:city": "Sveta Nedjelja",
           "amenity": "place_of_worship",
+          "check_date": "2026-07-26",
           "denomination": "catholic",
           "religion": "christian"
         },
