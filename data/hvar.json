@@ -2,9 +2,9 @@
   "meta": {
     "island": "Hvar",
     "slug": "hvar",
-    "generated_at": "2026-07-27T09:25:00Z",
+    "generated_at": "2026-08-03T09:01:20Z",
     "data_quality": {
-      "osm_poi_count": 487,
+      "osm_poi_count": 488,
       "ferry_routes_found": 2,
       "weather_months_complete": 12,
       "coverage_warning": null
@@ -110,8 +110,8 @@
         "month": 7,
         "month_name": "July",
         "avg_temp_c": 26.6,
-        "avg_rain_days": 2.3,
-        "avg_sunshine_hours": 13.6,
+        "avg_rain_days": 2.5,
+        "avg_sunshine_hours": 13.7,
         "sea_temp_c": 25.2,
         "peak_season": true
       },
@@ -884,7 +884,8 @@
         },
         "osm_tags": {
           "natural": "beach",
-          "source": "Bing"
+          "source": "Bing",
+          "surface": "pebblestone"
         },
         "notes": null
       },
@@ -1761,6 +1762,7 @@
           "check_date:opening_hours": "2025-06-15",
           "cuisine": "regional",
           "email": "info@ribarska-kucica.com",
+          "image": "http://static.panoramio.com/photos/original/83069870.jpg",
           "opening_hours": "09:00-01:00",
           "outdoor_seating": "yes",
           "phone": "+385 21 635033",
@@ -4791,6 +4793,7 @@
           "lon": 16.686269
         },
         "osm_tags": {
+          "check_date": "2026-07-28",
           "tourism": "hotel"
         },
         "notes": null
@@ -5494,6 +5497,26 @@
           "tourism": "apartment",
           "website": "https://www.teuta.hr/",
           "wheelchair": "no"
+        },
+        "notes": null
+      },
+      {
+        "name": "White Beauty",
+        "coordinates": {
+          "lat": 43.1859566,
+          "lon": 16.5989844
+        },
+        "osm_tags": {
+          "addr:city": "Stari Grad",
+          "addr:housenumber": "1",
+          "addr:postcode": "21460",
+          "addr:street": "Ulica Nikole Tesle",
+          "email": "white.beauty.sg00@gmail.com",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "rooms": "2",
+          "tourism": "apartment",
+          "website": "https://www.airbnb.com/rooms/19312990"
         },
         "notes": null
       }
@@ -6454,17 +6477,8 @@
     "atm_count": 39,
     "medical_facility": true,
     "cash_only_warning": false,
-    "day_trip_viable": true,
-    "nearby_islands": [
-      "Badija",
-      "Brač",
-      "Korčula",
-      "Lastovo",
-      "Sveti Klement",
-      "Vis",
-      "Vrnik",
-      "Šolta"
-    ],
+    "day_trip_viable": false,
+    "nearby_islands": [],
     "recommended_stay_nights": 7
   }
 }

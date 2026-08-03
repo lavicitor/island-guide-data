@@ -2,9 +2,9 @@
   "meta": {
     "island": "Vis",
     "slug": "vis",
-    "generated_at": "2026-07-27T09:27:11Z",
+    "generated_at": "2026-08-03T09:02:59Z",
     "data_quality": {
-      "osm_poi_count": 190,
+      "osm_poi_count": 176,
       "ferry_routes_found": 1,
       "weather_months_complete": 12,
       "coverage_warning": null
@@ -99,7 +99,7 @@
         "month": 7,
         "month_name": "July",
         "avg_temp_c": 23.6,
-        "avg_rain_days": 2.2,
+        "avg_rain_days": 2.3,
         "avg_sunshine_hours": 13.6,
         "sea_temp_c": 25.9,
         "peak_season": false
@@ -204,18 +204,6 @@
           "name:de": "Srebrna Strand",
           "natural": "beach",
           "surface": "gravel"
-        },
-        "notes": null
-      },
-      {
-        "name": "Porat",
-        "coordinates": {
-          "lat": 42.9829503,
-          "lon": 16.004598
-        },
-        "osm_tags": {
-          "natural": "beach",
-          "surface": "sand"
         },
         "notes": null
       },
@@ -451,41 +439,6 @@
       {
         "name": null,
         "coordinates": {
-          "lat": 43.0210593,
-          "lon": 16.2300506
-        },
-        "osm_tags": {
-          "natural": "beach"
-        },
-        "notes": null
-      },
-      {
-        "name": null,
-        "coordinates": {
-          "lat": 43.0278252,
-          "lon": 16.2424296
-        },
-        "osm_tags": {
-          "natural": "beach",
-          "source": "Bing"
-        },
-        "notes": null
-      },
-      {
-        "name": null,
-        "coordinates": {
-          "lat": 43.0268861,
-          "lon": 16.2400847
-        },
-        "osm_tags": {
-          "natural": "beach",
-          "source": "Bing"
-        },
-        "notes": null
-      },
-      {
-        "name": null,
-        "coordinates": {
           "lat": 43.0714311,
           "lon": 16.2289385
         },
@@ -684,18 +637,6 @@
       {
         "name": null,
         "coordinates": {
-          "lat": 43.0788101,
-          "lon": 16.1864233
-        },
-        "osm_tags": {
-          "natural": "beach",
-          "surface": "pebblestone"
-        },
-        "notes": null
-      },
-      {
-        "name": null,
-        "coordinates": {
           "lat": 43.008414,
           "lon": 16.1037662
         },
@@ -737,18 +678,6 @@
         "osm_tags": {
           "natural": "beach",
           "surface": "rocky"
-        },
-        "notes": null
-      },
-      {
-        "name": "Salbunara",
-        "coordinates": {
-          "lat": 42.986289,
-          "lon": 16.0034123
-        },
-        "osm_tags": {
-          "natural": "beach",
-          "surface": "sand"
         },
         "notes": null
       }
@@ -1447,29 +1376,6 @@
         "notes": null
       },
       {
-        "name": "Robinzon",
-        "coordinates": {
-          "lat": 42.9811327,
-          "lon": 16.0207274
-        },
-        "osm_tags": {
-          "amenity": "cafe",
-          "check_date": "2026-07-14"
-        },
-        "notes": null
-      },
-      {
-        "name": "Gatula",
-        "coordinates": {
-          "lat": 42.975774,
-          "lon": 16.01133
-        },
-        "osm_tags": {
-          "amenity": "cafe"
-        },
-        "notes": null
-      },
-      {
         "name": "Corto Maltese",
         "coordinates": {
           "lat": 43.0450794,
@@ -2160,23 +2066,6 @@
     ],
     "landmarks": [
       {
-        "name": "Modra špilja",
-        "coordinates": {
-          "lat": 42.980212,
-          "lon": 16.0221078
-        },
-        "osm_tags": {
-          "name:de": "Blaue Grotte",
-          "name:fr": "Grotte bleue",
-          "name:ru": "Голубой грот",
-          "natural": "cave_entrance",
-          "tourism": "attraction",
-          "wikidata": "Q631440",
-          "wikipedia": "hr:Modra špilja"
-        },
-        "notes": null
-      },
-      {
         "name": "Vis",
         "coordinates": {
           "lat": 43.0615909,
@@ -2320,20 +2209,6 @@
           "military": "bunker",
           "tourism": "attraction",
           "wheelchair": "no"
-        },
-        "notes": null
-      },
-      {
-        "name": "Zelena špilja",
-        "coordinates": {
-          "lat": 43.0155144,
-          "lon": 16.2242268
-        },
-        "osm_tags": {
-          "fee": "12€/person",
-          "name:fr": "Grotte verte",
-          "natural": "cave_entrance",
-          "tourism": "attraction"
         },
         "notes": null
       },
@@ -2567,45 +2442,6 @@
         "notes": null
       },
       {
-        "name": "Salbunara",
-        "coordinates": {
-          "lat": 42.9863111,
-          "lon": 16.0024207
-        },
-        "osm_tags": {
-          "amenity": "ferry_terminal",
-          "ferry": "yes",
-          "public_transport": "station"
-        },
-        "notes": null
-      },
-      {
-        "name": "Mezuporat",
-        "coordinates": {
-          "lat": 42.981571,
-          "lon": 16.0208153
-        },
-        "osm_tags": {
-          "amenity": "ferry_terminal",
-          "ferry": "yes",
-          "public_transport": "station"
-        },
-        "notes": null
-      },
-      {
-        "name": "Porat",
-        "coordinates": {
-          "lat": 42.9817603,
-          "lon": 16.0028105
-        },
-        "osm_tags": {
-          "amenity": "ferry_terminal",
-          "ferry": "yes",
-          "public_transport": "station"
-        },
-        "notes": null
-      },
-      {
         "name": "Komiža (Vis)",
         "coordinates": {
           "lat": 43.0444713,
@@ -2651,20 +2487,6 @@
           "amenity": "ferry_terminal",
           "ferry": "yes",
           "public_transport": "stop_position"
-        },
-        "notes": null
-      },
-      {
-        "name": null,
-        "coordinates": {
-          "lat": 43.0442977,
-          "lon": 16.0888016
-        },
-        "osm_tags": {
-          "amenity": "ferry_terminal",
-          "check_date": "2023-09-19",
-          "description:en": "Ferry stop to the Biševo",
-          "source": "https://osm.org/note/3897119"
         },
         "notes": null
       }
