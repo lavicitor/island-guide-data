@@ -2,7 +2,7 @@
   "meta": {
     "island": "Korcula",
     "slug": "korcula",
-    "generated_at": "2026-08-03T09:05:03Z",
+    "generated_at": "2026-08-10T07:09:32Z",
     "data_quality": {
       "osm_poi_count": 215,
       "ferry_routes_found": 0,
@@ -87,7 +87,7 @@
         "month": 7,
         "month_name": "July",
         "avg_temp_c": 26.1,
-        "avg_rain_days": 2.3,
+        "avg_rain_days": 2.8,
         "avg_sunshine_hours": 13.7,
         "sea_temp_c": 25.9,
         "peak_season": true
@@ -95,10 +95,10 @@
       {
         "month": 8,
         "month_name": "August",
-        "avg_temp_c": 25.4,
-        "avg_rain_days": 6.2,
-        "avg_sunshine_hours": 12.8,
-        "sea_temp_c": 26.2,
+        "avg_temp_c": 25.5,
+        "avg_rain_days": 5.2,
+        "avg_sunshine_hours": 12.9,
+        "sea_temp_c": 26.3,
         "peak_season": false
       },
       {
@@ -139,7 +139,8 @@
       }
     ],
     "best_months": [
-      "June"
+      "June",
+      "August"
     ],
     "peak_season_months": [
       "July"
@@ -2873,16 +2874,14 @@
     "cash_only_warning": false,
     "day_trip_viable": true,
     "nearby_islands": [
-      "Bol",
-      "Dominče (Korčula)",
-      "Drvenik",
-      "Katamaran Jelsa",
-      "Katamaran Vira",
-      "Kontejnerski terminal",
+      "Badija",
+      "Brač",
+      "Hvar",
       "Korčula",
-      "Korčula (Old Town)",
-      "Mali most",
-      "Passenger ferry to Korčula"
+      "Lastovo",
+      "Mljet",
+      "Sveti Klement",
+      "Vrnik"
     ],
     "recommended_stay_nights": 7
   }

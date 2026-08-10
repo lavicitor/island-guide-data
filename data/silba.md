@@ -13,8 +13,8 @@ Silba is an island in Croatia with an area of 15 km2, northern Dalmatia, south-
 
 ## Best Time to Visit
 
-**Best months:** June, August
-**Peak season (busy + hot):** July
+**Best months:** June, July
+**Peak season (busy + hot):** August
 
 | Month | Avg Temp | Rain Days | Sunshine (h/day) | Sea Temp |
 |-------|----------|-----------|------------------|----------|
@@ -24,8 +24,8 @@ Silba is an island in Croatia with an area of 15 km2, northern Dalmatia, south-
 | April | 13.5°C | 8 | 10.9 | 15.2°C |
 | May | 17.5°C | 8 | 12.2 | 18.2°C |
 | June | 22.6°C | 5 | 13.5 | 23.1°C |
-| **July** | 25.0°C | 4 | 13.6 | 26.3°C |
-| August | 24.5°C | 5 | 12.5 | 26.1°C |
+| July | 25.0°C | 5 | 13.6 | 26.3°C |
+| **August** | 24.6°C | 4 | 12.6 | 26.2°C |
 | September | 21.6°C | 9 | 10.2 | 23.9°C |
 | October | 18.3°C | 8 | 8.8 | 21.4°C |
 | November | 14.3°C | 14 | 6.1 | 18.6°C |
@@ -78,4 +78,4 @@ Silba is an island in Croatia with an area of 15 km2, northern Dalmatia, south-
 - Rab
 
 ---
-*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-08-03T08:58:43Z. Coverage: all sources complete.*
+*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-08-10T07:04:23Z. Coverage: all sources complete.*

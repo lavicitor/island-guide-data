@@ -2,7 +2,7 @@
   "meta": {
     "island": "Silba",
     "slug": "silba",
-    "generated_at": "2026-08-03T08:58:43Z",
+    "generated_at": "2026-08-10T07:04:23Z",
     "data_quality": {
       "osm_poi_count": 29,
       "ferry_routes_found": 2,
@@ -110,19 +110,19 @@
         "month": 7,
         "month_name": "July",
         "avg_temp_c": 25.0,
-        "avg_rain_days": 4.2,
+        "avg_rain_days": 5.0,
         "avg_sunshine_hours": 13.6,
         "sea_temp_c": 26.3,
-        "peak_season": true
+        "peak_season": false
       },
       {
         "month": 8,
         "month_name": "August",
-        "avg_temp_c": 24.5,
-        "avg_rain_days": 5.4,
-        "avg_sunshine_hours": 12.5,
-        "sea_temp_c": 26.1,
-        "peak_season": false
+        "avg_temp_c": 24.6,
+        "avg_rain_days": 4.5,
+        "avg_sunshine_hours": 12.6,
+        "sea_temp_c": 26.2,
+        "peak_season": true
       },
       {
         "month": 9,
@@ -163,10 +163,10 @@
     ],
     "best_months": [
       "June",
-      "August"
+      "July"
     ],
     "peak_season_months": [
-      "July"
+      "August"
     ]
   },
   "points_of_interest": {
