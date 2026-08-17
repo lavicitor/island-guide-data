@@ -2,7 +2,7 @@
   "meta": {
     "island": "Silba",
     "slug": "silba",
-    "generated_at": "2026-08-10T07:04:23Z",
+    "generated_at": "2026-08-17T06:28:36Z",
     "data_quality": {
       "osm_poi_count": 29,
       "ferry_routes_found": 2,
@@ -118,10 +118,10 @@
       {
         "month": 8,
         "month_name": "August",
-        "avg_temp_c": 24.6,
-        "avg_rain_days": 4.5,
+        "avg_temp_c": 24.7,
+        "avg_rain_days": 4.2,
         "avg_sunshine_hours": 12.6,
-        "sea_temp_c": 26.2,
+        "sea_temp_c": 26.4,
         "peak_season": true
       },
       {

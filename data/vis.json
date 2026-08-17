@@ -2,7 +2,7 @@
   "meta": {
     "island": "Vis",
     "slug": "vis",
-    "generated_at": "2026-08-10T07:07:55Z",
+    "generated_at": "2026-08-17T06:32:27Z",
     "data_quality": {
       "osm_poi_count": 176,
       "ferry_routes_found": 1,
@@ -107,10 +107,10 @@
       {
         "month": 8,
         "month_name": "August",
-        "avg_temp_c": 23.5,
-        "avg_rain_days": 4.0,
+        "avg_temp_c": 23.6,
+        "avg_rain_days": 3.7,
         "avg_sunshine_hours": 12.8,
-        "sea_temp_c": 26.0,
+        "sea_temp_c": 26.2,
         "peak_season": false
       },
       {
@@ -2499,14 +2499,16 @@
     "cash_only_warning": false,
     "day_trip_viable": true,
     "nearby_islands": [
-      "Biševo",
-      "Brač",
+      "Bol",
       "Drvenik Mali",
       "Drvenik Veli",
-      "Hvar",
-      "Korčula",
-      "Sveti Klement",
-      "Šolta"
+      "Katamaran Jelsa",
+      "Katamaran Vira",
+      "Komiža (Vis)",
+      "Mezuporat",
+      "Milna",
+      "Porat",
+      "Rogač"
     ],
     "recommended_stay_nights": 4
   }
