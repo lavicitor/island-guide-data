@@ -2,9 +2,9 @@
   "meta": {
     "island": "Hvar",
     "slug": "hvar",
-    "generated_at": "2026-08-17T06:30:30Z",
+    "generated_at": "2026-08-24T06:34:05Z",
     "data_quality": {
-      "osm_poi_count": 556,
+      "osm_poi_count": 558,
       "ferry_routes_found": 2,
       "weather_months_complete": 12,
       "coverage_warning": null
@@ -119,9 +119,9 @@
         "month": 8,
         "month_name": "August",
         "avg_temp_c": 25.8,
-        "avg_rain_days": 3.8,
+        "avg_rain_days": 4.0,
         "avg_sunshine_hours": 12.8,
-        "sea_temp_c": 25.9,
+        "sea_temp_c": 26.0,
         "peak_season": true
       },
       {
@@ -3393,15 +3393,20 @@
         "notes": null
       },
       {
-        "name": "Nautika",
+        "name": "Nautica",
         "coordinates": {
           "lat": 43.1726035,
           "lon": 16.4403515
         },
         "osm_tags": {
           "addr:housenumber": "8",
+          "addr:postcode": "21450",
           "addr:street": "Obala Fabrika",
-          "amenity": "bar"
+          "amenity": "bar",
+          "contact:facebook": "140733777517",
+          "email": "nautica.bar@gmail.com",
+          "opening_hours": "Mo-Su 09:00-02:00",
+          "phone": "+385 99 333 9876"
         },
         "notes": null
       },
@@ -4566,6 +4571,31 @@
         },
         "osm_tags": {
           "amenity": "cafe"
+        },
+        "notes": null
+      },
+      {
+        "name": "Pura Vida",
+        "coordinates": {
+          "lat": 43.1622976,
+          "lon": 16.7058687
+        },
+        "osm_tags": {
+          "amenity": "restaurant",
+          "cuisine": "burger;sandwich"
+        },
+        "notes": null
+      },
+      {
+        "name": "Konoba Dubovica",
+        "coordinates": {
+          "lat": 43.1462287,
+          "lon": 16.5339884
+        },
+        "osm_tags": {
+          "amenity": "restaurant",
+          "cuisine": "fish;seafood",
+          "internet_access": "wlan"
         },
         "notes": null
       }
