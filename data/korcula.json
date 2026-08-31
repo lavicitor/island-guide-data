@@ -2,9 +2,9 @@
   "meta": {
     "island": "Korcula",
     "slug": "korcula",
-    "generated_at": "2026-08-24T06:36:22Z",
+    "generated_at": "2026-08-31T12:04:19Z",
     "data_quality": {
-      "osm_poi_count": 215,
+      "osm_poi_count": 221,
       "ferry_routes_found": 0,
       "weather_months_complete": 12,
       "coverage_warning": "Ferry: No ferry data found from any source"
@@ -95,10 +95,10 @@
       {
         "month": 8,
         "month_name": "August",
-        "avg_temp_c": 25.6,
-        "avg_rain_days": 5.2,
+        "avg_temp_c": 25.7,
+        "avg_rain_days": 5.0,
         "avg_sunshine_hours": 12.9,
-        "sea_temp_c": 26.5,
+        "sea_temp_c": 26.6,
         "peak_season": false
       },
       {
@@ -218,13 +218,16 @@
         "notes": null
       },
       {
-        "name": null,
+        "name": "Vaja",
         "coordinates": {
-          "lat": 42.9751819,
-          "lon": 17.0042262
+          "lat": 42.9750571,
+          "lon": 17.0041809
         },
         "osm_tags": {
-          "natural": "beach"
+          "lifeguard": "no",
+          "natural": "beach",
+          "supervised": "no",
+          "surface": "pebblestone"
         },
         "notes": null
       },
@@ -325,7 +328,7 @@
         "name": null,
         "coordinates": {
           "lat": 42.9685323,
-          "lon": 16.7009853
+          "lon": 16.7010278
         },
         "osm_tags": {
           "natural": "beach",
@@ -783,6 +786,30 @@
         "osm_tags": {
           "natural": "beach",
           "surface": "sand"
+        },
+        "notes": null
+      },
+      {
+        "name": "Blaca",
+        "coordinates": {
+          "lat": 42.9584682,
+          "lon": 16.8628076
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "shingle"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 42.9658582,
+          "lon": 16.807913
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "shingle"
         },
         "notes": null
       }
@@ -1643,6 +1670,40 @@
           "phone": "+385 91 151 1127"
         },
         "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 42.9388869,
+          "lon": 16.7906227
+        },
+        "osm_tags": {
+          "amenity": "cafe"
+        },
+        "notes": null
+      },
+      {
+        "name": "Konoba Vala",
+        "coordinates": {
+          "lat": 42.9732669,
+          "lon": 17.0215145
+        },
+        "osm_tags": {
+          "amenity": "restaurant"
+        },
+        "notes": null
+      },
+      {
+        "name": "Bistro Cin & Cin",
+        "coordinates": {
+          "lat": 42.9732748,
+          "lon": 17.0191152
+        },
+        "osm_tags": {
+          "amenity": "cafe",
+          "cuisine": "bistro"
+        },
+        "notes": null
       }
     ],
     "atms": [
@@ -1766,8 +1827,8 @@
       {
         "name": null,
         "coordinates": {
-          "lat": 42.9539421,
-          "lon": 16.7163126
+          "lat": 42.9536728,
+          "lon": 16.716274
         },
         "osm_tags": {
           "amenity": "atm",
@@ -2558,20 +2619,6 @@
       {
         "name": null,
         "coordinates": {
-          "lat": 42.9303133,
-          "lon": 16.7826134
-        },
-        "osm_tags": {
-          "amenity": "place_of_worship",
-          "building": "chapel",
-          "denomination": "catholic",
-          "religion": "christian"
-        },
-        "notes": null
-      },
-      {
-        "name": null,
-        "coordinates": {
           "lat": 42.9063404,
           "lon": 16.8619476
         },
@@ -2759,8 +2806,8 @@
       {
         "name": null,
         "coordinates": {
-          "lat": 42.9387518,
-          "lon": 16.7912344
+          "lat": 42.9387614,
+          "lon": 16.7912724
         },
         "osm_tags": {
           "historic": "memorial"
@@ -2862,6 +2909,32 @@
           "memorial": "plaque",
           "war_memorial": "yes",
           "wikimedia_commons": "File:Spomen ploča steljanim, Lovište00958.JPG"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 42.9303895,
+          "lon": 16.7825675
+        },
+        "osm_tags": {
+          "historic": "memorial",
+          "memorial": "cross"
+        },
+        "notes": null
+      },
+      {
+        "name": "Spomenik Braniteljem Blata",
+        "coordinates": {
+          "lat": 42.9304695,
+          "lon": 16.7827112
+        },
+        "osm_tags": {
+          "historic": "memorial",
+          "inscription": "1571-1971\nZahvalni Blaćani\nJunačkim braniteljima Blata",
+          "material": "stone",
+          "memorial": "war_memorial"
         },
         "notes": null
       }

@@ -2,9 +2,9 @@
   "meta": {
     "island": "Hvar",
     "slug": "hvar",
-    "generated_at": "2026-08-24T06:34:05Z",
+    "generated_at": "2026-08-31T12:00:39Z",
     "data_quality": {
-      "osm_poi_count": 558,
+      "osm_poi_count": 559,
       "ferry_routes_found": 2,
       "weather_months_complete": 12,
       "coverage_warning": null
@@ -118,10 +118,10 @@
       {
         "month": 8,
         "month_name": "August",
-        "avg_temp_c": 25.8,
-        "avg_rain_days": 4.0,
+        "avg_temp_c": 25.9,
+        "avg_rain_days": 3.8,
         "avg_sunshine_hours": 12.8,
-        "sea_temp_c": 26.0,
+        "sea_temp_c": 26.1,
         "peak_season": true
       },
       {
@@ -4559,7 +4559,13 @@
           "lon": 16.4402844
         },
         "osm_tags": {
-          "amenity": "restaurant"
+          "addr:postcode": "21450",
+          "amenity": "restaurant",
+          "contact:facebook": "SushiRozeta",
+          "cuisine": "japanese;sushi",
+          "opening_hours": "Mo-Su 18:00-02:00",
+          "phone": "+385 996 974 197",
+          "self_service": "no"
         },
         "notes": null
       },
@@ -4596,6 +4602,26 @@
           "amenity": "restaurant",
           "cuisine": "fish;seafood",
           "internet_access": "wlan"
+        },
+        "notes": null
+      },
+      {
+        "name": "Elysium",
+        "coordinates": {
+          "lat": 43.172886,
+          "lon": 16.443006
+        },
+        "osm_tags": {
+          "addr:housenumber": "17",
+          "addr:postcode": "21450",
+          "addr:street": "Ulica Marije Maričić",
+          "amenity": "restaurant",
+          "contact:instagram": "elysium.hvar",
+          "email": "elysium.hvar@gmail.com",
+          "internet_access": "wlan",
+          "phone": "+385 091 727 8484",
+          "self_service": "no",
+          "website": "https://www.elysiumhvar.com/"
         },
         "notes": null
       }
@@ -5671,6 +5697,8 @@
           "addr:housenumber": "23",
           "addr:postcode": "21450",
           "addr:street": "Kroz Burak",
+          "contact:facebook": "Hvar-Out-Hostel-177475848977922",
+          "phone": "+385 21 71 7375",
           "tourism": "hostel"
         },
         "notes": null

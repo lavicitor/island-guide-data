@@ -18,7 +18,7 @@ Korčula is a Croatian island in the Adriatic Sea. It has an area of 279 km2 (1
 | May | 17.9°C | 10 | 12.2 | 18.8°C |
 | June | 23.7°C | 5 | 13.5 | 23.6°C |
 | **July** | 26.1°C | 3 | 13.7 | 25.9°C |
-| August | 25.6°C | 5 | 12.9 | 26.5°C |
+| August | 25.7°C | 5 | 12.9 | 26.6°C |
 | September | 21.0°C | 8 | 10.6 | 25.1°C |
 | October | 16.8°C | 9 | 9.2 | 22.1°C |
 | November | 12.4°C | 15 | 6.6 | 19.6°C |
@@ -32,7 +32,7 @@ Korčula is a Croatian island in the Adriatic Sea. It has an area of 279 km2 (1
 - **Unnamed beach** (42.9691, 17.0622)
 - **Žitna** (42.9158, 16.9400)
 - **Samograd** (42.9742, 16.9951)
-- **Unnamed beach** (42.9752, 17.0042)
+- **Vaja** (42.9751, 17.0042)
 - **Žal** (42.9062, 16.8610)
 - **Unnamed beach** (42.8964, 16.8634)
 - **Istruga** (42.9097, 16.8578)
@@ -80,6 +80,8 @@ Korčula is a Croatian island in the Adriatic Sea. It has an area of 279 km2 (1
 - **Unnamed beach** (42.9836, 17.0733)
 - **Unnamed beach** (42.9851, 17.0663)
 - **Unnamed beach** (43.0311, 17.0230)
+- **Blaca** (42.9585, 16.8628)
+- **Unnamed beach** (42.9659, 16.8079)
 
 ## Food & Drink
 
@@ -154,6 +156,9 @@ Korčula is a Croatian island in the Adriatic Sea. It has an area of 279 km2 (1
 - **Žitna Marelić** (Restaurant)
 - **Konoba Mašklin Pelješac** (Restaurant)
 - **Konoba Zvirinovik** (Restaurant)
+- **Unnamed** (Cafe)
+- **Konoba Vala** (Restaurant)
+- **Bistro Cin & Cin** (Cafe · bistro)
 
 ## Practical Information
 
@@ -175,4 +180,4 @@ Korčula is a Croatian island in the Adriatic Sea. It has an area of 279 km2 (1
 - Vrnik
 
 ---
-*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-08-24T06:36:22Z. Coverage: ferry data unavailable.*
+*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-08-31T12:04:19Z. Coverage: ferry data unavailable.*

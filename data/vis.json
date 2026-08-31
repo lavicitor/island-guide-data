@@ -2,7 +2,7 @@
   "meta": {
     "island": "Vis",
     "slug": "vis",
-    "generated_at": "2026-08-24T06:34:56Z",
+    "generated_at": "2026-08-31T12:02:06Z",
     "data_quality": {
       "osm_poi_count": 176,
       "ferry_routes_found": 1,
@@ -107,10 +107,10 @@
       {
         "month": 8,
         "month_name": "August",
-        "avg_temp_c": 23.6,
+        "avg_temp_c": 23.7,
         "avg_rain_days": 3.5,
         "avg_sunshine_hours": 12.8,
-        "sea_temp_c": 26.3,
+        "sea_temp_c": 26.4,
         "peak_season": false
       },
       {
