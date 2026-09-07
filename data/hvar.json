@@ -2,7 +2,7 @@
   "meta": {
     "island": "Hvar",
     "slug": "hvar",
-    "generated_at": "2026-08-31T12:00:39Z",
+    "generated_at": "2026-09-07T10:55:32Z",
     "data_quality": {
       "osm_poi_count": 559,
       "ferry_routes_found": 2,
@@ -118,19 +118,19 @@
       {
         "month": 8,
         "month_name": "August",
-        "avg_temp_c": 25.9,
-        "avg_rain_days": 3.8,
+        "avg_temp_c": 26.2,
+        "avg_rain_days": 4.0,
         "avg_sunshine_hours": 12.8,
-        "sea_temp_c": 26.1,
+        "sea_temp_c": 26.2,
         "peak_season": true
       },
       {
         "month": 9,
         "month_name": "September",
-        "avg_temp_c": 21.7,
-        "avg_rain_days": 6.6,
+        "avg_temp_c": 21.8,
+        "avg_rain_days": 5.5,
         "avg_sunshine_hours": 10.5,
-        "sea_temp_c": 24.8,
+        "sea_temp_c": 24.9,
         "peak_season": false
       },
       {
@@ -162,7 +162,8 @@
       }
     ],
     "best_months": [
-      "June"
+      "June",
+      "September"
     ],
     "peak_season_months": [
       "July",
@@ -7558,14 +7559,16 @@
     "cash_only_warning": false,
     "day_trip_viable": true,
     "nearby_islands": [
-      "Badija",
-      "Brač",
+      "Bol",
+      "Bura Line",
+      "Dominče (Korčula)",
+      "Drvenik",
+      "Gat svetog Duje",
+      "Katamaran Jelsa",
+      "Katamaran Vira",
       "Korčula",
-      "Lastovo",
-      "Sveti Klement",
-      "Vis",
-      "Vrnik",
-      "Šolta"
+      "Korčula (Old Town)",
+      "Krilo"
     ],
     "recommended_stay_nights": 7
   }

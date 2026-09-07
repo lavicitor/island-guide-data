@@ -2,7 +2,7 @@
   "meta": {
     "island": "Vis",
     "slug": "vis",
-    "generated_at": "2026-08-31T12:02:06Z",
+    "generated_at": "2026-09-07T10:55:56Z",
     "data_quality": {
       "osm_poi_count": 176,
       "ferry_routes_found": 1,
@@ -107,19 +107,19 @@
       {
         "month": 8,
         "month_name": "August",
-        "avg_temp_c": 23.7,
-        "avg_rain_days": 3.5,
+        "avg_temp_c": 23.9,
+        "avg_rain_days": 3.8,
         "avg_sunshine_hours": 12.8,
-        "sea_temp_c": 26.4,
+        "sea_temp_c": 26.5,
         "peak_season": false
       },
       {
         "month": 9,
         "month_name": "September",
-        "avg_temp_c": 20.8,
-        "avg_rain_days": 6.4,
+        "avg_temp_c": 20.9,
+        "avg_rain_days": 5.3,
         "avg_sunshine_hours": 10.7,
-        "sea_temp_c": 24.6,
+        "sea_temp_c": 24.7,
         "peak_season": false
       },
       {
@@ -153,7 +153,8 @@
     "best_months": [
       "June",
       "July",
-      "August"
+      "August",
+      "September"
     ],
     "peak_season_months": []
   },

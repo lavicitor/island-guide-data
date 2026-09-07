@@ -2,7 +2,7 @@
   "meta": {
     "island": "Korcula",
     "slug": "korcula",
-    "generated_at": "2026-08-31T12:04:19Z",
+    "generated_at": "2026-09-07T10:58:18Z",
     "data_quality": {
       "osm_poi_count": 221,
       "ferry_routes_found": 0,
@@ -95,8 +95,8 @@
       {
         "month": 8,
         "month_name": "August",
-        "avg_temp_c": 25.7,
-        "avg_rain_days": 5.0,
+        "avg_temp_c": 26.0,
+        "avg_rain_days": 5.4,
         "avg_sunshine_hours": 12.9,
         "sea_temp_c": 26.6,
         "peak_season": false
@@ -104,10 +104,10 @@
       {
         "month": 9,
         "month_name": "September",
-        "avg_temp_c": 21.0,
-        "avg_rain_days": 7.6,
+        "avg_temp_c": 21.1,
+        "avg_rain_days": 6.3,
         "avg_sunshine_hours": 10.6,
-        "sea_temp_c": 25.1,
+        "sea_temp_c": 25.2,
         "peak_season": false
       },
       {
