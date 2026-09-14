@@ -2,7 +2,7 @@
   "meta": {
     "island": "Hvar",
     "slug": "hvar",
-    "generated_at": "2026-09-07T10:55:32Z",
+    "generated_at": "2026-09-14T11:08:19Z",
     "data_quality": {
       "osm_poi_count": 559,
       "ferry_routes_found": 2,
@@ -127,10 +127,10 @@
       {
         "month": 9,
         "month_name": "September",
-        "avg_temp_c": 21.8,
+        "avg_temp_c": 22.1,
         "avg_rain_days": 5.5,
         "avg_sunshine_hours": 10.5,
-        "sea_temp_c": 24.9,
+        "sea_temp_c": 25.1,
         "peak_season": false
       },
       {
@@ -7559,16 +7559,14 @@
     "cash_only_warning": false,
     "day_trip_viable": true,
     "nearby_islands": [
-      "Bol",
-      "Bura Line",
-      "Dominče (Korčula)",
-      "Drvenik",
-      "Gat svetog Duje",
-      "Katamaran Jelsa",
-      "Katamaran Vira",
+      "Badija",
+      "Brač",
       "Korčula",
-      "Korčula (Old Town)",
-      "Krilo"
+      "Lastovo",
+      "Sveti Klement",
+      "Vis",
+      "Vrnik",
+      "Šolta"
     ],
     "recommended_stay_nights": 7
   }

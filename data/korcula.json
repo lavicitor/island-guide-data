@@ -2,7 +2,7 @@
   "meta": {
     "island": "Korcula",
     "slug": "korcula",
-    "generated_at": "2026-09-07T10:58:18Z",
+    "generated_at": "2026-09-14T11:11:06Z",
     "data_quality": {
       "osm_poi_count": 221,
       "ferry_routes_found": 0,
@@ -104,10 +104,10 @@
       {
         "month": 9,
         "month_name": "September",
-        "avg_temp_c": 21.1,
+        "avg_temp_c": 21.3,
         "avg_rain_days": 6.3,
         "avg_sunshine_hours": 10.6,
-        "sea_temp_c": 25.2,
+        "sea_temp_c": 25.4,
         "peak_season": false
       },
       {
@@ -1174,14 +1174,19 @@
         "notes": null
       },
       {
-        "name": "Grščica",
+        "name": "200 BAR, bar & kitchen",
         "coordinates": {
           "lat": 42.9085202,
           "lon": 16.7761955
         },
         "osm_tags": {
+          "addr:housenumber": "20",
+          "addr:postcode": "20271",
+          "addr:street": "Gršćica vela",
           "amenity": "restaurant",
-          "cuisine": "regional"
+          "check_date": "2026-09-08",
+          "cuisine": "regional",
+          "website": "https://www.bistro200bar.com/"
         },
         "notes": null
       },
