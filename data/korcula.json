@@ -2,7 +2,7 @@
   "meta": {
     "island": "Korcula",
     "slug": "korcula",
-    "generated_at": "2026-09-14T11:11:06Z",
+    "generated_at": "2026-09-21T11:19:29Z",
     "data_quality": {
       "osm_poi_count": 221,
       "ferry_routes_found": 0,
@@ -104,10 +104,10 @@
       {
         "month": 9,
         "month_name": "September",
-        "avg_temp_c": 21.3,
-        "avg_rain_days": 6.3,
+        "avg_temp_c": 21.4,
+        "avg_rain_days": 6.5,
         "avg_sunshine_hours": 10.6,
-        "sea_temp_c": 25.4,
+        "sea_temp_c": 25.5,
         "peak_season": false
       },
       {
@@ -1501,9 +1501,11 @@
           "addr:street": "Zavalatica",
           "amenity": "restaurant",
           "cuisine": "fish",
-          "email": "albert.marelic@du.t-com.hr",
+          "email": "konoba.albert@gmail.com",
           "internet_access": "wlan",
-          "phone": "+38520834068"
+          "outdoor_seating": "yes",
+          "phone": "+38520834068",
+          "website": "https://web.facebook.com/100063503475381/about/"
         },
         "notes": null
       },
@@ -1639,14 +1641,17 @@
       {
         "name": "Žitna Marelić",
         "coordinates": {
-          "lat": 42.9143547,
-          "lon": 16.9373573
+          "lat": 42.9143451,
+          "lon": 16.9373662
         },
         "osm_tags": {
           "addr:street": "Čara",
           "amenity": "restaurant",
-          "description": "Home made cooking (best to pre-order)",
-          "phone": "+385919273774"
+          "cuisine": "croatian;mediterranean",
+          "description": "Home made cooking (reservation mandatory)",
+          "outdoor_seating": "yes",
+          "phone": "+385919273774",
+          "website": "https://web.facebook.com/p/%C5%BDitna-Mareli%C4%87-100063079337044/"
         },
         "notes": null
       },
@@ -1801,6 +1806,8 @@
           "brand": "Euronet",
           "brand:wikidata": "Q5412010",
           "cash_in": "no",
+          "check_date": "2026-09-17",
+          "currency:EUR": "yes",
           "drive_through": "no",
           "network": "Euronet",
           "opening_hours": "24/7",

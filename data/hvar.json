@@ -2,9 +2,9 @@
   "meta": {
     "island": "Hvar",
     "slug": "hvar",
-    "generated_at": "2026-09-14T11:08:19Z",
+    "generated_at": "2026-09-21T11:17:32Z",
     "data_quality": {
-      "osm_poi_count": 559,
+      "osm_poi_count": 561,
       "ferry_routes_found": 2,
       "weather_months_complete": 12,
       "coverage_warning": null
@@ -127,10 +127,10 @@
       {
         "month": 9,
         "month_name": "September",
-        "avg_temp_c": 22.1,
-        "avg_rain_days": 5.5,
+        "avg_temp_c": 22.2,
+        "avg_rain_days": 5.8,
         "avg_sunshine_hours": 10.5,
-        "sea_temp_c": 25.1,
+        "sea_temp_c": 25.2,
         "peak_season": false
       },
       {
@@ -6744,6 +6744,28 @@
           "rooms": "2",
           "tourism": "apartment",
           "website": "https://www.airbnb.com/rooms/19312990"
+        },
+        "notes": null
+      },
+      {
+        "name": "Hvar Old Town Boutique",
+        "coordinates": {
+          "lat": 43.1729399,
+          "lon": 16.4406303
+        },
+        "osm_tags": {
+          "tourism": "hostel"
+        },
+        "notes": null
+      },
+      {
+        "name": "Hvar Old Town Boutique",
+        "coordinates": {
+          "lat": 43.1729511,
+          "lon": 16.4406235
+        },
+        "osm_tags": {
+          "tourism": "hostel"
         },
         "notes": null
       }

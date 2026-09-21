@@ -24,7 +24,7 @@ Vis is a Croatian island in the Adriatic Sea. Before the end of World War I, the
 | June | 21.1°C | 4 | 13.5 | 23.3°C |
 | July | 23.6°C | 3 | 13.6 | 26.0°C |
 | August | 23.9°C | 4 | 12.8 | 26.5°C |
-| September | 21.1°C | 5 | 10.7 | 24.9°C |
+| September | 21.2°C | 5 | 10.7 | 25.1°C |
 | October | 17.7°C | 6 | 9.3 | 21.8°C |
 | November | 14.2°C | 14 | 6.7 | 19.4°C |
 | December | 11.6°C | 14 | 6.3 | 17.3°C |
@@ -35,7 +35,6 @@ Vis is a Croatian island in the Adriatic Sea. Before the end of World War I, the
 - **Milna** (43.0400, 16.2305)
 - **Zaglav** (43.0327, 16.2285)
 - **Srebrna** (43.0204, 16.2054)
-- **Porat** (42.9830, 16.0046)
 - **Stiniva** (43.0214, 16.1716)
 - **Novo Pošta FKK** (43.0359, 16.0933)
 - **Unnamed beach** (43.0456, 16.0888)
@@ -56,9 +55,6 @@ Vis is a Croatian island in the Adriatic Sea. Before the end of World War I, the
 - **Vartalac** (43.0392, 16.0914)
 - **Kamenice** (43.0383, 16.0920)
 - **Grandovac** (43.0684, 16.2062)
-- **Unnamed beach** (43.0211, 16.2301)
-- **Unnamed beach** (43.0278, 16.2424)
-- **Unnamed beach** (43.0269, 16.2401)
 - **Unnamed beach** (43.0714, 16.2289)
 - **Unnamed beach** (43.0715, 16.2225)
 - **Unnamed beach** (43.0713, 16.2206)
@@ -75,12 +71,10 @@ Vis is a Croatian island in the Adriatic Sea. Before the end of World War I, the
 - **Teplus** (43.0198, 16.2120)
 - **Bili bok** (43.0179, 16.2113)
 - **Mala Srebrna** (43.0226, 16.2037)
-- **Unnamed beach** (43.0788, 16.1864)
 - **Unnamed beach** (43.0084, 16.1038)
 - **Unnamed beach** (43.0089, 16.1097)
 - **Unnamed beach** (43.0169, 16.1560)
 - **PRIROVO BEACH** (43.0642, 16.1891)
-- **Salbunara** (42.9863, 16.0034)
 
 ## Food & Drink
 
@@ -132,8 +126,6 @@ Vis is a Croatian island in the Adriatic Sea. Before the end of World War I, the
 - **Pizzeria Charlie** (Restaurant)
 - **Biliba** (Bar)
 - **Konoba Dol** (Restaurant)
-- **Robinzon** (Cafe)
-- **Gatula** (Cafe)
 - **Corto Maltese** (Bar)
 - **Corto Maltese** (Restaurant)
 - **Speed** (Bar)
@@ -168,4 +160,4 @@ Vis is a Croatian island in the Adriatic Sea. Before the end of World War I, the
 - Šolta
 
 ---
-*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-09-14T11:09:15Z. Coverage: all sources complete.*
+*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-09-21T11:19:00Z. Coverage: all sources complete.*
