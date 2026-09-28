@@ -24,7 +24,7 @@ Vis is a Croatian island in the Adriatic Sea. Before the end of World War I, the
 | June | 21.1°C | 4 | 13.5 | 23.3°C |
 | July | 23.6°C | 3 | 13.6 | 26.0°C |
 | August | 23.9°C | 4 | 12.8 | 26.5°C |
-| September | 21.2°C | 5 | 10.7 | 25.1°C |
+| September | 21.3°C | 5 | 10.7 | 25.1°C |
 | October | 17.7°C | 6 | 9.3 | 21.8°C |
 | November | 14.2°C | 14 | 6.7 | 19.4°C |
 | December | 11.6°C | 14 | 6.3 | 17.3°C |
@@ -65,7 +65,7 @@ Vis is a Croatian island in the Adriatic Sea. Before the end of World War I, the
 - **Unnamed beach** (43.0658, 16.2489)
 - **Unnamed beach** (43.0432, 16.2405)
 - **Lucica** (43.0430, 16.0888)
-- **FKK** (43.0180, 16.2048)
+- **Bili Bok Plaža** (43.0180, 16.2048)
 - **Unnamed beach** (43.0732, 16.1317)
 - **Velo Travna** (43.0213, 16.1859)
 - **Teplus** (43.0198, 16.2120)
@@ -150,14 +150,16 @@ Vis is a Croatian island in the Adriatic Sea. Before the end of World War I, the
 
 ## Nearby Islands
 
-- Biševo
-- Brač
+- Bol
 - Drvenik Mali
 - Drvenik Veli
-- Hvar
-- Korčula
-- Sveti Klement
-- Šolta
+- Katamaran Jelsa
+- Katamaran Vira
+- Komiža (Vis)
+- Mezuporat
+- Milna
+- Porat
+- Rogač
 
 ---
-*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-09-21T11:19:00Z. Coverage: all sources complete.*
+*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-09-28T12:14:58Z. Coverage: all sources complete.*

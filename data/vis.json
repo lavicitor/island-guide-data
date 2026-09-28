@@ -2,7 +2,7 @@
   "meta": {
     "island": "Vis",
     "slug": "vis",
-    "generated_at": "2026-09-21T11:19:00Z",
+    "generated_at": "2026-09-28T12:14:58Z",
     "data_quality": {
       "osm_poi_count": 176,
       "ferry_routes_found": 1,
@@ -116,8 +116,8 @@
       {
         "month": 9,
         "month_name": "September",
-        "avg_temp_c": 21.2,
-        "avg_rain_days": 5.3,
+        "avg_temp_c": 21.3,
+        "avg_rain_days": 5.2,
         "avg_sunshine_hours": 10.7,
         "sea_temp_c": 25.1,
         "peak_season": false
@@ -558,14 +558,14 @@
         "notes": null
       },
       {
-        "name": "FKK",
+        "name": "Bili Bok Plaža",
         "coordinates": {
           "lat": 43.0180382,
           "lon": 16.204799
         },
         "osm_tags": {
-          "description": "FKK",
-          "name:de": "FKK Strand",
+          "description": "FKK, nudist",
+          "name:de": "Bili Bok Strand",
           "natural": "beach",
           "nudism": "yes",
           "surface": "paving_stones"
@@ -2500,14 +2500,16 @@
     "cash_only_warning": false,
     "day_trip_viable": true,
     "nearby_islands": [
-      "Biševo",
-      "Brač",
+      "Bol",
       "Drvenik Mali",
       "Drvenik Veli",
-      "Hvar",
-      "Korčula",
-      "Sveti Klement",
-      "Šolta"
+      "Katamaran Jelsa",
+      "Katamaran Vira",
+      "Komiža (Vis)",
+      "Mezuporat",
+      "Milna",
+      "Porat",
+      "Rogač"
     ],
     "recommended_stay_nights": 4
   }

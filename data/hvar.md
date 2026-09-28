@@ -392,14 +392,16 @@ Hvar is a Croatian island in the Adriatic Sea, located off the Dalmatian coast, 
 
 ## Nearby Islands
 
-- Badija
-- Brač
+- Bol
+- Bura Line
+- Dominče (Korčula)
+- Drvenik
+- Gat svetog Duje
+- Katamaran Jelsa
+- Katamaran Vira
 - Korčula
-- Lastovo
-- Sveti Klement
-- Vis
-- Vrnik
-- Šolta
+- Korčula (Old Town)
+- Krilo
 
 ---
-*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-09-21T11:17:32Z. Coverage: all sources complete.*
+*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-09-28T12:13:52Z. Coverage: all sources complete.*

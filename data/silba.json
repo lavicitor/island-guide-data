@@ -2,9 +2,9 @@
   "meta": {
     "island": "Silba",
     "slug": "silba",
-    "generated_at": "2026-09-21T11:16:15Z",
+    "generated_at": "2026-09-28T12:11:57Z",
     "data_quality": {
-      "osm_poi_count": 29,
+      "osm_poi_count": 118,
       "ferry_routes_found": 2,
       "weather_months_complete": 12,
       "coverage_warning": null
@@ -127,10 +127,10 @@
       {
         "month": 9,
         "month_name": "September",
-        "avg_temp_c": 22.0,
-        "avg_rain_days": 8.3,
-        "avg_sunshine_hours": 10.2,
-        "sea_temp_c": 24.4,
+        "avg_temp_c": 22.1,
+        "avg_rain_days": 8.2,
+        "avg_sunshine_hours": 10.3,
+        "sea_temp_c": 24.5,
         "peak_season": false
       },
       {
@@ -276,6 +276,17 @@
       {
         "name": null,
         "coordinates": {
+          "lat": 44.3853519,
+          "lon": 14.7935983
+        },
+        "osm_tags": {
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
           "lat": 44.3752156,
           "lon": 14.6914144
         },
@@ -297,6 +308,224 @@
         "notes": null
       },
       {
+        "name": "Plieski",
+        "coordinates": {
+          "lat": 44.4884962,
+          "lon": 14.5070562
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "pebblestone"
+        },
+        "notes": null
+      },
+      {
+        "name": "Balvanida",
+        "coordinates": {
+          "lat": 44.4919881,
+          "lon": 14.5045377
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "pebblestone"
+        },
+        "notes": null
+      },
+      {
+        "name": "Rovenska",
+        "coordinates": {
+          "lat": 44.5211885,
+          "lon": 14.5091954
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "pebblestone"
+        },
+        "notes": null
+      },
+      {
+        "name": "Javorna",
+        "coordinates": {
+          "lat": 44.5134001,
+          "lon": 14.5169452
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "gravel"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.2890752,
+          "lon": 14.7000386
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "pebblestone"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.3366427,
+          "lon": 14.5951186
+        },
+        "osm_tags": {
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": "Jamna",
+        "coordinates": {
+          "lat": 44.5017588,
+          "lon": 14.5233836
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "gravel"
+        },
+        "notes": null
+      },
+      {
+        "name": "Kriška",
+        "coordinates": {
+          "lat": 44.5079629,
+          "lon": 14.5211259
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "gravel"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.5013127,
+          "lon": 14.4956337
+        },
+        "osm_tags": {
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.4793703,
+          "lon": 14.5331053
+        },
+        "osm_tags": {
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.4916027,
+          "lon": 14.5383726
+        },
+        "osm_tags": {
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": "Pećina",
+        "coordinates": {
+          "lat": 44.4763447,
+          "lon": 14.5251496
+        },
+        "osm_tags": {
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.459902,
+          "lon": 14.5356636
+        },
+        "osm_tags": {
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.4546814,
+          "lon": 14.564232
+        },
+        "osm_tags": {
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.4446812,
+          "lon": 14.5741205
+        },
+        "osm_tags": {
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.4429363,
+          "lon": 14.5518848
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "gravel"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.4476319,
+          "lon": 14.5585055
+        },
+        "osm_tags": {
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.4616569,
+          "lon": 14.5386191
+        },
+        "osm_tags": {
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.3652368,
+          "lon": 14.755265
+        },
+        "osm_tags": {
+          "natural": "beach",
+          "surface": "sand"
+        },
+        "notes": null
+      },
+      {
         "name": null,
         "coordinates": {
           "lat": 44.3633454,
@@ -306,9 +535,212 @@
           "natural": "beach"
         },
         "notes": null
+      },
+      {
+        "name": "Mavrela",
+        "coordinates": {
+          "lat": 44.278188,
+          "lon": 14.7427625
+        },
+        "osm_tags": {
+          "lifeguard": "no",
+          "natural": "beach",
+          "supervised": "no",
+          "surface": "pebblestone"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.273544,
+          "lon": 14.7861048
+        },
+        "osm_tags": {
+          "lifeguard": "no",
+          "natural": "beach",
+          "supervised": "no"
+        },
+        "notes": null
+      },
+      {
+        "name": "Podgrad",
+        "coordinates": {
+          "lat": 44.2740168,
+          "lon": 14.7839274
+        },
+        "osm_tags": {
+          "lifeguard": "no",
+          "natural": "beach",
+          "supervised": "no",
+          "surface": "rocks"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.2296412,
+          "lon": 14.8326275
+        },
+        "osm_tags": {
+          "natural": "beach"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.2380167,
+          "lon": 14.8384086
+        },
+        "osm_tags": {
+          "lifeguard": "no",
+          "natural": "beach",
+          "supervised": "no",
+          "surface": "gravel"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.2383063,
+          "lon": 14.8394208
+        },
+        "osm_tags": {
+          "lifeguard": "no",
+          "natural": "beach",
+          "supervised": "no",
+          "surface": "gravel"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.2454671,
+          "lon": 14.8274319
+        },
+        "osm_tags": {
+          "lifeguard": "no",
+          "natural": "beach",
+          "supervised": "no",
+          "surface": "gravel"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.245058,
+          "lon": 14.8274123
+        },
+        "osm_tags": {
+          "lifeguard": "no",
+          "natural": "beach",
+          "supervised": "no",
+          "surface": "gravel"
+        },
+        "notes": null
       }
     ],
     "restaurants": [
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.2722305,
+          "lon": 14.7671062
+        },
+        "osm_tags": {
+          "amenity": "cafe",
+          "internet_access": "wlan",
+          "internet_access:fee": "yes",
+          "smoking": "no"
+        },
+        "notes": null
+      },
+      {
+        "name": "Konoba \"Maestro\"",
+        "coordinates": {
+          "lat": 44.2728013,
+          "lon": 14.7665472
+        },
+        "osm_tags": {
+          "amenity": "restaurant",
+          "cuisine": "regional"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.2705937,
+          "lon": 14.7699656
+        },
+        "osm_tags": {
+          "amenity": "restaurant"
+        },
+        "notes": null
+      },
+      {
+        "name": "Konoba Balvanida",
+        "coordinates": {
+          "lat": 44.4944519,
+          "lon": 14.5035105
+        },
+        "osm_tags": {
+          "amenity": "restaurant",
+          "cuisine": "regional",
+          "wheelchair": "no"
+        },
+        "notes": null
+      },
+      {
+        "name": "Konoba\"MOL\"",
+        "coordinates": {
+          "lat": 44.5204143,
+          "lon": 14.5064497
+        },
+        "osm_tags": {
+          "amenity": "restaurant"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.4593186,
+          "lon": 14.5497243
+        },
+        "osm_tags": {
+          "amenity": "restaurant",
+          "end_date": "2023"
+        },
+        "notes": null
+      },
+      {
+        "name": "Grill",
+        "coordinates": {
+          "lat": 44.3781245,
+          "lon": 14.7776476
+        },
+        "osm_tags": {
+          "amenity": "restaurant"
+        },
+        "notes": null
+      },
+      {
+        "name": "Bočvica",
+        "coordinates": {
+          "lat": 44.3792824,
+          "lon": 14.7770361
+        },
+        "osm_tags": {
+          "amenity": "restaurant"
+        },
+        "notes": null
+      },
       {
         "name": "MIK",
         "coordinates": {
@@ -371,6 +803,32 @@
         "notes": null
       },
       {
+        "name": "Leut",
+        "coordinates": {
+          "lat": 44.3786432,
+          "lon": 14.7776832
+        },
+        "osm_tags": {
+          "amenity": "restaurant"
+        },
+        "notes": null
+      },
+      {
+        "name": "Restaurant Konoba Grmalj",
+        "coordinates": {
+          "lat": 44.337669,
+          "lon": 14.5947329
+        },
+        "osm_tags": {
+          "amenity": "restaurant",
+          "internet_access": "no",
+          "internet_access:fee": "no",
+          "smoking": "yes",
+          "wheelchair": "yes"
+        },
+        "notes": null
+      },
+      {
         "name": null,
         "coordinates": {
           "lat": 44.3894297,
@@ -378,6 +836,100 @@
         },
         "osm_tags": {
           "amenity": "restaurant"
+        },
+        "notes": null
+      },
+      {
+        "name": "Dalmatinka",
+        "coordinates": {
+          "lat": 44.4600565,
+          "lon": 14.5517745
+        },
+        "osm_tags": {
+          "amenity": "restaurant",
+          "cuisine": "regional",
+          "email": "stojan.trkulja@gmail.com",
+          "internet_access": "wlan",
+          "internet_access:fee": "no",
+          "operator": "Fides Trkulja",
+          "phone": "+385 (0)98 9526 324",
+          "website": "http://www.restoran-dalmatinka.com"
+        },
+        "notes": null
+      },
+      {
+        "name": "Bora Bar",
+        "coordinates": {
+          "lat": 44.5202907,
+          "lon": 14.5063561
+        },
+        "osm_tags": {
+          "amenity": "restaurant"
+        },
+        "notes": null
+      },
+      {
+        "name": "Saturn",
+        "coordinates": {
+          "lat": 44.5213697,
+          "lon": 14.5015767
+        },
+        "osm_tags": {
+          "amenity": "cafe",
+          "check_date": "2025-09-04"
+        },
+        "notes": null
+      },
+      {
+        "name": "Fortuna",
+        "coordinates": {
+          "lat": 44.5218895,
+          "lon": 14.5004441
+        },
+        "osm_tags": {
+          "amenity": "restaurant",
+          "cuisine": "regional;pizza",
+          "outdoor_seating": "yes"
+        },
+        "notes": null
+      },
+      {
+        "name": "Rovenska",
+        "coordinates": {
+          "lat": 44.5209759,
+          "lon": 14.5093068
+        },
+        "osm_tags": {
+          "amenity": "cafe"
+        },
+        "notes": null
+      },
+      {
+        "name": "Amico",
+        "coordinates": {
+          "lat": 44.4612677,
+          "lon": 14.5484464
+        },
+        "osm_tags": {
+          "amenity": "restaurant",
+          "cuisine": "regional;mediterranean",
+          "internet_access": "wlan",
+          "website": "https://www.ilovik.hr/en/restaurant-amico"
+        },
+        "notes": null
+      },
+      {
+        "name": "Eskimo",
+        "coordinates": {
+          "lat": 44.5211169,
+          "lon": 14.5014958
+        },
+        "osm_tags": {
+          "addr:housenumber": "1",
+          "addr:street": "Kastel",
+          "amenity": "cafe",
+          "cuisine": "coffee_shop;ice_cream",
+          "internet_access": "wlan"
         },
         "notes": null
       },
@@ -394,9 +946,191 @@
           "opening_hours": "Mo-Su 12:00-23:00"
         },
         "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.5209634,
+          "lon": 14.5018888
+        },
+        "osm_tags": {
+          "amenity": "cafe"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.5210126,
+          "lon": 14.5018639
+        },
+        "osm_tags": {
+          "amenity": "cafe"
+        },
+        "notes": null
+      },
+      {
+        "name": "Marina",
+        "coordinates": {
+          "lat": 44.5217977,
+          "lon": 14.5003831
+        },
+        "osm_tags": {
+          "amenity": "restaurant",
+          "cuisine": "regional",
+          "outdoor_seating": "yes"
+        },
+        "notes": null
+      },
+      {
+        "name": "Havanna",
+        "coordinates": {
+          "lat": 44.5193708,
+          "lon": 14.5007779
+        },
+        "osm_tags": {
+          "amenity": "restaurant"
+        },
+        "notes": null
+      },
+      {
+        "name": "Oliva",
+        "coordinates": {
+          "lat": 44.4615276,
+          "lon": 14.5477917
+        },
+        "osm_tags": {
+          "amenity": "restaurant",
+          "indoor_seating": "yes",
+          "outdoor_seating": "yes"
+        },
+        "notes": null
+      },
+      {
+        "name": "Esempio",
+        "coordinates": {
+          "lat": 44.4617248,
+          "lon": 14.5480142
+        },
+        "osm_tags": {
+          "amenity": "restaurant"
+        },
+        "notes": null
+      },
+      {
+        "name": "Café Beny",
+        "coordinates": {
+          "lat": 44.5212099,
+          "lon": 14.5017708
+        },
+        "osm_tags": {
+          "amenity": "cafe"
+        },
+        "notes": null
+      },
+      {
+        "name": "Café Faro",
+        "coordinates": {
+          "lat": 44.5210212,
+          "lon": 14.5015804
+        },
+        "osm_tags": {
+          "addr:housenumber": "31",
+          "addr:street": "O. M. Tita",
+          "amenity": "cafe"
+        },
+        "notes": null
+      },
+      {
+        "name": "Lako Cemo",
+        "coordinates": {
+          "lat": 44.2720236,
+          "lon": 14.7672012
+        },
+        "osm_tags": {
+          "addr:city": "Ist",
+          "addr:housenumber": "68",
+          "amenity": "cafe"
+        },
+        "notes": null
+      },
+      {
+        "name": "Kod Celestina",
+        "coordinates": {
+          "lat": 44.3375062,
+          "lon": 14.5939529
+        },
+        "osm_tags": {
+          "amenity": "restaurant"
+        },
+        "notes": null
+      },
+      {
+        "name": "Masarine",
+        "coordinates": {
+          "lat": 44.337332,
+          "lon": 14.5942068
+        },
+        "osm_tags": {
+          "amenity": "restaurant"
+        },
+        "notes": null
+      },
+      {
+        "name": "bistro Sirius",
+        "coordinates": {
+          "lat": 44.5202317,
+          "lon": 14.5062913
+        },
+        "osm_tags": {
+          "addr:city": "Veli Lošinj",
+          "addr:housenumber": "4",
+          "addr:postcode": "51551",
+          "addr:street": "Ul. Rovenska",
+          "amenity": "restaurant",
+          "cuisine": "pizza",
+          "phone": "+385917201108",
+          "website": "https://m.facebook.com/Bistro-Sirius-Rovenska-100408066083052/"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.5223229,
+          "lon": 14.5009912
+        },
+        "osm_tags": {
+          "amenity": "restaurant"
+        },
+        "notes": null
       }
     ],
     "atms": [
+      {
+        "name": "Erste bank",
+        "coordinates": {
+          "lat": 44.518927,
+          "lon": 14.5018961
+        },
+        "osm_tags": {
+          "amenity": "atm",
+          "check_date": "2022-05-08"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.5209307,
+          "lon": 14.5017373
+        },
+        "osm_tags": {
+          "amenity": "atm",
+          "check_date": "2023-07-31"
+        },
+        "notes": null
+      },
       {
         "name": "Euronet",
         "coordinates": {
@@ -410,7 +1144,20 @@
         "notes": null
       }
     ],
-    "medical": [],
+    "medical": [
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.3434968,
+          "lon": 14.6002769
+        },
+        "osm_tags": {
+          "amenity": "doctors",
+          "healthcare": "doctor"
+        },
+        "notes": null
+      }
+    ],
     "accommodation": [
       {
         "name": "Fregadon",
@@ -486,6 +1233,105 @@
         "notes": null
       },
       {
+        "name": "Omladinski hostel Veli Lošinj",
+        "coordinates": {
+          "lat": 44.521811,
+          "lon": 14.5019102
+        },
+        "osm_tags": {
+          "addr:housenumber": "4",
+          "addr:street": "Kaciol",
+          "email": "losinj@hfhs.hr",
+          "fixme": "fix position",
+          "operator": "Hrvatski ferijalni i hostelski savez",
+          "phone": "+385 51236234",
+          "tourism": "hostel"
+        },
+        "notes": null
+      },
+      {
+        "name": "Punta",
+        "coordinates": {
+          "lat": 44.5238538,
+          "lon": 14.4967931
+        },
+        "osm_tags": {
+          "tourism": "hotel"
+        },
+        "notes": null
+      },
+      {
+        "name": "Delphin Suites",
+        "coordinates": {
+          "lat": 44.5191576,
+          "lon": 14.5004426
+        },
+        "osm_tags": {
+          "addr:housenumber": "14",
+          "addr:street": "Slavojna",
+          "tourism": "hotel"
+        },
+        "notes": null
+      },
+      {
+        "name": "Pansion Veli Losinj",
+        "coordinates": {
+          "lat": 44.5195984,
+          "lon": 14.5010283
+        },
+        "osm_tags": {
+          "addr:city": "Veli Lošinj",
+          "addr:housenumber": "6a",
+          "addr:postcode": "51551",
+          "addr:street": "Slavojna",
+          "internet_access": "wlan",
+          "tourism": "hotel"
+        },
+        "notes": null
+      },
+      {
+        "name": "Family Kastelan",
+        "coordinates": {
+          "lat": 44.5195039,
+          "lon": 14.5002221
+        },
+        "osm_tags": {
+          "addr:housenumber": "16",
+          "internet_access": "wlan",
+          "tourism": "guest_house"
+        },
+        "notes": null
+      },
+      {
+        "name": "Apartment Letfus",
+        "coordinates": {
+          "lat": 44.5194524,
+          "lon": 14.5007921
+        },
+        "osm_tags": {
+          "addr:housenumber": "8",
+          "addr:street": "Ulica Slavojna",
+          "internet_access": "wlan",
+          "tourism": "apartment",
+          "website": "https://www.val-losinj.hr/apartment-losinj/letfus/3743"
+        },
+        "notes": null
+      },
+      {
+        "name": "Apertements Ida",
+        "coordinates": {
+          "lat": 44.5144319,
+          "lon": 14.5051512
+        },
+        "osm_tags": {
+          "addr:city": "Veli Lošinj",
+          "addr:housenumber": "35a",
+          "addr:street": "Kunsil",
+          "tourism": "apartment"
+        },
+        "notes": null
+      },
+      {
         "name": "Belvedere",
         "coordinates": {
           "lat": 44.3706257,
@@ -496,9 +1342,105 @@
           "tourism": "guest_house"
         },
         "notes": null
+      },
+      {
+        "name": "Betanija",
+        "coordinates": {
+          "lat": 44.5204626,
+          "lon": 14.5039072
+        },
+        "osm_tags": {
+          "tourism": "apartment"
+        },
+        "notes": null
+      },
+      {
+        "name": "Apartman Kornu",
+        "coordinates": {
+          "lat": 44.4865474,
+          "lon": 14.5245325
+        },
+        "osm_tags": {
+          "rooms": "2",
+          "tourism": "apartment"
+        },
+        "notes": null
       }
     ],
     "landmarks": [
+      {
+        "name": "Ilovik",
+        "coordinates": {
+          "lat": 44.4617816,
+          "lon": 14.5490941
+        },
+        "osm_tags": {
+          "amenity": "ferry_terminal",
+          "ferry": "yes",
+          "name:it": "Asinello",
+          "public_transport": "station"
+        },
+        "notes": null
+      },
+      {
+        "name": "Mrtvaška",
+        "coordinates": {
+          "lat": 44.4790697,
+          "lon": 14.5329653
+        },
+        "osm_tags": {
+          "amenity": "ferry_terminal",
+          "cargo": "passengers",
+          "contact:mobile": "+385995162349",
+          "contact:website": "http://www.ilovik.hr/de/shuttle-boot-taxi",
+          "ferry": "yes",
+          "public_transport": "station"
+        },
+        "notes": null
+      },
+      {
+        "name": "Sv. Nikola",
+        "coordinates": {
+          "lat": 44.5132952,
+          "lon": 14.5093285
+        },
+        "osm_tags": {
+          "amenity": "place_of_worship",
+          "denomination": "catholic",
+          "loc_name": "Sv. Ana",
+          "religion": "christian"
+        },
+        "notes": null
+      },
+      {
+        "name": "Sv. Ivan",
+        "coordinates": {
+          "lat": 44.511372,
+          "lon": 14.4971786
+        },
+        "osm_tags": {
+          "amenity": "place_of_worship",
+          "denomination": "catholic",
+          "name:it": "S. Giovanni Basta",
+          "religion": "christian"
+        },
+        "notes": null
+      },
+      {
+        "name": "Olib",
+        "coordinates": {
+          "lat": 44.380266,
+          "lon": 14.7753842
+        },
+        "osm_tags": {
+          "amenity": "ferry_terminal",
+          "ferry": "yes",
+          "name:de": "Lüb",
+          "name:it": "Ulbo",
+          "public_transport": "station"
+        },
+        "notes": null
+      },
       {
         "name": "Silba",
         "coordinates": {
@@ -529,6 +1471,151 @@
         "notes": null
       },
       {
+        "name": "Kosirača",
+        "coordinates": {
+          "lat": 44.2793295,
+          "lon": 14.7571898
+        },
+        "osm_tags": {
+          "amenity": "ferry_terminal",
+          "ferry": "yes",
+          "public_transport": "stop_position"
+        },
+        "notes": null
+      },
+      {
+        "name": "Spomenik palim 1941.-1945.",
+        "coordinates": {
+          "lat": 44.3798072,
+          "lon": 14.7772702
+        },
+        "osm_tags": {
+          "historic": "memorial"
+        },
+        "notes": null
+      },
+      {
+        "name": "Ostaci pristaništa s kamenim sarkofazima",
+        "coordinates": {
+          "lat": 44.368504,
+          "lon": 14.6934145
+        },
+        "osm_tags": {
+          "heritage": "4",
+          "heritage:operator": "uzkb",
+          "historic": "archaeological_site",
+          "historic:civilization": "ancient_roman",
+          "ref:hr:uzkb": "P-3306",
+          "start_date": "C4"
+        },
+        "notes": null
+      },
+      {
+        "name": "Brgulje",
+        "coordinates": {
+          "lat": 44.225334,
+          "lon": 14.8387469
+        },
+        "osm_tags": {
+          "amenity": "ferry_terminal",
+          "ferry": "yes",
+          "public_transport": "station"
+        },
+        "notes": null
+      },
+      {
+        "name": "Port of Ist",
+        "coordinates": {
+          "lat": 44.270871,
+          "lon": 14.7668335
+        },
+        "osm_tags": {
+          "amenity": "ferry_terminal"
+        },
+        "notes": null
+      },
+      {
+        "name": "Premuda",
+        "coordinates": {
+          "lat": 44.3371889,
+          "lon": 14.5928328
+        },
+        "osm_tags": {
+          "amenity": "ferry_terminal",
+          "ferry": "yes",
+          "public_transport": "station"
+        },
+        "notes": null
+      },
+      {
+        "name": "Krisine",
+        "coordinates": {
+          "lat": 44.4563566,
+          "lon": 14.538172
+        },
+        "osm_tags": {
+          "amenity": "place_of_worship",
+          "religion": "christian"
+        },
+        "notes": null
+      },
+      {
+        "name": "Sv. Marije (Gospe od anđela)",
+        "coordinates": {
+          "lat": 44.5187094,
+          "lon": 14.5020947
+        },
+        "osm_tags": {
+          "amenity": "place_of_worship",
+          "denomination": "catholic",
+          "name:it": "Nostra signora degli angeli",
+          "religion": "christian"
+        },
+        "notes": null
+      },
+      {
+        "name": "Zapuntel",
+        "coordinates": {
+          "lat": 44.2604545,
+          "lon": 14.7989763
+        },
+        "osm_tags": {
+          "amenity": "ferry_terminal",
+          "ferry": "yes",
+          "name:it": "Zapuntello",
+          "public_transport": "station"
+        },
+        "notes": null
+      },
+      {
+        "name": "Sveti Josip",
+        "coordinates": {
+          "lat": 44.5170151,
+          "lon": 14.5049095
+        },
+        "osm_tags": {
+          "amenity": "place_of_worship",
+          "check_date": "2026-09-10",
+          "denomination": "catholic",
+          "religion": "christian"
+        },
+        "notes": null
+      },
+      {
+        "name": "kapelica Gospe Lurdske",
+        "coordinates": {
+          "lat": 44.456339,
+          "lon": 14.5523763
+        },
+        "osm_tags": {
+          "amenity": "place_of_worship",
+          "building": "chapel",
+          "check_date": "2024-01-04",
+          "religion": "christian"
+        },
+        "notes": null
+      },
+      {
         "name": "Oslobađanje Silbe od kmetstva",
         "coordinates": {
           "lat": 44.374624,
@@ -541,14 +1628,53 @@
           "start_date": "1952-03-19"
         },
         "notes": null
+      },
+      {
+        "name": "Crkvica Navjestenja B. D. Marije",
+        "coordinates": {
+          "lat": 44.5234514,
+          "lon": 14.5016659
+        },
+        "osm_tags": {
+          "addr:city": "Veli Lošinj",
+          "addr:postcode": "51551",
+          "amenity": "place_of_worship",
+          "religion": "christian"
+        },
+        "notes": null
+      },
+      {
+        "name": "Crkva Svetog Križa",
+        "coordinates": {
+          "lat": 44.5235354,
+          "lon": 14.502003
+        },
+        "osm_tags": {
+          "addr:city": "Veli Lošinj",
+          "amenity": "place_of_worship",
+          "denomination": "catholic",
+          "religion": "christian"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 44.5193747,
+          "lon": 14.5014199
+        },
+        "osm_tags": {
+          "historic": "monument"
+        },
+        "notes": null
       }
     ]
   },
   "practical": {
     "atm_available": true,
-    "atm_count": 1,
-    "medical_facility": false,
-    "cash_only_warning": true,
+    "atm_count": 3,
+    "medical_facility": true,
+    "cash_only_warning": false,
     "day_trip_viable": true,
     "nearby_islands": [
       "Dugi otok",

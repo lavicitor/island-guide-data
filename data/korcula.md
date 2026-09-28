@@ -180,4 +180,4 @@ Korčula is a Croatian island in the Adriatic Sea. It has an area of 279 km2 (1
 - Vrnik
 
 ---
-*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-09-21T11:19:29Z. Coverage: ferry data unavailable.*
+*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-09-28T12:16:48Z. Coverage: ferry data unavailable.*
