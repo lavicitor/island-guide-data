@@ -42,97 +42,40 @@ Silba is an island in Croatia with an area of 15 km2, northern Dalmatia, south-
 - **Unnamed beach** (44.3594, 14.7025)
 - **Unnamed beach** (44.3573, 14.7067)
 - **Unnamed beach** (44.3580, 14.7217)
-- **Unnamed beach** (44.3854, 14.7936)
 - **Unnamed beach** (44.3752, 14.6914)
 - **Unnamed beach** (44.4050, 14.6981)
-- **Plieski** (44.4885, 14.5071)
-- **Balvanida** (44.4920, 14.5045)
-- **Rovenska** (44.5212, 14.5092)
-- **Javorna** (44.5134, 14.5169)
-- **Unnamed beach** (44.2891, 14.7000)
-- **Unnamed beach** (44.3366, 14.5951)
-- **Jamna** (44.5018, 14.5234)
-- **Kriška** (44.5080, 14.5211)
-- **Unnamed beach** (44.5013, 14.4956)
-- **Unnamed beach** (44.4794, 14.5331)
-- **Unnamed beach** (44.4916, 14.5384)
-- **Pećina** (44.4763, 14.5251)
-- **Unnamed beach** (44.4599, 14.5357)
-- **Unnamed beach** (44.4547, 14.5642)
-- **Unnamed beach** (44.4447, 14.5741)
-- **Unnamed beach** (44.4429, 14.5519)
-- **Unnamed beach** (44.4476, 14.5585)
-- **Unnamed beach** (44.4617, 14.5386)
-- **Unnamed beach** (44.3652, 14.7553)
 - **Unnamed beach** (44.3633, 14.6928)
-- **Mavrela** (44.2782, 14.7428)
-- **Unnamed beach** (44.2735, 14.7861)
-- **Podgrad** (44.2740, 14.7839)
-- **Unnamed beach** (44.2296, 14.8326)
-- **Unnamed beach** (44.2380, 14.8384)
-- **Unnamed beach** (44.2383, 14.8394)
-- **Unnamed beach** (44.2455, 14.8274)
-- **Unnamed beach** (44.2451, 14.8274)
 
 ## Food & Drink
 
-- **Unnamed** (Cafe)
-- **Konoba "Maestro"** (Restaurant · regional)
-- **Unnamed** (Restaurant)
-- **Konoba Balvanida** (Restaurant · regional)
-- **Konoba"MOL"** (Restaurant)
-- **Unnamed** (Restaurant)
-- **Grill** (Restaurant)
-- **Bočvica** (Restaurant)
 - **MIK** (Cafe)
 - **Turist** (Restaurant · pizza)
 - **Vila Velebita** (Restaurant)
 - **Mul** (Restaurant)
-- **Leut** (Restaurant)
-- **Restaurant Konoba Grmalj** (Restaurant)
 - **Unnamed** (Restaurant)
-- **Dalmatinka** (Restaurant · regional)
-- **Bora Bar** (Restaurant)
-- **Saturn** (Cafe)
-- **Fortuna** (Restaurant · regional;pizza)
-- **Rovenska** (Cafe)
-- **Amico** (Restaurant · regional;mediterranean)
-- **Eskimo** (Cafe · coffee_shop;ice_cream)
 - **Katrida Silba** (Restaurant)
-- **Unnamed** (Cafe)
-- **Unnamed** (Cafe)
-- **Marina** (Restaurant · regional)
-- **Havanna** (Restaurant)
-- **Oliva** (Restaurant)
-- **Esempio** (Restaurant)
-- **Café Beny** (Cafe)
-- **Café Faro** (Cafe)
-- **Lako Cemo** (Cafe)
-- **Kod Celestina** (Restaurant)
-- **Masarine** (Restaurant)
-- **bistro Sirius** (Restaurant · pizza)
-- **Unnamed** (Restaurant)
 
 ## Practical Information
 
-- **ATM:** 3 available (Erste bank, Euronet)
-- **Medical:** Facility present
-- **Accommodation:** 16 options found (hotels, guesthouses, apartments)
+- **ATM:** 1 available (Euronet)
+  - ⚠ Only one ATM — bring cash as backup
+- **Medical:** No facility found — nearest mainland hospital
+- **Accommodation:** 7 options found (hotels, guesthouses, apartments)
 - **Recommended stay:** 2 nights
 - **Day trip:** Viable by ferry from the mainland
 
 ## Nearby Islands
 
-- Dugi otok
+- Božava
+- Brbinj
+- Brgulje
 - Ilovik
-- Ist
-- Iž
-- Lošinj
+- Kosirača
+- Mala Rava
+- Mali Losinj International
+- Mali Lošinj
+- Mišnjak
 - Molat
-- Olib
-- Pag
-- Premuda
-- Rab
 
 ---
-*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-09-28T12:11:57Z. Coverage: all sources complete.*
+*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-10-05T12:51:49Z. Coverage: all sources complete.*

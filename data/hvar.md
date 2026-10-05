@@ -381,10 +381,11 @@ Hvar is a Croatian island in the Adriatic Sea, located off the Dalmatian coast, 
 - **Pura Vida** (Restaurant · burger;sandwich)
 - **Konoba Dubovica** (Restaurant · fish;seafood)
 - **Elysium** (Restaurant)
+- **Unnamed** (Cafe)
 
 ## Practical Information
 
-- **ATM:** 39 available (PBZ, Banka Splitsko Dalmatinska, Erste Bank, PBZ, Zagrebačka banka, Euronet, OTP Bank, Zagrebačka banka, Euronet, Euronet, Monestiq)
+- **ATM:** 41 available (PBZ, Banka Splitsko Dalmatinska, Erste Bank, PBZ, Zagrebačka banka, Euronet, OTP Bank, Zagrebačka banka, Euronet, Euronet, Monestiq)
 - **Medical:** Ljekarnička Jedinica Hvar, Ljekarna Stari Grad, Dentist Ordinacija Dentalne Medicine, Ljekarna Radonić
 - **Accommodation:** 113 options found (hotels, guesthouses, apartments)
 - **Recommended stay:** 7 nights
@@ -392,16 +393,14 @@ Hvar is a Croatian island in the Adriatic Sea, located off the Dalmatian coast, 
 
 ## Nearby Islands
 
-- Bol
-- Bura Line
-- Dominče (Korčula)
-- Drvenik
-- Gat svetog Duje
-- Katamaran Jelsa
-- Katamaran Vira
+- Badija
+- Brač
 - Korčula
-- Korčula (Old Town)
-- Krilo
+- Lastovo
+- Sveti Klement
+- Vis
+- Vrnik
+- Šolta
 
 ---
-*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-09-28T12:13:52Z. Coverage: all sources complete.*
+*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-10-05T12:53:31Z. Coverage: all sources complete.*

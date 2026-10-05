@@ -2,9 +2,9 @@
   "meta": {
     "island": "Hvar",
     "slug": "hvar",
-    "generated_at": "2026-09-28T12:13:52Z",
+    "generated_at": "2026-10-05T12:53:31Z",
     "data_quality": {
-      "osm_poi_count": 561,
+      "osm_poi_count": 564,
       "ferry_routes_found": 2,
       "weather_months_complete": 12,
       "coverage_warning": null
@@ -128,7 +128,7 @@
         "month": 9,
         "month_name": "September",
         "avg_temp_c": 22.2,
-        "avg_rain_days": 5.5,
+        "avg_rain_days": 5.7,
         "avg_sunshine_hours": 10.5,
         "sea_temp_c": 25.2,
         "peak_season": false
@@ -4625,6 +4625,18 @@
           "website": "https://www.elysiumhvar.com/"
         },
         "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.174685,
+          "lon": 16.4420049
+        },
+        "osm_tags": {
+          "amenity": "cafe",
+          "outdoor_seating": "yes"
+        },
+        "notes": null
       }
     ],
     "atms": [
@@ -4738,7 +4750,8 @@
         },
         "osm_tags": {
           "amenity": "atm",
-          "check_date": "2025-06-28"
+          "check_date": "2025-06-28",
+          "operator": "Monestiq"
         },
         "notes": null
       },
@@ -5145,6 +5158,30 @@
           "amenity": "atm",
           "check_date": "2026-06-15",
           "note": "U konobi stvarno ima bankomat."
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.1727485,
+          "lon": 16.4442725
+        },
+        "osm_tags": {
+          "amenity": "atm",
+          "operator": "Zagrebačka banka"
+        },
+        "notes": null
+      },
+      {
+        "name": null,
+        "coordinates": {
+          "lat": 43.1727705,
+          "lon": 16.4442774
+        },
+        "osm_tags": {
+          "amenity": "atm",
+          "operator": "Erste Bank"
         },
         "notes": null
       }
@@ -6772,7 +6809,7 @@
     ],
     "landmarks": [
       {
-        "name": null,
+        "name": "Hvar",
         "coordinates": {
           "lat": 43.1698819,
           "lon": 16.441044
@@ -7576,21 +7613,19 @@
   },
   "practical": {
     "atm_available": true,
-    "atm_count": 39,
+    "atm_count": 41,
     "medical_facility": true,
     "cash_only_warning": false,
     "day_trip_viable": true,
     "nearby_islands": [
-      "Bol",
-      "Bura Line",
-      "Dominče (Korčula)",
-      "Drvenik",
-      "Gat svetog Duje",
-      "Katamaran Jelsa",
-      "Katamaran Vira",
+      "Badija",
+      "Brač",
       "Korčula",
-      "Korčula (Old Town)",
-      "Krilo"
+      "Lastovo",
+      "Sveti Klement",
+      "Vis",
+      "Vrnik",
+      "Šolta"
     ],
     "recommended_stay_nights": 7
   }
