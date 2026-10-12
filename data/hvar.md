@@ -13,7 +13,7 @@ Hvar is a Croatian island in the Adriatic Sea, located off the Dalmatian coast, 
 
 ## Best Time to Visit
 
-**Best months:** June, September
+**Best months:** June
 **Peak season (busy + hot):** July, August
 
 | Month | Avg Temp | Rain Days | Sunshine (h/day) | Sea Temp |
@@ -26,8 +26,8 @@ Hvar is a Croatian island in the Adriatic Sea, located off the Dalmatian coast, 
 | June | 24.0°C | 4 | 13.5 | 23.1°C |
 | **July** | 26.6°C | 3 | 13.7 | 25.2°C |
 | **August** | 26.2°C | 4 | 12.8 | 26.2°C |
-| September | 22.2°C | 6 | 10.5 | 25.2°C |
-| October | 17.7°C | 8 | 9.1 | 22.1°C |
+| September | 22.2°C | 7 | 10.5 | 25.2°C |
+| October | 17.7°C | 6 | 9.1 | 22.2°C |
 | November | 13.6°C | 14 | 6.5 | 19.5°C |
 | December | 10.6°C | 11 | 6.0 | 17.0°C |
 
@@ -213,7 +213,7 @@ Hvar is a Croatian island in the Adriatic Sea, located off the Dalmatian coast, 
 - **Lem** (Restaurant)
 - **Konoba "Kod komina"** (Restaurant · regional)
 - **Gusarska luka** (Restaurant)
-- **Konoba "Dvori Duboković"** (Restaurant · regional)
+- **Konoba "Dvor Duboković"** (Restaurant · regional)
 - **Terasa Bak** (Restaurant)
 - **Unnamed** (Restaurant)
 - **Juraga** (Restaurant · fish;pizza;seafood)
@@ -382,6 +382,7 @@ Hvar is a Croatian island in the Adriatic Sea, located off the Dalmatian coast, 
 - **Konoba Dubovica** (Restaurant · fish;seafood)
 - **Elysium** (Restaurant)
 - **Unnamed** (Cafe)
+- **Tarantela** (Bar)
 
 ## Practical Information
 
@@ -393,14 +394,16 @@ Hvar is a Croatian island in the Adriatic Sea, located off the Dalmatian coast, 
 
 ## Nearby Islands
 
-- Badija
-- Brač
+- Bol
+- Bura Line
+- Dominče (Korčula)
+- Drvenik
+- Gat svetog Duje
+- Katamaran Jelsa
+- Katamaran Vira
 - Korčula
-- Lastovo
-- Sveti Klement
-- Vis
-- Vrnik
-- Šolta
+- Korčula (Old Town)
+- Krilo
 
 ---
-*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-10-05T12:53:31Z. Coverage: all sources complete.*
+*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-10-12T13:44:45Z. Coverage: all sources complete.*

@@ -2,9 +2,9 @@
   "meta": {
     "island": "Hvar",
     "slug": "hvar",
-    "generated_at": "2026-10-05T12:53:31Z",
+    "generated_at": "2026-10-12T13:44:45Z",
     "data_quality": {
-      "osm_poi_count": 564,
+      "osm_poi_count": 565,
       "ferry_routes_found": 2,
       "weather_months_complete": 12,
       "coverage_warning": null
@@ -128,7 +128,7 @@
         "month": 9,
         "month_name": "September",
         "avg_temp_c": 22.2,
-        "avg_rain_days": 5.7,
+        "avg_rain_days": 6.8,
         "avg_sunshine_hours": 10.5,
         "sea_temp_c": 25.2,
         "peak_season": false
@@ -137,9 +137,9 @@
         "month": 10,
         "month_name": "October",
         "avg_temp_c": 17.7,
-        "avg_rain_days": 7.6,
+        "avg_rain_days": 6.0,
         "avg_sunshine_hours": 9.1,
-        "sea_temp_c": 22.1,
+        "sea_temp_c": 22.2,
         "peak_season": false
       },
       {
@@ -162,8 +162,7 @@
       }
     ],
     "best_months": [
-      "June",
-      "September"
+      "June"
     ],
     "peak_season_months": [
       "July",
@@ -2323,7 +2322,7 @@
         "notes": null
       },
       {
-        "name": "Konoba \"Dvori Duboković\"",
+        "name": "Konoba \"Dvor Duboković\"",
         "coordinates": {
           "lat": 43.1491332,
           "lon": 16.6683178
@@ -4635,6 +4634,17 @@
         "osm_tags": {
           "amenity": "cafe",
           "outdoor_seating": "yes"
+        },
+        "notes": null
+      },
+      {
+        "name": "Tarantela",
+        "coordinates": {
+          "lat": 43.1614089,
+          "lon": 16.6926688
+        },
+        "osm_tags": {
+          "amenity": "bar"
         },
         "notes": null
       }
@@ -7618,14 +7628,16 @@
     "cash_only_warning": false,
     "day_trip_viable": true,
     "nearby_islands": [
-      "Badija",
-      "Brač",
+      "Bol",
+      "Bura Line",
+      "Dominče (Korčula)",
+      "Drvenik",
+      "Gat svetog Duje",
+      "Katamaran Jelsa",
+      "Katamaran Vira",
       "Korčula",
-      "Lastovo",
-      "Sveti Klement",
-      "Vis",
-      "Vrnik",
-      "Šolta"
+      "Korčula (Old Town)",
+      "Krilo"
     ],
     "recommended_stay_nights": 7
   }

@@ -2,7 +2,7 @@
   "meta": {
     "island": "Silba",
     "slug": "silba",
-    "generated_at": "2026-10-05T12:51:49Z",
+    "generated_at": "2026-10-12T13:42:49Z",
     "data_quality": {
       "osm_poi_count": 29,
       "ferry_routes_found": 2,
@@ -128,7 +128,7 @@
         "month": 9,
         "month_name": "September",
         "avg_temp_c": 22.1,
-        "avg_rain_days": 8.3,
+        "avg_rain_days": 10.0,
         "avg_sunshine_hours": 10.3,
         "sea_temp_c": 24.5,
         "peak_season": false
@@ -137,9 +137,9 @@
         "month": 10,
         "month_name": "October",
         "avg_temp_c": 18.3,
-        "avg_rain_days": 8.0,
+        "avg_rain_days": 6.3,
         "avg_sunshine_hours": 8.8,
-        "sea_temp_c": 21.4,
+        "sea_temp_c": 21.6,
         "peak_season": false
       },
       {
@@ -551,16 +551,16 @@
     "cash_only_warning": true,
     "day_trip_viable": true,
     "nearby_islands": [
-      "Božava",
-      "Brbinj",
-      "Brgulje",
+      "Dugi otok",
       "Ilovik",
-      "Kosirača",
-      "Mala Rava",
-      "Mali Losinj International",
-      "Mali Lošinj",
-      "Mišnjak",
-      "Molat"
+      "Ist",
+      "Iž",
+      "Lošinj",
+      "Molat",
+      "Olib",
+      "Pag",
+      "Premuda",
+      "Rab"
     ],
     "recommended_stay_nights": 2
   }

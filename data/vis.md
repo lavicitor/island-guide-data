@@ -12,7 +12,7 @@ Vis is a Croatian island in the Adriatic Sea. Before the end of World War I, the
 
 ## Best Time to Visit
 
-**Best months:** June, July, August, September
+**Best months:** June, July, August
 
 | Month | Avg Temp | Rain Days | Sunshine (h/day) | Sea Temp |
 |-------|----------|-----------|------------------|----------|
@@ -24,8 +24,8 @@ Vis is a Croatian island in the Adriatic Sea. Before the end of World War I, the
 | June | 21.1°C | 4 | 13.5 | 23.3°C |
 | July | 23.6°C | 3 | 13.6 | 26.0°C |
 | August | 23.9°C | 4 | 12.8 | 26.5°C |
-| September | 21.3°C | 5 | 10.7 | 25.0°C |
-| October | 17.7°C | 6 | 9.3 | 21.8°C |
+| September | 21.3°C | 6 | 10.7 | 25.0°C |
+| October | 17.7°C | 5 | 9.3 | 21.9°C |
 | November | 14.2°C | 14 | 6.7 | 19.4°C |
 | December | 11.6°C | 14 | 6.3 | 17.3°C |
 
@@ -160,4 +160,4 @@ Vis is a Croatian island in the Adriatic Sea. Before the end of World War I, the
 - Šolta
 
 ---
-*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-10-05T12:53:45Z. Coverage: all sources complete.*
+*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-10-12T13:46:03Z. Coverage: all sources complete.*
