@@ -27,7 +27,7 @@ Hvar is a Croatian island in the Adriatic Sea, located off the Dalmatian coast, 
 | **July** | 26.6°C | 3 | 13.7 | 25.2°C |
 | **August** | 26.2°C | 4 | 12.8 | 26.2°C |
 | September | 22.2°C | 7 | 10.5 | 25.2°C |
-| October | 17.9°C | 6 | 9.1 | 22.2°C |
+| October | 18.0°C | 6 | 9.1 | 22.2°C |
 | November | 13.6°C | 14 | 6.5 | 19.5°C |
 | December | 10.6°C | 11 | 6.0 | 17.0°C |
 
@@ -348,20 +348,6 @@ Hvar is a Croatian island in the Adriatic Sea, located off the Dalmatian coast, 
 - **Medical:** Ljekarna Stari Grad, Ljekarna Radonić
 - **Accommodation:** 68 options found (hotels, guesthouses, apartments)
 - **Recommended stay:** 7 nights
-- **Day trip:** Viable by ferry from the mainland
-
-## Nearby Islands
-
-- Bol
-- Bura Line
-- Dominče (Korčula)
-- Drvenik
-- Gat svetog Duje
-- Katamaran Jelsa
-- Katamaran Vira
-- Korčula
-- Korčula (Old Town)
-- Krilo
 
 ---
-*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-10-19T11:46:17Z. Coverage: all sources complete.*
+*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-10-26T12:00:10Z. Coverage: all sources complete.*

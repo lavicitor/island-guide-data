@@ -20,7 +20,7 @@ Korčula is a Croatian island in the Adriatic Sea. It has an area of 279 km2 (1
 | **July** | 26.1°C | 3 | 13.7 | 25.9°C |
 | August | 26.0°C | 5 | 12.9 | 26.6°C |
 | September | 21.4°C | 7 | 10.6 | 25.5°C |
-| October | 17.0°C | 7 | 9.3 | 22.3°C |
+| October | 17.1°C | 7 | 9.3 | 22.2°C |
 | November | 12.4°C | 15 | 6.6 | 19.6°C |
 | December | 9.4°C | 13 | 6.2 | 17.2°C |
 
@@ -31,4 +31,4 @@ Korčula is a Croatian island in the Adriatic Sea. It has an area of 279 km2 (1
 - **Recommended stay:** Day trip or 1 night
 
 ---
-*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-10-19T11:50:55Z. Coverage: OSM coverage sparse · ferry data unavailable.*
+*Data sourced from OpenStreetMap, Open-Meteo, Jadrolinija, and Wikipedia. Generated: 2026-10-26T12:05:18Z. Coverage: OSM coverage sparse · ferry data unavailable.*

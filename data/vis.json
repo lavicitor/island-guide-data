@@ -2,12 +2,12 @@
   "meta": {
     "island": "Vis",
     "slug": "vis",
-    "generated_at": "2026-10-19T11:48:35Z",
+    "generated_at": "2026-10-26T12:02:57Z",
     "data_quality": {
       "osm_poi_count": 0,
       "ferry_routes_found": 1,
       "weather_months_complete": 12,
-      "coverage_warning": "OSM: HTTP 502 for https://overpass-api.de/api/interpreter"
+      "coverage_warning": "OSM: The read operation timed out"
     }
   },
   "identity": {
@@ -89,7 +89,7 @@
       {
         "month": 6,
         "month_name": "June",
-        "avg_temp_c": 21.1,
+        "avg_temp_c": 21.2,
         "avg_rain_days": 3.8,
         "avg_sunshine_hours": 13.5,
         "sea_temp_c": 23.3,
@@ -126,9 +126,9 @@
         "month": 10,
         "month_name": "October",
         "avg_temp_c": 17.9,
-        "avg_rain_days": 4.7,
+        "avg_rain_days": 4.8,
         "avg_sunshine_hours": 9.4,
-        "sea_temp_c": 22.0,
+        "sea_temp_c": 21.9,
         "peak_season": false
       },
       {
