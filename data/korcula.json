@@ -2,12 +2,12 @@
   "meta": {
     "island": "Korcula",
     "slug": "korcula",
-    "generated_at": "2026-10-26T12:05:18Z",
+    "generated_at": "2026-11-02T14:26:52Z",
     "data_quality": {
       "osm_poi_count": 0,
       "ferry_routes_found": 0,
-      "weather_months_complete": 12,
-      "coverage_warning": "OSM: HTTP 502 for https://overpass-api.de/api/interpreter; Ferry: No ferry data found from any source"
+      "weather_months_complete": 0,
+      "coverage_warning": "OSM: The read operation timed out; Weather: 503 Server Error: Service Unavailable for url: https://archive-api.open-meteo.com/v1/archive?latitude=42.95&longitude=16.9&start_date=2021-10-28&end_date=2026-10-28&daily=temperature_2m_mean%2Cprecipitation_sum%2Csunshine_duration&timezone=Europe%2FZagreb; Ferry: No ferry data found from any source"
     }
   },
   "identity": {
@@ -28,123 +28,9 @@
     "ferry_routes": []
   },
   "weather": {
-    "monthly": [
-      {
-        "month": 1,
-        "month_name": "January",
-        "avg_temp_c": 8.0,
-        "avg_rain_days": 11.4,
-        "avg_sunshine_hours": 6.5,
-        "sea_temp_c": 15.7,
-        "peak_season": false
-      },
-      {
-        "month": 2,
-        "month_name": "February",
-        "avg_temp_c": 8.6,
-        "avg_rain_days": 11.4,
-        "avg_sunshine_hours": 8.1,
-        "sea_temp_c": 15.1,
-        "peak_season": false
-      },
-      {
-        "month": 3,
-        "month_name": "March",
-        "avg_temp_c": 10.2,
-        "avg_rain_days": 11.6,
-        "avg_sunshine_hours": 9.2,
-        "sea_temp_c": 15.1,
-        "peak_season": false
-      },
-      {
-        "month": 4,
-        "month_name": "April",
-        "avg_temp_c": 13.3,
-        "avg_rain_days": 9.2,
-        "avg_sunshine_hours": 11.0,
-        "sea_temp_c": 16.1,
-        "peak_season": false
-      },
-      {
-        "month": 5,
-        "month_name": "May",
-        "avg_temp_c": 17.9,
-        "avg_rain_days": 9.4,
-        "avg_sunshine_hours": 12.2,
-        "sea_temp_c": 18.8,
-        "peak_season": false
-      },
-      {
-        "month": 6,
-        "month_name": "June",
-        "avg_temp_c": 23.7,
-        "avg_rain_days": 5.0,
-        "avg_sunshine_hours": 13.5,
-        "sea_temp_c": 23.6,
-        "peak_season": false
-      },
-      {
-        "month": 7,
-        "month_name": "July",
-        "avg_temp_c": 26.1,
-        "avg_rain_days": 3.2,
-        "avg_sunshine_hours": 13.7,
-        "sea_temp_c": 25.9,
-        "peak_season": true
-      },
-      {
-        "month": 8,
-        "month_name": "August",
-        "avg_temp_c": 26.0,
-        "avg_rain_days": 5.4,
-        "avg_sunshine_hours": 12.9,
-        "sea_temp_c": 26.6,
-        "peak_season": false
-      },
-      {
-        "month": 9,
-        "month_name": "September",
-        "avg_temp_c": 21.4,
-        "avg_rain_days": 7.4,
-        "avg_sunshine_hours": 10.6,
-        "sea_temp_c": 25.5,
-        "peak_season": false
-      },
-      {
-        "month": 10,
-        "month_name": "October",
-        "avg_temp_c": 17.1,
-        "avg_rain_days": 6.8,
-        "avg_sunshine_hours": 9.3,
-        "sea_temp_c": 22.2,
-        "peak_season": false
-      },
-      {
-        "month": 11,
-        "month_name": "November",
-        "avg_temp_c": 12.4,
-        "avg_rain_days": 14.6,
-        "avg_sunshine_hours": 6.6,
-        "sea_temp_c": 19.6,
-        "peak_season": false
-      },
-      {
-        "month": 12,
-        "month_name": "December",
-        "avg_temp_c": 9.4,
-        "avg_rain_days": 12.8,
-        "avg_sunshine_hours": 6.2,
-        "sea_temp_c": 17.2,
-        "peak_season": false
-      }
-    ],
-    "best_months": [
-      "June",
-      "August"
-    ],
-    "peak_season_months": [
-      "July"
-    ]
+    "monthly": [],
+    "best_months": [],
+    "peak_season_months": []
   },
   "points_of_interest": {
     "beaches": [],
